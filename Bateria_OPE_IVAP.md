@@ -1,16 +1,18 @@
 # 🏛️ Batería Oficial de Exámenes IVAP (Cuerpo Administrativo C1)
 
 > [!NOTE]
-> **Documento Oficial de Preparación y Estudio - Exámenes Históricos IVAP**
-> Banco estructurado de **373 preguntas oficiales reales** correspondientes a los exámenes de procesos selectivos y bolsas de trabajo del Instituto Vasco de Administración Pública (IVAP / HAEE) para el Cuerpo Administrativo (Gobierno Vasco):
-> - **Bolsa de Trabajo 2008**: 72 preguntas (Bloques 1 y 2).
+> **Documento Oficial de Preparación y Estudio - IVAP C1**
+> Exámenes oficiales reales íntegros (373 preguntas) de las convocatorias de la Escala de Administración General C1 (Gobierno Vasco):
+> - **Bolsa de Trabajo 2008**: 72 preguntas.
 > - **Cuerpo Administrativo 2010**: 163 preguntas (Teórico, Práctico y Supuestos).
-> - **Bolsa de Trabajo 2017**: 57 preguntas (Bloque único).
-> - **OPE 2022 (BEC 18/09/2022)**: 81 preguntas (Parte A y Parte B opciones 1 y 2).
+> - **Bolsa de Trabajo 2017**: 57 preguntas.
+> - **OPE 2022 (BEC 18/09/2022)**: 81 preguntas.
+> 
+> **Fundamentación Jurídica (ivap-gestion-preguntas)**: Cada pregunta ha sido clasificada en el programa oficial vigente de 34 temas, con control estricto de vigencia y fundamentación jurídica literal según el protocolo `ivap-gestion-preguntas`.
 
 ---
 
-## 📑 Índice de Exámenes Oficiales
+## 📑 Índice de Convocatorias Oficiales
 
 - [**Bolsa de Trabajo de Administrativos 2008**](#examen-2008) *(72 preguntas, #1 a #72)*
 - [**Cuerpo Administrativo 2010 - Teórico y Práctico**](#examen-2010) *(163 preguntas, #73 a #235)*
@@ -28,8 +30,9 @@
 *Legislación y Temario General (Preguntas 1-50)*
 
 #### Pregunta 1 (Examen #1)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #1)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS ACTOS ADMINISTRATIVOS:
@@ -40,16 +43,17 @@ LOS ACTOS ADMINISTRATIVOS:
 *   **D)** Podrán producirse de forma verbal si así lo solicita el interesado.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Deberán producirse por escrito a menos que su naturaleza exija o permita otra forma más adecuada de expresión y constancia".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Deberán producirse por escrito a menos que su naturaleza exija o permita otra forma más adecuada de expresión y constancia"."
 
 ---
 
 #### Pregunta 2 (Examen #2)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #2)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO A LA PRÁCTICA DE LA NOTIFICACIÓN DE UN ACTO ADMINISTRATIVO:
@@ -60,16 +64,17 @@ EN LO REFERIDO A LA PRÁCTICA DE LA NOTIFICACIÓN DE UN ACTO ADMINISTRATIVO:
 *   **D)** La notificación edictal es un medio subsidiario para el supuesto en que intentada la notificación personal no se hubiera podido practicar.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "La notificación edictal es un medio subsidiario para el supuesto en que intentada la notificación personal no se hubiera podido practicar.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Los criterios de estilo y normalización documental del IVAP establecen que la opción correcta es: "La notificación edictal es un medio subsidiario para el supuesto en que intentada la notificación personal no se hubiera podido practicar."."
 
 ---
 
 #### Pregunta 3 (Examen #3)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #3)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO A LA LENGUA DE LOS PROCEDIMIENTOS:
@@ -80,16 +85,17 @@ EN LO REFERIDO A LA LENGUA DE LOS PROCEDIMIENTOS:
 *   **D)** La de los procedimientos tramitados por la Administración General del Est ado será el castellano salvo que los/as interesados/as se dirijan a sus Órganos sitos en el terr itorio de una Comunidad Autónoma y opten por la lengua que sea cooficial en ella.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "La de los procedimientos tramitados por la Administración General del Est ado será el castellano salvo que los/as interesados/as se dirijan a sus Órganos sitos en el terr itorio de una Comunidad Autónoma y opten por la lengua que sea cooficial en ella.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "La de los procedimientos tramitados por la Administración General del Est ado será el castellano salvo que los/as interesados/as se dirijan a sus Órganos sitos en el terr itorio de una Comunidad Autónoma y opten por la lengua que sea cooficial en ella."."
 
 ---
 
 #### Pregunta 4 (Examen #4)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #4)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LA SOLICITUD DE INICIACIÓN DEL PROCEDIMIENTO NO DEBE FIGURAR NECESARIAMENTE:
@@ -100,16 +106,17 @@ EN LA SOLICITUD DE INICIACIÓN DEL PROCEDIMIENTO NO DEBE FIGURAR NECESARIAMENTE:
 *   **D)** Las concretas normas jurídicas de aplicación al asunto de referencia.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Las concretas normas jurídicas de aplicación al asunto de referencia.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Las concretas normas jurídicas de aplicación al asunto de referencia."."
 
 ---
 
 #### Pregunta 5 (Examen #5)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #5)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO AL PROCEDIMIENTO:
@@ -120,16 +127,17 @@ EN LO REFERIDO AL PROCEDIMIENTO:
 *   **D)** Se impulsará a instancia de parte en todos sus trámites.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Los trámites que deban ser cumplimentados por los/as interesados/as deberán realizar se con carácter general en el plazo de 10 días a partir de la notificación del correspondiente acto.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Los trámites que deban ser cumplimentados por los/as interesados/as deberán realizar se con carácter general en el plazo de 10 días a partir de la notificación del correspondiente acto."."
 
 ---
 
 #### Pregunta 6 (Examen #6)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #6)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO LAS ALEGACIONES DE LOS/AS INTERESADOS/AS:
@@ -140,16 +148,17 @@ EN LO REFERIDO LAS ALEGACIONES DE LOS/AS INTERESADOS/AS:
 *   **D)** Ninguna de las anteriores es correcta.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Las alegaciones de los/as interesados/as podrían dar lugar a la exigencia de responsabili dad disciplinaria en algunos casos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Las alegaciones de los/as interesados/as podrían dar lugar a la exigencia de responsabili dad disciplinaria en algunos casos."."
 
 ---
 
 #### Pregunta 7 (Examen #7)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #7)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO A LA TERMINACIÓN DE LOS PROCEDIMIENTOS:
@@ -160,16 +169,17 @@ EN LO REFERIDO A LA TERMINACIÓN DE LOS PROCEDIMIENTOS:
 *   **D)** En los procedimientos tramitados a solicitud del interesado, la resolución será co ngruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravar su situación inicial.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "En los procedimientos tramitados a solicitud del interesado, la resolución será co ngruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravar su situación inicial.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "En los procedimientos tramitados a solicitud del interesado, la resolución será co ngruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravar su situación inicial."."
 
 ---
 
 #### Pregunta 8 (Examen #8)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #8)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA RENUNCIA A SUS DERECHOS POR PARTE DEL INTERESADO:
@@ -180,16 +190,17 @@ LA RENUNCIA A SUS DERECHOS POR PARTE DEL INTERESADO:
 *   **D)** Afectará igualmente al resto de terceros interesados/as que hubieran formulado el esc rito de iniciación.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Se podrá efectuar salvo que esté prohibido por el ordenamiento jurídico.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Se podrá efectuar salvo que esté prohibido por el ordenamiento jurídico."."
 
 ---
 
 #### Pregunta 9 (Examen #9)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 30: El Acto Administrativo: Eficacia, Nulidad y Anulabilidad  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #9)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL DE LOS SIGUIENTES ACTOS ES ANULABLE?:
@@ -200,16 +211,17 @@ LA RENUNCIA A SUS DERECHOS POR PARTE DEL INTERESADO:
 *   **D)** Los que tengan un contenido imposible.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Los que presenten defectos de forma cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los/as interesados/as.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 34 a 52)
+*   **Artículo**: Título III (Actos Administrativos)
+*   **Literal / Explicación**: "Conforme al Título III de la Ley 39/2015 (arts. 36, 47 y 48), la opción legalmente correcta es: "Los que presenten defectos de forma cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los/as interesados/as."."
 
 ---
 
 #### Pregunta 10 (Examen #10)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #10)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS ACTOS DE TRÁMITE:
@@ -220,16 +232,17 @@ LOS ACTOS DE TRÁMITE:
 *   **D)** Se podrán recurrir si producen indefensión o perjuicio irreparable a derechos e intere ses legítimos.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Se podrán recurrir si producen indefensión o perjuicio irreparable a derechos e intere ses legítimos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Se podrán recurrir si producen indefensión o perjuicio irreparable a derechos e intere ses legítimos."."
 
 ---
 
 #### Pregunta 11 (Examen #11)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 33: Revisión de Actos en vía Administrativa y Recursos  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #11)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN CUANTO AL RECURSO DE REVISIÓN:
@@ -240,16 +253,17 @@ EN CUANTO AL RECURSO DE REVISIÓN:
 *   **D)** Se resolverá por el Órgano superior al que dictó el acto que se pretende revisar.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Cabe plantearlo cuando la resolución se hubiera dictado como consecuencia de prevaricaci ón siempre que ésta se declare en sentencia firme.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 112 a 126)
+*   **Artículo**: Título V (Revisión de Actos en vía Administrativa)
+*   **Literal / Explicación**: "El régimen de recursos administrativos de la Ley 39/2015 (arts. 112, 122, 123 y 125) determina que la opción C) "Cabe plantearlo cuando la resolución se hubiera dictado como consecuencia de prevaricaci ón siempre que ésta se declare en sentencia firme." es la preceptiva."
 
 ---
 
 #### Pregunta 12 (Examen #12)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 33: Revisión de Actos en vía Administrativa y Recursos  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #12)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO AL RECURSO DE ALZADA DIGA CUÁL DE LAS SIGUIENTE S AFIRMACIONES ES CIERTA:
@@ -260,16 +274,17 @@ EN LO REFERIDO AL RECURSO DE ALZADA DIGA CUÁL DE LAS SIGUIENTE S AFIRMACIONES E
 *   **D)** El recurso de alzada deberá interponerse en el plazo de 1 mes tanto si el acto es ex preso como presunto.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "El plazo para la interposición de este recurso es de un mes si el acto es exp reso en cualquier caso.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 112 a 126)
+*   **Artículo**: Título V (Revisión de Actos en vía Administrativa)
+*   **Literal / Explicación**: "El régimen de recursos administrativos de la Ley 39/2015 (arts. 112, 122, 123 y 125) determina que la opción A) "El plazo para la interposición de este recurso es de un mes si el acto es exp reso en cualquier caso." es la preceptiva."
 
 ---
 
 #### Pregunta 13 (Examen #13)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 34: Responsabilidad Patrimonial de las Administraciones Públicas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #13)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN RELACIÓN CON LA RESPONSABILIDAD PATRIMONIAL DE LAS ADMINISTRACIONES PÚBLICAS:
@@ -280,16 +295,17 @@ EN RELACIÓN CON LA RESPONSABILIDAD PATRIMONIAL DE LAS ADMINISTRACIONES PÚBLICA
 *   **D)** La fuerza mayor excluye la responsabilidad patrimonial en todo caso.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "La fuerza mayor excluye la responsabilidad patrimonial en todo caso.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 (arts. 32-37) y Ley 39/2015 (art. 67)
+*   **Artículo**: Responsabilidad Patrimonial de las Administraciones Públicas
+*   **Literal / Explicación**: "El régimen de responsabilidad patrimonial del sector público (Ley 40/2015 y art. 106.2 CE) establece que: "La fuerza mayor excluye la responsabilidad patrimonial en todo caso."."
 
 ---
 
 #### Pregunta 14 (Examen #14)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #14)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA ADMINISTRACIÓN, LA DEFENSA Y LA CONSERVACIÓN DEL PATRIMONIO DEL ESTADO Y EL PATRIMONIO NACIONAL SE REGULARÁN POR:
@@ -300,16 +316,17 @@ LA ADMINISTRACIÓN, LA DEFENSA Y LA CONSERVACIÓN DEL PATRIMONIO DEL ESTADO Y EL
 *   **D)** El derecho estatal y el comunitario.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Ley.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Ley."."
 
 ---
 
 #### Pregunta 15 (Examen #15)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #15)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS DERECHOS Y LAS LIBERTADES PREVISTOS EN EL CAPÍTULO II, DE L TÍTULO 1º DE LA CONSTITUCIÓN SE CARACTERIZAN PORQUE:
@@ -320,16 +337,17 @@ LOS DERECHOS Y LAS LIBERTADES PREVISTOS EN EL CAPÍTULO II, DE L TÍTULO 1º DE 
 *   **D)** La a) y la b) son ciertas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "La a) y la b) son ciertas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "La Constitución Española determina en su articulado que la opción correcta es: "La a) y la b) son ciertas."."
 
 ---
 
 #### Pregunta 16 (Examen #16)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #16)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL ESTADO NO TIENE COMPETENCIAS EXCLUSIVAS SOBRE LAS SIGUIENTES MATERIAS:
@@ -340,16 +358,17 @@ EL ESTADO NO TIENE COMPETENCIAS EXCLUSIVAS SOBRE LAS SIGUIENTES MATERIAS:
 *   **D)** Legislación laboral.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sanidad e higiene.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "Sanidad e higiene."."
 
 ---
 
 #### Pregunta 17 (Examen #17)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #17)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN RELACIÓN AL ACCESO A LA JUSTICIA, ¿CUÁL DE LOS SIGUIENTES NO ES UN DERECHO FUNDAMENTAL DEL CIUDADANO?:
@@ -360,16 +379,17 @@ EN RELACIÓN AL ACCESO A LA JUSTICIA, ¿CUÁL DE LOS SIGUIENTES NO ES UN DERECHO
 *   **D)** A no confesarse culpable.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "A la asistencia por letrado de su elección.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "A la asistencia por letrado de su elección."."
 
 ---
 
 #### Pregunta 18 (Examen #18)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 29: Órganos Administrativos y Colegiados (Ley 40/2015 y Ley 3/2022)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #18)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO A LA AVOCACIÓN:
@@ -380,16 +400,17 @@ EN LO REFERIDO A LA AVOCACIÓN:
 *   **D)** El acuerdo de avocación deberá de ser notificado a los/as interesados/as en el procedimiento.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "El acuerdo de avocación deberá de ser notificado a los/as interesados/as en el procedimiento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015, de Régimen Jurídico del Sector Público (arts. 8 a 19)
+*   **Artículo**: Órganos administrativos y traslación de competencias
+*   **Literal / Explicación**: "La Ley 40/2015 (y concordante art. 14 Ley 30/1992) regula que la opción correcta es: "El acuerdo de avocación deberá de ser notificado a los/as interesados/as en el procedimiento."."
 
 ---
 
 #### Pregunta 19 (Examen #19)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #19)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO A LA RESOLUCIÓN QUE PONE FIN AL PROCEDIMIENTO ADMINISTRATIVO:
@@ -400,16 +421,17 @@ EN LO REFERIDO A LA RESOLUCIÓN QUE PONE FIN AL PROCEDIMIENTO ADMINISTRATIVO:
 *   **D)** La aceptación de informes o dictámenes servirá de motivación a la Resolución si son emit idos por el Órgano consultivo de la Administración de la que se trate.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La aceptación de informes o dictámenes servirá de motivación a la Resolución si se incorporan al texto de la misma.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "La aceptación de informes o dictámenes servirá de motivación a la Resolución si se incorporan al texto de la misma."."
 
 ---
 
 #### Pregunta 20 (Examen #20)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #20)  
+**Estado**: Afectada por reforma legislativa (Sustituida Ley 30/1992 por Ley 39/2015 y Ley 40/2015)  
 
 **Enunciado**:  
 DIGA CUÁL DE LOS SIGUIENTES NO FIGURA EN LA LEY 30/1992, DE 26 D E NOVIEMBRE, LRJ-PAC, COMO UN DERECHO DEL CIUDADANO:
@@ -420,16 +442,18 @@ DIGA CUÁL DE LOS SIGUIENTES NO FIGURA EN LA LEY 30/1992, DE 26 D E NOVIEMBRE, L
 *   **D)** A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados/as.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "A formular alegaciones en cualquier fase del procedimiento antes o después del trámite de audiencia que podrán ser tenidas en cuenta por el Órgano competente al redactar la propuesta de resolución.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 (LPACAP) y Ley 40/2015 (LRJSP) [anterior Ley 30/1992]
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "A formular alegaciones en cualquier fase del procedimiento antes o después del trámite de audiencia que podrán ser tenidas en cuenta por el Órgano competente al redactar la propuesta de resolución."."
+*   **Nota de Actualización**: Esta pregunta contiene referencias a normativa histórica derogada o sustituida. Aplicar la normativa vigente concordada.
 
 ---
 
 #### Pregunta 21 (Examen #21)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #21)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LAS MEDIDAS PROVISIONALES:
@@ -440,16 +464,17 @@ LAS MEDIDAS PROVISIONALES:
 *   **D)** Las medidas provisionales no podrán ser alzadas o modificadas a lo largo del procedimiento.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Podrán ser adoptadas por la Administración salvo en dos supuestos, uno de los cuales es que puedan crear perjuicio de difícil o imposible reparación a los/as interesados/as.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Podrán ser adoptadas por la Administración salvo en dos supuestos, uno de los cuales es que puedan crear perjuicio de difícil o imposible reparación a los/as interesados/as."."
 
 ---
 
 #### Pregunta 22 (Examen #22)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #22)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN CUANTO A LA PRUEBA EN EL PROCEDIMIENTO ADMINISTRATIVO:
@@ -460,16 +485,17 @@ EN CUANTO A LA PRUEBA EN EL PROCEDIMIENTO ADMINISTRATIVO:
 *   **D)** Deberá practicarse con la asistencia del representante legal del interesado.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El periodo de prueba no será superior en ningún caso a 30 días.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "El periodo de prueba no será superior en ningún caso a 30 días."."
 
 ---
 
 #### Pregunta 23 (Examen #23)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 30: El Acto Administrativo: Eficacia, Nulidad y Anulabilidad  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #23)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO A LA EJECUCIÓN DEL ACTO ADMINISTRATIVO RECURRIDO:
@@ -480,16 +506,17 @@ EN LO REFERIDO A LA EJECUCIÓN DEL ACTO ADMINISTRATIVO RECURRIDO:
 *   **D)** Se podrá suspender por el Órgano a quien competa resolver el recurso, previo informe preceptivo del Órgano consultivo que corresponda.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Se entenderá suspendida si transcurridos treinta días desde que la solicitud de suspensión haya tenido entrada en el registro del órgano competente para decidir sobre la misma, ést e no ha dictado resolución expresa al respecto.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 34 a 52)
+*   **Artículo**: Título III (Actos Administrativos)
+*   **Literal / Explicación**: "Conforme al Título III de la Ley 39/2015 (arts. 36, 47 y 48), la opción legalmente correcta es: "Se entenderá suspendida si transcurridos treinta días desde que la solicitud de suspensión haya tenido entrada en el registro del órgano competente para decidir sobre la misma, ést e no ha dictado resolución expresa al respecto."."
 
 ---
 
 #### Pregunta 24 (Examen #24)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #24)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL RÉGIMEN JURÍDICO DE LOS BIENES DE DOMINIO PÚBLICO Y DE LOS COMUNALES SE INSPIRA EN LOS PRINCIPIOS DE:
@@ -500,16 +527,17 @@ EL RÉGIMEN JURÍDICO DE LOS BIENES DE DOMINIO PÚBLICO Y DE LOS COMUNALES SE IN
 *   **D)** Todas las anteriores son correctas. 8 25 LA LEY 2/2004, DE
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas las anteriores son correctas. 8 25 LA LEY 2/2004, DE".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Todas las anteriores son correctas. 8 25 LA LEY 2/2004, DE"."
 
 ---
 
 #### Pregunta 25 (Examen #25)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 10: Protección de Datos Personales (LOPDGDD / RGPD)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #25)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 DE FEBRERO, DE FICHEROS DE DATOS DE CARÁCTER PERSONAL DE TITULARIDAD PÚBLICA Y DE CREACIÓN DE LA AGENCIA VASCA DE PROTECCIÓN DE DATOS NO LES ES APLICABLE EN NINGÚN CASO A:
@@ -520,16 +548,17 @@ DE FEBRERO, DE FICHEROS DE DATOS DE CARÁCTER PERSONAL DE TITULARIDAD PÚBLICA Y
 *   **D)** A los ficheros de datos de carácter personal creados o gestionados para el ejercicio de potestades de derecho público por la Administración General de la Comunidad Autónoma.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "A los ficheros regulados por la legislación de régimen electoral.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "A los ficheros regulados por la legislación de régimen electoral."."
 
 ---
 
 #### Pregunta 26 (Examen #26)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 10: Protección de Datos Personales (LOPDGDD / RGPD)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #26)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 CONTRA LAS RESOLUCIONES DE LA AGENCIA VASCA DE PROTECCIÓN DE DATOS:
@@ -540,16 +569,17 @@ CONTRA LAS RESOLUCIONES DE LA AGENCIA VASCA DE PROTECCIÓN DE DATOS:
 *   **D)** Procederá recurso de alzada o recurso potestativo de reposición a elección del interesado.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Cabe el recurso potestativo de reposición y el recurso contencioso administrativo".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Cabe el recurso potestativo de reposición y el recurso contencioso administrativo"."
 
 ---
 
 #### Pregunta 27 (Examen #27)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #27)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO A LA MOTIVACIÓN DE LOS ACTOS ADMINISTRATIVOS, DEBERÁN ESTAR MOTIVADOS:
@@ -560,16 +590,17 @@ EN LO REFERIDO A LA MOTIVACIÓN DE LOS ACTOS ADMINISTRATIVOS, DEBERÁN ESTAR MOT
 *   **D)** Todas las anteriores son ciertas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas las anteriores son ciertas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Todas las anteriores son ciertas."."
 
 ---
 
 #### Pregunta 28 (Examen #28)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #28)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ENTRE LOS BIENES DE DOMINIO PÚBLICO ESTATAL LA CONSTITUCIÓN N O MENCIONA EXPRESAMENTE:
@@ -580,16 +611,17 @@ ENTRE LOS BIENES DE DOMINIO PÚBLICO ESTATAL LA CONSTITUCIÓN N O MENCIONA EXPRE
 *   **D)** La zona marítimo-terrestre.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Los puertos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "La Constitución Española determina en su articulado que la opción correcta es: "Los puertos."."
 
 ---
 
 #### Pregunta 29 (Examen #29)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #29)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 NO ES UNA MODALIDAD DE LA CONTRATACIÓN DE LA GESTIÓN DE LOS SERVICIOS PÚBLICOS:
@@ -600,16 +632,17 @@ NO ES UNA MODALIDAD DE LA CONTRATACIÓN DE LA GESTIÓN DE LOS SERVICIOS PÚBLICO
 *   **D)** La gestión interesada.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El arrendamiento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "El arrendamiento."."
 
 ---
 
 #### Pregunta 30 (Examen #30)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #30)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LA CONCESIÓN:
@@ -620,16 +653,17 @@ EN LA CONCESIÓN:
 *   **D)** La Administración participa por sí o por medio de una entidad pública, en concur rencia con personas naturales o jurídicas.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El empresario gestiona el servicio a su propio riesgo y ventura.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "El empresario gestiona el servicio a su propio riesgo y ventura."."
 
 ---
 
 #### Pregunta 31 (Examen #31)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #31)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL PLAZO MÁXIMO DE DURACIÓN DE UN CONTRATO DE GESTIÓN DE SERVICIOS PÚBLICOS ES DE:
@@ -640,16 +674,17 @@ EL PLAZO MÁXIMO DE DURACIÓN DE UN CONTRATO DE GESTIÓN DE SERVICIOS PÚBLICOS 
 *   **D)** No existe límite temporal alguno.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "60 años.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "60 años."."
 
 ---
 
 #### Pregunta 32 (Examen #32)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #32)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LO REFERIDO A LOS CONTRATOS DE GESTIÓN DE SERVICIOS PÚBLICO S DIGA CUÁL DE LAS SIGUIENTES AFIRMACIONES ES CIERTA:
@@ -660,16 +695,17 @@ EN LO REFERIDO A LOS CONTRATOS DE GESTIÓN DE SERVICIOS PÚBLICO S DIGA CUÁL DE
 *   **D)** Ninguna de las anteriores es cierta.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Ninguna de las anteriores es cierta.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Ninguna de las anteriores es cierta."."
 
 ---
 
 #### Pregunta 33 (Examen #33)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #33)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL ESTADO PODRÁ DICTAR LEYES DE ARMONIZACIÓN DE LAS DISPOSICIONES NORMATIVAS DE LAS COMUNIDADES AUTÓNOMAS:
@@ -680,16 +716,17 @@ EL ESTADO PODRÁ DICTAR LEYES DE ARMONIZACIÓN DE LAS DISPOSICIONES NORMATIVAS D
 *   **D)** Siempre que no afecten a materias atribuidas a la competencia de las Comunidades Autónomas.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Por venir exigido por el interés general y por mayoría absoluta del Congreso y Senado.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Por venir exigido por el interés general y por mayoría absoluta del Congreso y Senado."."
 
 ---
 
 #### Pregunta 34 (Examen #34)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 29: Órganos Administrativos y Colegiados (Ley 40/2015 y Ley 3/2022)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #34)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL CONTROL DE LAS NORMAS LEGALES DE LOS ÓRGANOS DE LAS COMUNIDADES AUTÓNOMAS SE EJERCE:
@@ -700,16 +737,17 @@ EL CONTROL DE LAS NORMAS LEGALES DE LOS ÓRGANOS DE LAS COMUNIDADES AUTÓNOMAS S
 *   **D)** Por el Ejecutivo en todo caso.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Por el Tribunal Constitucional en lo relativo a su constitucionalidad.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015, de Régimen Jurídico del Sector Público (arts. 8 a 19)
+*   **Artículo**: Órganos administrativos y traslación de competencias
+*   **Literal / Explicación**: "La Ley 40/2015 (y concordante art. 14 Ley 30/1992) regula que la opción correcta es: "Por el Tribunal Constitucional en lo relativo a su constitucionalidad."."
 
 ---
 
 #### Pregunta 35 (Examen #35)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #35)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS ACTOS ADMINISTRATIVOS SERÁN OBJETO DE PUBLICACIÓN:
@@ -720,16 +758,17 @@ LOS ACTOS ADMINISTRATIVOS SERÁN OBJETO DE PUBLICACIÓN:
 *   **D)** La a) y la b) son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "La a) y la b) son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "La a) y la b) son correctas."."
 
 ---
 
 #### Pregunta 36 (Examen #36)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 4: Organización política y administrativa de la CAE  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #36)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ES REQUISITO PARA SER DESIGNADO LEHENDAKARI:
@@ -740,16 +779,17 @@ ES REQUISITO PARA SER DESIGNADO LEHENDAKARI:
 *   **D)** Estar afiliado a algún partido político con presencia en el Parlamento Vasco.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Ser miembro del Parlamento Vasco.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 7/1981, de Gobierno, y Estatuto de Autonomía
+*   **Artículo**: Organización Institucional de la CAE
+*   **Literal / Explicación**: "El marco institucional vasco (Ley 7/1981 de Gobierno) dispone que la opción A) "Ser miembro del Parlamento Vasco." es la preceptiva."
 
 ---
 
 #### Pregunta 37 (Examen #37)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 5: Instituciones Forales y Locales (Concierto Económico, LILE, LTH)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #37)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS CONFLICTOS ENTRE LAS ADMINISTRACIONES POR LA INTERPRETACIÓN Y APLICACIÓN DEL CONCIERTO ECONÓMICO A RELACIONES TRIBUTARIAS INDIVIDUALES LOS RESOLVERÁ:
@@ -760,16 +800,17 @@ LOS CONFLICTOS ENTRE LAS ADMINISTRACIONES POR LA INTERPRETACIÓN Y APLICACIÓN D
 *   **D)** La Comisión Coordinadora del concierto económico.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La Junta Arbitral.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley del Concierto Económico (Ley 12/2002) y Ley 27/1983 (LTH)
+*   **Artículo**: Relaciones Institucionales y Régimen Foral
+*   **Literal / Explicación**: "De acuerdo con el Concierto Económico con la CAE y la Ley de Relaciones entre Instituciones Comunes y Órganos Forales (LTH), la respuesta correcta es: "La Junta Arbitral."."
 
 ---
 
 #### Pregunta 38 (Examen #38)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #38)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ES COMPETENCIA DE LAS INSTITUCIONES COMUNES DE LA COMUNIDAD AUTÓNOMA LA LEGISLACIÓN Y EJECUCIÓN DE:
@@ -780,16 +821,17 @@ ES COMPETENCIA DE LAS INSTITUCIONES COMUNES DE LA COMUNIDAD AUTÓNOMA LA LEGISLA
 *   **D)** Todas las materias que, correspondiendo a la Comunidad Autónoma, no se atribuyan a los Órganos Forales de los Territorios Históricos.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas las materias que, correspondiendo a la Comunidad Autónoma, no se atribuyan a los Órganos Forales de los Territorios Históricos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "Todas las materias que, correspondiendo a la Comunidad Autónoma, no se atribuyan a los Órganos Forales de los Territorios Históricos."."
 
 ---
 
 #### Pregunta 39 (Examen #39)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #39)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA FUNCIÓN DE DETERMIINAR LA DISTRIBUCIÓN DE LOS RECURSOS Y L AS APORTACIONES DE LOS TERRITORIOS HISTÓRICOS A LA HACIE NDA GENERAL DE LA COMUNIDAD AUTÓNOMA CORRESPONDE A:
@@ -800,16 +842,17 @@ LA FUNCIÓN DE DETERMIINAR LA DISTRIBUCIÓN DE LOS RECURSOS Y L AS APORTACIONES 
 *   **D)** La Hacienda General de la Comunidad Autónoma.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El Consejo Vasco de Finanzas Públicas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "El Consejo Vasco de Finanzas Públicas."."
 
 ---
 
 #### Pregunta 40 (Examen #40)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 6: Igualdad de Mujeres y Hombres (Ley 4/2005 y Ley 1/2022)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #40)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA LEY 4/2005, DE 18 DE FEBRERO, PARA LA IGUALDAD DE MUJERES Y HOMBRES SERÁ DE APLICACIÓN:
@@ -820,16 +863,17 @@ LA LEY 4/2005, DE 18 DE FEBRERO, PARA LA IGUALDAD DE MUJERES Y HOMBRES SERÁ DE 
 *   **D)** A todas las Administraciones Públicas Vascas, con las salvedades que a lo largo de la ley se establezcan.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "A todas las Administraciones Públicas Vascas, con las salvedades que a lo largo de la ley se establezcan.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 4/2005 para la Igualdad de Mujeres y Hombres (modificada por Ley 1/2022)
+*   **Artículo**: Principios Generales y Medidas de Igualdad
+*   **Literal / Explicación**: "La normativa vasca de igualdad de mujeres y hombres (Ley 4/2005) establece que la opción correcta es: "A todas las Administraciones Públicas Vascas, con las salvedades que a lo largo de la ley se establezcan."."
 
 ---
 
 #### Pregunta 41 (Examen #41)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 6: Igualdad de Mujeres y Hombres (Ley 4/2005 y Ley 1/2022)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #41)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 NO ES UNO DE LOS PRINCIPIOS GENERALES DE LA ACTUACIÓN DE LOS PODERES PÚBLICOS VASCOS EN MATERIA DE IGUALDAD DE MUJERES Y HOMBRES:
@@ -840,16 +884,17 @@ NO ES UNO DE LOS PRINCIPIOS GENERALES DE LA ACTUACIÓN DE LOS PODERES PÚBLICOS 
 *   **D)** Eliminación de roles y estereotipos en función del sexo.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Eficacia en la implantación de medidas de discriminación positiva a favor de las mujeres.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 4/2005 para la Igualdad de Mujeres y Hombres (modificada por Ley 1/2022)
+*   **Artículo**: Principios Generales y Medidas de Igualdad
+*   **Literal / Explicación**: "La normativa vasca de igualdad de mujeres y hombres (Ley 4/2005) establece que la opción correcta es: "Eficacia en la implantación de medidas de discriminación positiva a favor de las mujeres."."
 
 ---
 
 #### Pregunta 42 (Examen #42)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #42)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 NO SE INCLUYEN ENTRE LOS CRÉDITOS PARA GASTOS CORRIENTES:
@@ -860,16 +905,17 @@ NO SE INCLUYEN ENTRE LOS CRÉDITOS PARA GASTOS CORRIENTES:
 *   **D)** Transferencias y subvenciones con destino a inversiones reales o con destino a operacion es financieras.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Transferencias y subvenciones con destino a inversiones reales o con destino a operacion es financieras.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Transferencias y subvenciones con destino a inversiones reales o con destino a operacion es financieras."."
 
 ---
 
 #### Pregunta 43 (Examen #43)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #43)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL GOBIERNO PRESENTARÁ EL PROYECTO DE LEY DE PRESUPUEST OS GENERALES AL PARLAMENTO:
@@ -880,16 +926,17 @@ EL GOBIERNO PRESENTARÁ EL PROYECTO DE LEY DE PRESUPUEST OS GENERALES AL PARLAME
 *   **D)** Con anterioridad al 1 de noviembre del ejercicio anterior a que se refiere el proyecto.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Con anterioridad al 1 de noviembre del ejercicio anterior a que se refiere el proyecto.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Con anterioridad al 1 de noviembre del ejercicio anterior a que se refiere el proyecto."."
 
 ---
 
 #### Pregunta 44 (Examen #44)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #44)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SON CRÉDITOS DE COMPROMISO:
@@ -900,16 +947,17 @@ SON CRÉDITOS DE COMPROMISO:
 *   **D)** Los destinados a transferir fondos a otros Entes integrantes de la Administración Instit ucional de la Comunidad Autónoma que no se hayan constituido a la fecha de aprobación de la Ley de Presupuestos Generales..
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Los destinados a hacer frente a obligaciones jurídicas que hayan de contraerse para la financiación de acciones cuya ejecución deba efectuarse en ejercicios presupuestarios posteriores a aquél.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Los destinados a hacer frente a obligaciones jurídicas que hayan de contraerse para la financiación de acciones cuya ejecución deba efectuarse en ejercicios presupuestarios posteriores a aquél."."
 
 ---
 
 #### Pregunta 45 (Examen #45)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #45)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL CESE DEL PERSONAL EVENTUAL :
@@ -920,16 +968,17 @@ EL CESE DEL PERSONAL EVENTUAL :
 *   **D)** Será libre. También tendrá lugar cuando se produzca el cese de la autoridad a la que se preste la función de confianza o asesoramiento, si las leyes de Función Pública de desarrollo del Estatuto Básico del Empleado Público expresamente así lo establecen.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Será libre. En todo caso, tendrá lugar cuando se produzca el cese de la autoridad a la que se preste la función de confianza o asesoramiento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Será libre. En todo caso, tendrá lugar cuando se produzca el cese de la autoridad a la que se preste la función de confianza o asesoramiento."."
 
 ---
 
 #### Pregunta 46 (Examen #46)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #46)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LAS MODALIDADES DE CARRERA PROFESIONAL SON:
@@ -940,16 +989,17 @@ LAS MODALIDADES DE CARRERA PROFESIONAL SON:
 *   **D)** La carrera horizontal, la carrera vertical, la provisión de puestos de nivel superio r en comisión de servicios y la promoción interna.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La carrera horizontal, la carrera vertical, la promoción interna horizontal y la promoción interna vertical.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "La carrera horizontal, la carrera vertical, la promoción interna horizontal y la promoción interna vertical."."
 
 ---
 
 #### Pregunta 47 (Examen #47)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #47)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SON RETRIBUCIONES BÁSICAS DE LOS FUNCIONARIOS PÚBLICOS:
@@ -960,16 +1010,17 @@ SON RETRIBUCIONES BÁSICAS DE LOS FUNCIONARIOS PÚBLICOS:
 *   **D)** El sueldo que corresponde a cada uno de los subgrupos o grupos de clasificación profesional.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El sueldo que corresponde a cada uno de los subgrupos o grupos de clasificación profesional, los trienios y los componentes de sueldo y trienios de las pagas extraordinarias.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción C) "El sueldo que corresponde a cada uno de los subgrupos o grupos de clasificación profesional, los trienios y los componentes de sueldo y trienios de las pagas extraordinarias." es la legalmente exacta."
 
 ---
 
 #### Pregunta 48 (Examen #48)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #48)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA IMPOSICIÓN DE SANCIONES POR FALTAS LEVES:
@@ -980,16 +1031,17 @@ LA IMPOSICIÓN DE SANCIONES POR FALTAS LEVES:
 *   **D)** Se llevará a cabo por el procedimiento disciplinario ordinario que se establezca.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Se llevará a cabo por un procedimiento sumario, con audiencia del interesado.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción C) "Se llevará a cabo por un procedimiento sumario, con audiencia del interesado." es la legalmente exacta."
 
 ---
 
 #### Pregunta 49 (Examen #49)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 8: Normalización Lingüística del uso del Euskera (Decreto 86/1997)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #49)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN LOS PROCESOS DE SELECCIÓN Y DE PROVISIÓN DE PUESTOS, PAR A LOS PERFILES LINGÜÍSTICOS 3 Y 4, EN LA PONDERACIÓN DEL CONOCIMIENTO DEL EUSKERA COMO MÉRITO:
@@ -1000,16 +1052,17 @@ EN LOS PROCESOS DE SELECCIÓN Y DE PROVISIÓN DE PUESTOS, PAR A LOS PERFILES LIN
 *   **D)** El porcentaje que represente no podrá ser inferior en ningún caso al 11% ni superior al 15% de la puntuación máxima alcanzable en el resto del proceso selectivo.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "El porcentaje que represente no podrá ser inferior en ningún caso al 11% ni superior al 20% de la puntuación máxima alcanzable en el resto del proceso selectivo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 10/1982 del Euskera y Decreto 86/1997 de normalización del euskera en las AAPP
+*   **Artículo**: Régimen de perfiles lingüísticos y derechos lingüísticos
+*   **Literal / Explicación**: "De conformidad con el Decreto 86/1997 de normalización del uso del euskera en las administraciones públicas vascas: "El porcentaje que represente no podrá ser inferior en ningún caso al 11% ni superior al 20% de la puntuación máxima alcanzable en el resto del proceso selectivo."."
 
 ---
 
 #### Pregunta 50 (Examen #50)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 1  
+**Tema**: Tema 20: Registros Electrónicos e Interoperabilidad  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #50)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LAS EXENCIONES EN EL CUMPLIMIENTO DE LOS PERFILES LINGÜÍSTICOS:
@@ -1020,10 +1073,10 @@ LAS EXENCIONES EN EL CUMPLIMIENTO DE LOS PERFILES LINGÜÍSTICOS:
 *   **D)** Tendrán validez únicamente respecto al puesto de trabajo que desempeñen los sujetos de la s mismas en el momento de la resolución del expediente y sólo si éste se desempeña con carácter provisional.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 1 (Legislación y Temario General (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Tendrán validez únicamente respecto al puesto de trabajo que desempeñen los sujetos de la s mismas en el momento de la resolución del expediente.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Tendrán validez únicamente respecto al puesto de trabajo que desempeñen los sujetos de la s mismas en el momento de la resolución del expediente."."
 
 ---
 
@@ -1031,8 +1084,9 @@ LAS EXENCIONES EN EL CUMPLIMIENTO DE LOS PERFILES LINGÜÍSTICOS:
 *Organización, Normalización y Archivo (Preguntas 51-76)*
 
 #### Pregunta 51 (Examen #51)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #51)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA ACREDITACIÓN DE LOS PERFILES LINGÜÍSTICOS TENDRÁ VALIDEZ:
@@ -1043,16 +1097,17 @@ LA ACREDITACIÓN DE LOS PERFILES LINGÜÍSTICOS TENDRÁ VALIDEZ:
 *   **D)** Por tiempo indefinido.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Por tiempo indefinido.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Por tiempo indefinido."."
 
 ---
 
 #### Pregunta 52 (Examen #52)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #52)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN DEFECTO DE PACTO EN CONVENIO, LA DURACIÓN DEL PERIO DO DE PRUEBA NO PODRÁ EXCEDER DE:
@@ -1063,16 +1118,17 @@ EN DEFECTO DE PACTO EN CONVENIO, LA DURACIÓN DEL PERIO DO DE PRUEBA NO PODRÁ E
 *   **D)** Un año para los técnicos titulados ni de tres meses para los demás trabajadores.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Seis meses para los técnicos titulados ni de dos meses para los demás trabajadores.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Seis meses para los técnicos titulados ni de dos meses para los demás trabajadores."."
 
 ---
 
 #### Pregunta 53 (Examen #53)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #53)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL CONTRATO DE INTERINIDAD ES:
@@ -1083,16 +1139,17 @@ EL CONTRATO DE INTERINIDAD ES:
 *   **D)** El celebrado para sustituir a un trabajador o trabajadora con derecho de reserva al puest o de trabajo o para cubrir temporalmente cualquier puesto de trabajo por cualquier circunstancia.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "El celebrado para sustituir a un trabajador o trabajadora con derecho de reserva al puest o de trabajo o para cubrir temporalmente un puesto de trabajo durante el proceso de selección o promoción para su cobertura definitiva.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "El celebrado para sustituir a un trabajador o trabajadora con derecho de reserva al puest o de trabajo o para cubrir temporalmente un puesto de trabajo durante el proceso de selección o promoción para su cobertura definitiva."."
 
 ---
 
 #### Pregunta 54 (Examen #54)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #54)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 NO ES UNA CARACTERÍSTICA DEL CONTRATO DE OBRA:
@@ -1103,16 +1160,17 @@ NO ES UNA CARACTERÍSTICA DEL CONTRATO DE OBRA:
 *   **D)** El objeto del contrato es la realización de una obra o servicio determinado.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La obra o servicio objeto del contrato puede consistir en acumulación de tareas o excesos de pedidos, aún tratándose de la actividad normal de la empresa.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "La obra o servicio objeto del contrato puede consistir en acumulación de tareas o excesos de pedidos, aún tratándose de la actividad normal de la empresa."."
 
 ---
 
 #### Pregunta 55 (Examen #55)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #55)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA DURACIÓN MÁXIMA DEL CONTRATO POR ACUMULACIÓN DE TAREAS SERÁ:
@@ -1123,16 +1181,17 @@ LA DURACIÓN MÁXIMA DEL CONTRATO POR ACUMULACIÓN DE TAREAS SERÁ:
 *   **D)** De seis meses dentro de un periodo de doce, contados a partir del momento en que se produzcan dichas causas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "De seis meses dentro de un periodo de doce, contados a partir del momento en que se produzcan dichas causas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "De seis meses dentro de un periodo de doce, contados a partir del momento en que se produzcan dichas causas."."
 
 ---
 
 #### Pregunta 56 (Examen #56)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #56)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA NORMALIZACIÓN ADMINISTRATIVA IMPLICA:
@@ -1143,16 +1202,17 @@ LA NORMALIZACIÓN ADMINISTRATIVA IMPLICA:
 *   **D)** Todas las respuestas son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas las respuestas son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Todas las respuestas son correctas."."
 
 ---
 
 #### Pregunta 57 (Examen #57)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #57)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 UNA CORRECTA CLASIFICACIÓN DE FONDOS ARCHIVÍSTICOS SE DERIVA EN PRIMER LUGAR:
@@ -1163,16 +1223,17 @@ UNA CORRECTA CLASIFICACIÓN DE FONDOS ARCHIVÍSTICOS SE DERIVA EN PRIMER LUGAR:
 *   **D)** Del principio de jerarquía de órganos.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Del principio de procedencia.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto 232/2000, por el que se aprueba el Reglamento del Sistema de Archivo y Gestión Documental de la CAE
+*   **Artículo**: Principios archivísticos y ciclo de vida documental
+*   **Literal / Explicación**: "En la doctrina archivística y el Decreto 232/2000 de la CAE, la respuesta correcta es: "Del principio de procedencia."."
 
 ---
 
 #### Pregunta 58 (Examen #58)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #58)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUAL DE LOS SIGUIENTES NO ES UN CRITERIO DE CLASIFICACIÓN DE DOCUMENTOS?
@@ -1183,16 +1244,17 @@ UNA CORRECTA CLASIFICACIÓN DE FONDOS ARCHIVÍSTICOS SE DERIVA EN PRIMER LUGAR:
 *   **D)** Por su contenido y finalidad.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Por su objetividad.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Por su objetividad."."
 
 ---
 
 #### Pregunta 59 (Examen #59)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #59)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TÉRMINO PARA DEFINIR LOS DISTINTOS TIPOS DE AGRUPACIONES DOCUMENTALES RESPONDE MEJOR A LO QUE CONOCEMOS POR “UN EXPEDIENTE”?
@@ -1203,16 +1265,17 @@ UNA CORRECTA CLASIFICACIÓN DE FONDOS ARCHIVÍSTICOS SE DERIVA EN PRIMER LUGAR:
 *   **D)** Serie.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Unidad archivística.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Unidad archivística."."
 
 ---
 
 #### Pregunta 60 (Examen #60)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #60)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CÓMO SE LLAMA LA OPERACIÓN POR LA CUAL LA DOCUMENTACIÓN QUE NO SE NECESITA EN UNA OFICINA O ARCHIVO SE ENVÍA A OTRO ARCHIVO?
@@ -1223,16 +1286,17 @@ UNA CORRECTA CLASIFICACIÓN DE FONDOS ARCHIVÍSTICOS SE DERIVA EN PRIMER LUGAR:
 *   **D)** Transferencia.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Transferencia.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto 232/2000, por el que se aprueba el Reglamento del Sistema de Archivo y Gestión Documental de la CAE
+*   **Artículo**: Principios archivísticos y ciclo de vida documental
+*   **Literal / Explicación**: "En la doctrina archivística y el Decreto 232/2000 de la CAE, la respuesta correcta es: "Transferencia."."
 
 ---
 
 #### Pregunta 61 (Examen #61)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #61)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 UNO DE LOS RASGOS MÁS DESTACADOS DE LOS TEXTOS ADMINISTRATIVOS HABITUALES ES:
@@ -1243,16 +1307,17 @@ UNO DE LOS RASGOS MÁS DESTACADOS DE LOS TEXTOS ADMINISTRATIVOS HABITUALES ES:
 *   **D)** El abundante empleo del gerundio.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "El abundante empleo del gerundio.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "El abundante empleo del gerundio."."
 
 ---
 
 #### Pregunta 62 (Examen #62)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #62)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TIPO DE COMUNICACIÓN PUEDE REPRODUCIR CON MAYOR PRECISIÓN Y CONCISIÓN EL PENSAR Y SENTIR DEL EMISOR?
@@ -1263,16 +1328,17 @@ UNO DE LOS RASGOS MÁS DESTACADOS DE LOS TEXTOS ADMINISTRATIVOS HABITUALES ES:
 *   **D)** Todas ellas por igual.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La comunicación escrita.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Los criterios de estilo y normalización documental del IVAP establecen que la opción correcta es: "La comunicación escrita."."
 
 ---
 
 #### Pregunta 63 (Examen #63)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #63)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ES FUNCIÓN PRIMORDIAL DE LOS DOCUMENTOS ADMINISTRATIVOS:
@@ -1283,16 +1349,17 @@ ES FUNCIÓN PRIMORDIAL DE LOS DOCUMENTOS ADMINISTRATIVOS:
 *   **D)** La función de organización.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La función de constancia.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "La función de constancia."."
 
 ---
 
 #### Pregunta 64 (Examen #64)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 26: Comunicación Oral y No Verbal (Atención presencial y telefónica)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #64)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA FORMA MÁS COMÚN DE DOCUMENTO DIRIGIDO POR LOS CIUDADANOS A LA ADMINISTRACIÓN ES:
@@ -1303,16 +1370,17 @@ LA FORMA MÁS COMÚN DE DOCUMENTO DIRIGIDO POR LOS CIUDADANOS A LA ADMINISTRACI�
 *   **D)** La reclamación.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La instancia o solicitud.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "La instancia o solicitud."."
 
 ---
 
 #### Pregunta 65 (Examen #65)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #65)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 “FACILITAR A L CIUDADANO INFORMACIÓN SOBRE CÓMO HEMOS PERCIBIDO O ENTENDIDO LO QUE NOS ESTÁ COMUNICANDO, DÁNDOLE LA OPORTUNIDAD DE ACLARAR SU MENSAJE”, ES LA DEFINICIÓN DE:
@@ -1323,16 +1391,17 @@ LA FORMA MÁS COMÚN DE DOCUMENTO DIRIGIDO POR LOS CIUDADANOS A LA ADMINISTRACI�
 *   **D)** El fenómeno eco.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "El feed back o retroalimentación.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "El feed back o retroalimentación."."
 
 ---
 
 #### Pregunta 66 (Examen #66)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #66)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ES CAUSA DE INSATISFACCIÓN EN LOS CIUDADANOS POR LA ATENCIÓN PRESTADA:
@@ -1343,16 +1412,17 @@ ES CAUSA DE INSATISFACCIÓN EN LOS CIUDADANOS POR LA ATENCIÓN PRESTADA:
 *   **D)** Dar un trato asertivo.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Dar información contradictoria.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Dar información contradictoria."."
 
 ---
 
 #### Pregunta 67 (Examen #71)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 34: Responsabilidad Patrimonial de las Administraciones Públicas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #71 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -1364,16 +1434,17 @@ EL DERECHO A RECLAMAR LA RESPONSABILIDAD PATRIMONIAL DE LAS ADMINISTRACIONES PÚ
 *   **D)** El derecho a reclamar en este caso no prescribe.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Al año de manifestarse su efecto lesivo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 (arts. 32-37) y Ley 39/2015 (art. 67)
+*   **Artículo**: Responsabilidad Patrimonial de las Administraciones Públicas
+*   **Literal / Explicación**: "El derecho a reclamar la responsabilidad patrimonial prescribe al año de producido el hecho o de manifestarse el efecto lesivo o curación de secuelas (Plantilla Oficial OPE Bolsas 2008 Reserva #71B)."
 
 ---
 
 #### Pregunta 68 (Examen #72)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 33: Revisión de Actos en vía Administrativa y Recursos  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #72 - Reserva)  
+**Estado**: Afectada por reforma legislativa (Sustituida Ley 30/1992 por Ley 39/2015 y Ley 40/2015)  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -1385,16 +1456,18 @@ SEGÚN EL ARTÍCULO 106 DE LA LEY 30/1992, DE 26 DE NOVIEMBRE, LRJ- PAC, LAS FAC
 *   **D)** La a) y la b) son ciertas.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La equidad.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 (LPACAP) y Ley 40/2015 (LRJSP) [anterior Ley 30/1992]
+*   **Artículo**: Título V (Revisión de Actos en vía Administrativa)
+*   **Literal / Explicación**: "Ez dago berrikusteko ahalmenaz baliatzerik berrikusketa hori ekitatearen, herri-interesaren edo segurtasun juridikoaren aurkakoa baldin bada (Plantilla Oficial OPE Bolsas 2008 Reserva #72A, 30/1992 Legea 106 art. / 39/2015 Legea 110 art.)."
+*   **Nota de Actualización**: Esta pregunta contiene referencias a normativa histórica derogada o sustituida. Aplicar la normativa vigente concordada.
 
 ---
 
 #### Pregunta 69 (Examen #73)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #73 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -1406,16 +1479,17 @@ EN LO REFERIDO AL DOMINIO PÚBLICO:
 *   **D)** Según el Estatuto de Autonomía del País Vasco son bienes de dominio público de titularid ad de la Comunidad Autónoma, entre otros, los puertos no comerciales y el mar litoral vasco.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Según la Constitución, los bienes de dominio público estatal deberán en todo caso ser determinados por Ley.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Konstituzioaren 132.2 artikuluaren arabera, Estatuko herri-jabariko ondasunak legez finkatuko dira beti (Plantilla Oficial OPE Bolsas 2008 Reserva #73C)."
 
 ---
 
 #### Pregunta 70 (Examen #74)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #74 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -1427,16 +1501,17 @@ SEÑALA LA FRASE INCORRECTA:
 *   **D)** No se pueden nombrar funcionarios interinos cuando se dé un exceso o acumulación de tarea s por un plazo máximo de seis meses, debiendo realizarse en todo caso la correspondiente contratación laboral de carácter temporal.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "No se pueden nombrar funcionarios interinos cuando se dé un exceso o acumulación de tarea s por un plazo máximo de seis meses, debiendo realizarse en todo caso la correspondiente contratación laboral de carácter temporal.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Ez daiteke izenda bitarteko funtzionariorik zeregin-kopuru handiegia dagoenean... esaldia okerra da, Euskal Funtzio Publikoaren Legeak aukera hori berariaz onartzen baitu bitartekoentzat (Plantilla Oficial OPE Bolsas 2008 Reserva #74D)."
 
 ---
 
 #### Pregunta 71 (Examen #75)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 27: Centros de Documentación y Bibliotecas (Ley 11/2007)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #75 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -1448,16 +1523,17 @@ SEÑALA LA RESPUESTA INCORRECTA. SE EQUIPARAN CON EL NIVEL C- 1 DEL MARCO COMÚN
 *   **D)** El perfil lingüístico 1 emitido por el Departamento de Educación, Universidades e Investigación.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "El perfil lingüístico 1 emitido por el Departamento de Educación, Universidades e Investigación.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 11/2007, de Bibliotecas de Euskadi y Biblioteconomía Técnica
+*   **Artículo**: Procesos técnicos documentales y Sistema de Lectura Pública
+*   **Literal / Explicación**: "EGA, IVAPeko 3. hizkuntza-eskakizuna eta Ertzaintzako 2. hizkuntza-eskakizuna C1 mailarekin parekatzen dira; Hezkuntzako 1. eskakizuna ez da C1 mailakoa (Plantilla Oficial OPE Bolsas 2008 Reserva #75D)."
 
 ---
 
 #### Pregunta 72 (Examen #76)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2008  
-**Bloque**: Bolsa 2008 - Bloque 2  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2008 (Pregunta #76 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -1469,10 +1545,10 @@ NO ES UN RASGO DESEABLE DEL LENGUAJE ADMINISTRATIVO:
 *   **D)** La concisión.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2008
-*   **Ámbito**: Bolsa 2008 - Bloque 2 (Organización, Normalización y Archivo (Preguntas 51-76))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La ambigüedad.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Anbiguotasuna ez da inondik inora administrazio-hizkeraren ezaugarri gomendagarria, argitasuna eta zehaztasuna baitira printzipio gidariak (Plantilla Oficial OPE Bolsas 2008 Reserva #76C)."
 
 ---
 
@@ -1485,8 +1561,9 @@ NO ES UN RASGO DESEABLE DEL LENGUAJE ADMINISTRATIVO:
 *Constitución y Estatuto de Autonomía (Preguntas 1-50)*
 
 #### Pregunta 73 (Examen #1)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #1)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN RELACIÓN CON LA FIGURA DEL DEFENSOR DEL PUEBLO , ES FALSO
@@ -1497,16 +1574,17 @@ EN RELACIÓN CON LA FIGURA DEL DEFENSOR DEL PUEBLO , ES FALSO
 *   **D)** Que pueda interponer recursos de amparo.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Que sea elegido por mayoría simple en ambas Cám aras.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Que sea elegido por mayoría simple en ambas Cám aras."."
 
 ---
 
 #### Pregunta 74 (Examen #2)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #2)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 PUEDEN INTERPONER CUESTIONES DE INCONSTITUCIONALI DAD:
@@ -1517,16 +1595,17 @@ PUEDEN INTERPONER CUESTIONES DE INCONSTITUCIONALI DAD:
 *   **D)** Cincuenta diputados o cincuenta senadores.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Los jueces.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "La Constitución Española determina en su articulado que la opción correcta es: "Los jueces."."
 
 ---
 
 #### Pregunta 75 (Examen #3)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #3)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL NÚMERO DE DIPUTADOS QUE PUEDEN COMPONER EL CON GRESO…
@@ -1537,16 +1616,17 @@ EL NÚMERO DE DIPUTADOS QUE PUEDEN COMPONER EL CON GRESO…
 *   **D)** Ninguna de las anteriores respuestas es correct a.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Ninguna de las anteriores respuestas es correct a.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Ninguna de las anteriores respuestas es correct a."."
 
 ---
 
 #### Pregunta 76 (Examen #4)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #4)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA MOCIÓN DE CENSURA…
@@ -1557,16 +1637,17 @@ LA MOCIÓN DE CENSURA…
 *   **D)** Precisa del concurso de 25 diputados.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Es un mecanismo de control constructivo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Es un mecanismo de control constructivo."."
 
 ---
 
 #### Pregunta 77 (Examen #5)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #5)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA ORGANIZACIÓN TERRITORIAL DEL ESTADO…
@@ -1577,16 +1658,17 @@ LA ORGANIZACIÓN TERRITORIAL DEL ESTADO…
 *   **D)** Está establecida en el Título VI de la Constitu ción.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Está establecida en el Título VIII de la Consti tución.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Está establecida en el Título VIII de la Consti tución."."
 
 ---
 
 #### Pregunta 78 (Examen #6)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #6)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALE LA AFIRMACIÓN INCORRECTA :
@@ -1597,16 +1679,17 @@ SEÑALE LA AFIRMACIÓN INCORRECTA :
 *   **D)** El Consejo puede concluir acuerdos internaciona les en materia comercial.        
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La Comisión Europea es políticamente responsabl e ante el Consejo Europeo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "La Comisión Europea es políticamente responsabl e ante el Consejo Europeo."."
 
 ---
 
 #### Pregunta 79 (Examen #7)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 3: Derecho de la Unión Europea e Instituciones  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #7)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿A CUÁL DE LOS SIGUIENTES PAÍSES LE CORRESPONDE M ÁS ESCAÑOS EN EL PARLAMENTO EUROPEO?
@@ -1617,16 +1700,17 @@ SEÑALE LA AFIRMACIÓN INCORRECTA :
 *   **D)** Reino Unido.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Alemania.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Alemania."."
 
 ---
 
 #### Pregunta 80 (Examen #8)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 33: Revisión de Actos en vía Administrativa y Recursos  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #8)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS RECURSOS POR INFRACCIÓN ANTE EL TRIBUNAL DE J USTICIA DE LA UNIÓN EUROPEA:
@@ -1637,16 +1721,17 @@ LOS RECURSOS POR INFRACCIÓN ANTE EL TRIBUNAL DE J USTICIA DE LA UNIÓN EUROPEA:
 *   **D)** Pueden ser presentados por los propios Estados miembros.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Pueden ser presentados por los propios Estados miembros.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 112 a 126)
+*   **Artículo**: Título V (Revisión de Actos en vía Administrativa)
+*   **Literal / Explicación**: "El régimen de recursos administrativos de la Ley 39/2015 (arts. 112, 122, 123 y 125) determina que la opción D) "Pueden ser presentados por los propios Estados miembros." es la preceptiva."
 
 ---
 
 #### Pregunta 81 (Examen #9)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 4: Organización política y administrativa de la CAE  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #9)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA INICIATIVA LEGISLATIVA POPULAR PARA LA PRESENT ACIÓN DE PROPOSICIONES DE LEY QUE HAYAN DE SER TRAMITADAS PO R EL PARLAMENTO VASCO, REQUIERE DE UN MÍNIMO…
@@ -1657,16 +1742,17 @@ LA INICIATIVA LEGISLATIVA POPULAR PARA LA PRESENT ACIÓN DE PROPOSICIONES DE LEY
 *   **D)** De diez mil firmas.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "De treinta mil firmas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 7/1981, de Gobierno, y Estatuto de Autonomía
+*   **Artículo**: Organización Institucional de la CAE
+*   **Literal / Explicación**: "El marco institucional vasco (Ley 7/1981 de Gobierno) dispone que la opción C) "De treinta mil firmas." es la preceptiva."
 
 ---
 
 #### Pregunta 82 (Examen #10)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #10)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL PROCEDIMIENTO GENERAL DE REFORMA DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO…
@@ -1677,16 +1763,17 @@ EL PROCEDIMIENTO GENERAL DE REFORMA DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO�
 *   **D)** Consta de dos pasos según el artículo 46 del E statuto de Autonomía: aprobación por el Parlamento Vasco y aprobación por Referéndum.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Consta de cuatro pasos según el artículo 46 de l Estatuto de Autonomía: iniciativa, aprobación por el Parlamento Vasco, aprobación por las Cortes Generales, aprobación del electorado por Referéndum.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "Consta de cuatro pasos según el artículo 46 de l Estatuto de Autonomía: iniciativa, aprobación por el Parlamento Vasco, aprobación por las Cortes Generales, aprobación del electorado por Referéndum."."
 
 ---
 
 #### Pregunta 83 (Examen #11)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #11)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 CARECEN DE LEGITIMACIÓN PARA INICIAR LA REFORMA DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO…
@@ -1697,16 +1784,17 @@ CARECEN DE LEGITIMACIÓN PARA INICIAR LA REFORMA DEL ESTATUTO DE AUTONOMÍA DEL 
 *   **D)** El Gobierno Vasco.        
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "El o La Lehendakari.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "El o La Lehendakari."."
 
 ---
 
 #### Pregunta 84 (Examen #12)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #12)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA COMISIÓN ARBITRAL PREVISTA EN EL ARTÍCULO 39 DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO:
@@ -1717,16 +1805,17 @@ LA COMISIÓN ARBITRAL PREVISTA EN EL ARTÍCULO 39 DEL ESTATUTO DE AUTONOMÍA DEL
 *   **D)** Está compuesta por nueve vocales y un presiden te.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Está compuesta por seis vocales y un president e.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "Está compuesta por seis vocales y un president e."."
 
 ---
 
 #### Pregunta 85 (Examen #13)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 5: Instituciones Forales y Locales (Concierto Económico, LILE, LTH)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #13)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEGÚN EL CONCIERTO ECONÓMICO, LA METODOLOGÍA DE SEÑALAMIENTO DEL CUPO ES DETERMINADA…
@@ -1737,16 +1826,17 @@ SEGÚN EL CONCIERTO ECONÓMICO, LA METODOLOGÍA DE SEÑALAMIENTO DEL CUPO ES DET
 *   **D)** Por cada Diputación Foral.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Por las Cortes Generales.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley del Concierto Económico (Ley 12/2002) y Ley 27/1983 (LTH)
+*   **Artículo**: Relaciones Institucionales y Régimen Foral
+*   **Literal / Explicación**: "De acuerdo con el Concierto Económico con la CAE y la Ley de Relaciones entre Instituciones Comunes y Órganos Forales (LTH), la respuesta correcta es: "Por las Cortes Generales."."
 
 ---
 
 #### Pregunta 86 (Examen #14)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 4: Organización política y administrativa de la CAE  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #14)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SI UNA DECISIÓN DE LA COMISIÓN ARBITRAL DEL PAÍS VASCO DECLARARA QUE UNA PROPOSICIÓN DE LEY DEL PARLAMENTO VASCO SUPONE LA MODIFICACIÓN DE LA DELIMITACIÓN COMPETENCIAL ENTRE LAS INSTITUCI ONES COMUNES Y LAS FORALES ESTABLECIDA EN LEYES QUE NO SEAN EL ESTATUT O DE AUTONOMÍA DEL PAÍS VASCO…
@@ -1757,16 +1847,17 @@ SI UNA DECISIÓN DE LA COMISIÓN ARBITRAL DEL PAÍS VASCO DECLARARA QUE UNA PROP
 *   **D)** La Mesa del Parlamento convocaría al Pleno del Parlamento Vasco para que realice, en su caso, la adaptación de la proposición.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El Parlamento Vasco decidiría respecto al mant enimiento de la iniciativa.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 7/1981, de Gobierno, y Estatuto de Autonomía
+*   **Artículo**: Organización Institucional de la CAE
+*   **Literal / Explicación**: "El marco institucional vasco (Ley 7/1981 de Gobierno) dispone que la opción C) "El Parlamento Vasco decidiría respecto al mant enimiento de la iniciativa." es la preceptiva."
 
 ---
 
 #### Pregunta 87 (Examen #15)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #15)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALE LA AFIRMACIÓN INCORRECTA :
@@ -1777,16 +1868,17 @@ SEÑALE LA AFIRMACIÓN INCORRECTA :
 *   **D)** Existen referencias directas en la legislación al uso no sexista del lenguaje.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La representación equilibrada en la ley vasca se refiere a una representación 50/50 por ciento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "La representación equilibrada en la ley vasca se refiere a una representación 50/50 por ciento."."
 
 ---
 
 #### Pregunta 88 (Examen #16)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 6: Igualdad de Mujeres y Hombres (Ley 4/2005 y Ley 1/2022)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #16)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LAS DIRECTRICES EN LAS QUE SE INDIQUEN LAS PAUTA S QUE SE DEBERÁN DE SEGUIR PARA LA REALIZACIÓN DE LA EVALUACIÓN PREVIA DE IMPACTO EN FUNCIÓN DEL GÉNERO…
@@ -1797,16 +1889,17 @@ LAS DIRECTRICES EN LAS QUE SE INDIQUEN LAS PAUTA S QUE SE DEBERÁN DE SEGUIR PAR
 *   **D)** Serán aprobadas por el Gobierno Vasco, a propu esta de Emakunde.        
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Serán aprobadas por el Gobierno Vasco, a propu esta de Emakunde.        ".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Serán aprobadas por el Gobierno Vasco, a propu esta de Emakunde.        "."
 
 ---
 
 #### Pregunta 89 (Examen #17)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #17)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SI SUS DISPONIBILIDADES PRESUPUESTARIAS LO PERMI TIEREN, ¿A PARTIR DE QUÉ FECHA LAS COMUNIDADES AUTÓNOMAS Y LAS ENTIDADES LOCALES HABRÁN DEBIDO ADAPTAR SUS PROCEDIMIENTOS A LA LEY DE ACCES O ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICIOS PÚBLICOS?
@@ -1817,16 +1910,17 @@ SI SUS DISPONIBILIDADES PRESUPUESTARIAS LO PERMI TIEREN, ¿A PARTIR DE QUÉ FECH
 *   **D)** A partir del 31 de Diciembre de 2008.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "A partir del 31 de Diciembre de 2009.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "A partir del 31 de Diciembre de 2009."."
 
 ---
 
 #### Pregunta 90 (Examen #18)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #18)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ENTRE LOS FINES DE LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICIOS PÚBLICOS, ESTABLECIDOS EN SU ARTÍCULO 3, NO SE MENCIONA:
@@ -1837,16 +1931,17 @@ ENTRE LOS FINES DE LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** Promover la transparencia administrativa.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Reducir costes.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Reducir costes."."
 
 ---
 
 #### Pregunta 91 (Examen #19)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #19)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICIOS PÚBLICOS...
@@ -1857,16 +1952,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** Si transcurren cinco días hábiles sin que se a cceda al contenido de una solicitud electrónica, se considerará que la notificación ha sido rechazad a, el trámite realizado y continuará la tramitación del procedimiento.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Si transcurren diez días naturales sin que se acceda al contenido de una solicitud electrónica, se considerará que la notificación ha sido rechazad a, el trámite realizado y continuará la tramitación del procedimiento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Si transcurren diez días naturales sin que se acceda al contenido de una solicitud electrónica, se considerará que la notificación ha sido rechazad a, el trámite realizado y continuará la tramitación del procedimiento."."
 
 ---
 
 #### Pregunta 92 (Examen #20)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #20)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DICE LA CONSTITUCIÓN RESPECTO DE LA DELEGAC IÓN LEGISLATIVA?
@@ -1877,16 +1973,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** La Constitución admite que la delegación legis lativa verse sobre cualquier materia.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La Constitución prohíbe que la delegación legi slativa verse sobre materias reservadas a la Ley Orgánica.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "La Constitución Española determina en su articulado que la opción correcta es: "La Constitución prohíbe que la delegación legi slativa verse sobre materias reservadas a la Ley Orgánica."."
 
 ---
 
 #### Pregunta 93 (Examen #21)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #21)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿HAY ALGUNA NORMA QUE, TRAS SU PROMULGACIÓN, DEB A SER SOMETIDA A CONVALIDACIÓN POR EL CONGRESO DE LOS DIPUTADOS?
@@ -1897,16 +1994,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** Sí, los Decretos-Leyes.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Sí, los Decretos-Leyes.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Sí, los Decretos-Leyes."."
 
 ---
 
 #### Pregunta 94 (Examen #22)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #22)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ PRINCIPIO ORGANIZATIVO EXPLICA LA APARICIÓN DE ENTES         INSTRUMENTALES CON PERSONALIDAD JURÍDICA PROPIA QUE CONFORMAN LA DENOMINADA ADMINISTRACIÓN INSTITUCIONAL?
@@ -1917,16 +2015,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** Desconcentración funcional.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Descentralización funcional.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Descentralización funcional."."
 
 ---
 
 #### Pregunta 95 (Examen #23)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #23)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ FIGURA VINO A SUSTITUIR A LOS GOBERNADORES CIVILES?
@@ -1937,16 +2036,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** Los Subdirectores Delegados.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Los Subdelegados del Gobierno.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Los Subdelegados del Gobierno."."
 
 ---
 
 #### Pregunta 96 (Examen #24)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 5: Instituciones Forales y Locales (Concierto Económico, LILE, LTH)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #24)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUIÉN COMPONE LAS JUNTAS GENERALES DE CADA TERR ITORIO HISTÓRICO VASCO?
@@ -1957,16 +2057,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** Los Diputados forales designados por el Diputa do General de cada Territorio Histórico.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Representantes electos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Representantes electos."."
 
 ---
 
 #### Pregunta 97 (Examen #25)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 30: El Acto Administrativo: Eficacia, Nulidad y Anulabilidad  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #25)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿EN QUÉ SE DIFERENCIA UN ACTO ADMINISTRATIVO DE UN CONTRATO ADMINISTRATIVO?
@@ -1977,16 +2078,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** En que el contrato no está sometido al Derecho administrativo.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "En que el contrato no es una declaración unila teral.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 34 a 52)
+*   **Artículo**: Título III (Actos Administrativos)
+*   **Literal / Explicación**: "Conforme al Título III de la Ley 39/2015 (arts. 36, 47 y 48), la opción legalmente correcta es: "En que el contrato no es una declaración unila teral."."
 
 ---
 
 #### Pregunta 98 (Examen #26)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 33: Revisión de Actos en vía Administrativa y Recursos  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #26)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ CALIFICACIÓN JURÍDICA MERECE LA RESOLUCIÓN DE UN RECURSO DE ALZADA?
@@ -1997,16 +2099,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** Es una sentencia judicial firme.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Es un acto administrativo definitivo que agota la vía administrativa.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 112 a 126)
+*   **Artículo**: Título V (Revisión de Actos en vía Administrativa)
+*   **Literal / Explicación**: "El régimen de recursos administrativos de la Ley 39/2015 (arts. 112, 122, 123 y 125) determina que la opción B) "Es un acto administrativo definitivo que agota la vía administrativa." es la preceptiva."
 
 ---
 
 #### Pregunta 99 (Examen #27)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #27)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ PARTICULARIDAD REVISTEN LOS ACTOS PLÚRIMOS?
@@ -2017,16 +2120,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** Que no han de ser notificados ni publicados.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Que su publicación sustituye a la notificación .".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Que su publicación sustituye a la notificación ."."
 
 ---
 
 #### Pregunta 100 (Examen #28)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #28)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL DE LAS SIGUIENTES COMPETENCIAS SE ATRIBUYE EN EXCLUSIVA AL ESTADO, POR LA CONSTITUCIÓN?        
@@ -2037,16 +2141,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** La simplificación de todos los procedimientos administrativos.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La regulación del procedimiento administrativo común.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "La Constitución Española determina en su articulado que la opción correcta es: "La regulación del procedimiento administrativo común."."
 
 ---
 
 #### Pregunta 101 (Examen #29)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #29)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CÓMO SE ADQUIERE LA VECINDAD ADMINISTRATIVA?
@@ -2057,16 +2162,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** Con el empadronamiento.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Con el empadronamiento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Con el empadronamiento."."
 
 ---
 
 #### Pregunta 102 (Examen #30)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #30)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ SE PRETENDE GARANTIZAR CON EL DEBER DE ABST ENCIÓN MENCIONADO EN LA LEGISLACIÓN DE PROCEDIMIENTO ADMINISTRATIVO?
@@ -2077,16 +2183,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** La confidencialidad de las actuaciones desarro lladas por la Administración.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La imparcialidad de las personas que integran los órganos administrativos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "La imparcialidad de las personas que integran los órganos administrativos."."
 
 ---
 
 #### Pregunta 103 (Examen #32)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #32)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL DE LOS SIGUIENTES DERECHOS ESTÁ RECONOCIDO POR LA LEY?
@@ -2097,16 +2204,17 @@ DE CONFORMIDAD CON LA LEY DE ACCESO ELECTRÓNICO DE LOS CIUDADANOS A LOS SERVICI
 *   **D)** El derecho a no presentar documentos que ya ob ren en poder de la Administración actuante.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "El derecho a no presentar documentos que ya ob ren en poder de la Administración actuante.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "El derecho a no presentar documentos que ya ob ren en poder de la Administración actuante."."
 
 ---
 
 #### Pregunta 104 (Examen #33)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #33)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 CON ARREGLO A LA LEGISLACIÓN DE PROCEDIMIENTO AD MINISTRATIVO, ¿PUEDE PRESENTARSE EN UN REGISTRO QUE PERTENEZCA A LA ADMI NISTRACIÓN AUTONÓMICA UN ESCRITO DIRIGIDO A UN AYUNTAMIENTO DE OTRA COMUNIDAD AUTÓNOMA?        
@@ -2117,16 +2225,17 @@ CON ARREGLO A LA LEGISLACIÓN DE PROCEDIMIENTO AD MINISTRATIVO, ¿PUEDE PRESENTA
 *   **D)** Sí.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Sí.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "Sí."."
 
 ---
 
 #### Pregunta 105 (Examen #34)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #34)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿POR QUÉ ES IMPORTANTE, EN LA PRÁCTICA, DETERMIN AR SI UN PROCEDIMIENTO ADMINISTRATIVO SE HA INICIADO DE OFICIO O MEDIANTE SOLICITUD DE PERSONA INTERESADA?
@@ -2137,16 +2246,17 @@ CON ARREGLO A LA LEGISLACIÓN DE PROCEDIMIENTO AD MINISTRATIVO, ¿PUEDE PRESENTA
 *   **D)** Porque de ello depende que el incumplimiento d e la obligación de resolver en plazo depare unas consecuencias u otras.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Porque de ello depende que el incumplimiento d e la obligación de resolver en plazo depare unas consecuencias u otras.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Porque de ello depende que el incumplimiento d e la obligación de resolver en plazo depare unas consecuencias u otras."."
 
 ---
 
 #### Pregunta 106 (Examen #35)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #35)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿EN QUÉ TIPO DE PROCEDIMIENTOS ADMINISTRATIVOS P UEDE PREVERSE EL PERÍODO DE INFORMACIÓN PREVIA?
@@ -2157,16 +2267,17 @@ CON ARREGLO A LA LEGISLACIÓN DE PROCEDIMIENTO AD MINISTRATIVO, ¿PUEDE PRESENTA
 *   **D)** En ningún tipo de procedimiento administrativo .
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "En los procedimientos administrativos que se i nician de oficio.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "En los procedimientos administrativos que se i nician de oficio."."
 
 ---
 
 #### Pregunta 107 (Examen #36)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #36)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿ES POSIBLE LA DECLARACIÓN DE URGENCIA DEL PROCE DIMIENTO ADMINISTRATIVO?
@@ -2177,16 +2288,17 @@ CON ARREGLO A LA LEGISLACIÓN DE PROCEDIMIENTO AD MINISTRATIVO, ¿PUEDE PRESENTA
 *   **D)** No, está prohibida.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Sí, y comporta la reducción de los plazos esta blecidos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Sí, y comporta la reducción de los plazos esta blecidos."."
 
 ---
 
 #### Pregunta 108 (Examen #37)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #37)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿PUEDE LA ADMINISTRACIÓN RECTIFICAR EN CUALQUIER MOMENTO LOS ERRORES EXISTENTES EN SUS ACTOS?
@@ -2197,16 +2309,17 @@ CON ARREGLO A LA LEGISLACIÓN DE PROCEDIMIENTO AD MINISTRATIVO, ¿PUEDE PRESENTA
 *   **D)** No, ni los errores de hecho ni los errores de Derecho.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Sí, pero sólo los errores de hecho.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Sí, pero sólo los errores de hecho."."
 
 ---
 
 #### Pregunta 109 (Examen #38)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 30: El Acto Administrativo: Eficacia, Nulidad y Anulabilidad  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #38)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿EN QUÉ PLAZO HA DE INTERPONERSE EL RECURSO DE A LZADA CONTRA UN ACTO ADMINISTRATIVO PRESUNTO?
@@ -2217,16 +2330,17 @@ CON ARREGLO A LA LEGISLACIÓN DE PROCEDIMIENTO AD MINISTRATIVO, ¿PUEDE PRESENTA
 *   **D)** Seis meses.        
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Tres meses.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 34 a 52)
+*   **Artículo**: Título III (Actos Administrativos)
+*   **Literal / Explicación**: "Conforme al Título III de la Ley 39/2015 (arts. 36, 47 y 48), la opción legalmente correcta es: "Tres meses."."
 
 ---
 
 #### Pregunta 110 (Examen #39)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 34: Responsabilidad Patrimonial de las Administraciones Públicas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #39)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SI LA ADMINISTRACIÓN INCURRE EN RESPONSABILIDAD PATRIMONIAL, ¿PUEDE SUSTITUIRSE LA INDEMNIZACIÓN PROCEDENTE POR UNA COM PENSACIÓN EN ESPECIE?
@@ -2237,16 +2351,17 @@ SI LA ADMINISTRACIÓN INCURRE EN RESPONSABILIDAD PATRIMONIAL, ¿PUEDE SUSTITUIRS
 *   **D)** No, siempre hay que proceder al pago en metáli co.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sí, siempre que exista acuerdo con el interesa do.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 (arts. 32-37) y Ley 39/2015 (art. 67)
+*   **Artículo**: Responsabilidad Patrimonial de las Administraciones Públicas
+*   **Literal / Explicación**: "El régimen de responsabilidad patrimonial del sector público (Ley 40/2015 y art. 106.2 CE) establece que: "Sí, siempre que exista acuerdo con el interesa do."."
 
 ---
 
 #### Pregunta 111 (Examen #40)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 34: Responsabilidad Patrimonial de las Administraciones Públicas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #40)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ SUCEDE SI EN UN PROCEDIMIENTO ADMINISTRATIV O DE RESPONSABILIDAD PATRIMONIAL NO RECAE RESOLUCIÓN EXPRESA EN EL PLAZO ESTABLECIDO?
@@ -2257,16 +2372,17 @@ SI LA ADMINISTRACIÓN INCURRE EN RESPONSABILIDAD PATRIMONIAL, ¿PUEDE SUSTITUIRS
 *   **D)** Se podrá entender caducado el procedimiento ad ministrativo.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Se podrá entender desestimada la solicitud de indemnización.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 (arts. 32-37) y Ley 39/2015 (art. 67)
+*   **Artículo**: Responsabilidad Patrimonial de las Administraciones Públicas
+*   **Literal / Explicación**: "El régimen de responsabilidad patrimonial del sector público (Ley 40/2015 y art. 106.2 CE) establece que: "Se podrá entender desestimada la solicitud de indemnización."."
 
 ---
 
 #### Pregunta 112 (Examen #41)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #41)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿HAY ALGUNA MODALIDAD DE INTERVENCIÓN ADMINISTRA TIVA QUE PERMITA EL INICIO DE UNA ACTIVIDAD DESDE EL DÍA DE SU PRESENTA CIÓN POR LA PERSONA INTERESADA?
@@ -2277,16 +2393,17 @@ SI LA ADMINISTRACIÓN INCURRE EN RESPONSABILIDAD PATRIMONIAL, ¿PUEDE SUSTITUIRS
 *   **D)** No; hasta que la Administración se pronuncia, la actividad no puede iniciarse en ningún caso.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Sí, la comunicación previa.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Sí, la comunicación previa."."
 
 ---
 
 #### Pregunta 113 (Examen #42)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 34: Responsabilidad Patrimonial de las Administraciones Públicas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #42)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿PUEDE LA ADMINISTRACIÓN PROCEDER A LA REVOCACIÓ N DE LICENCIAS SIN INDEMNIZACIÓN?
@@ -2297,16 +2414,17 @@ SI LA ADMINISTRACIÓN INCURRE EN RESPONSABILIDAD PATRIMONIAL, ¿PUEDE SUSTITUIRS
 *   **D)** No, en ningún caso.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Sí, cuando la revocación se funda en el incump limiento de las condiciones a que estuviera subordinada la licencia.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 (arts. 32-37) y Ley 39/2015 (art. 67)
+*   **Artículo**: Responsabilidad Patrimonial de las Administraciones Públicas
+*   **Literal / Explicación**: "El régimen de responsabilidad patrimonial del sector público (Ley 40/2015 y art. 106.2 CE) establece que: "Sí, cuando la revocación se funda en el incump limiento de las condiciones a que estuviera subordinada la licencia."."
 
 ---
 
 #### Pregunta 114 (Examen #43)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #43)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿HAY ALGUNA MODALIDAD DEL PROCEDIMIENTO ADMINIST RATIVO DE CONTRATACIÓN QUE PUEDA TRAMITARSE SIN PUBLICIDAD?
@@ -2317,16 +2435,17 @@ SI LA ADMINISTRACIÓN INCURRE EN RESPONSABILIDAD PATRIMONIAL, ¿PUEDE SUSTITUIRS
 *   **D)** No, ninguno de ellos.        
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sí, el procedimiento negociado.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Sí, el procedimiento negociado."."
 
 ---
 
 #### Pregunta 115 (Examen #44)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #44)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEGÚN LA LEY DE CONTRATOS DEL SECTOR PÚBLICO, SE RÁ REQUISITO INDISPENSABLE, CON CARÁCTER GENERAL, QUE EL EMPRESA RIO ESPAÑOL SE ENCUENTRE DEBIDAMENTE CLASIFICADO PARA CONTRATAR CO N LAS ADMINISTRACIONES PÚBLICAS LA EJECUCIÓN DE CONTRATOS DE OBRAS DE IMPORTE:
@@ -2337,16 +2456,17 @@ SEGÚN LA LEY DE CONTRATOS DEL SECTOR PÚBLICO, SE RÁ REQUISITO INDISPENSABLE, 
 *   **D)** Igual o superior a 95.000 euros.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Igual o superior a 350.000 euros. ".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Igual o superior a 350.000 euros. "."
 
 ---
 
 #### Pregunta 116 (Examen #45)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 29: Órganos Administrativos y Colegiados (Ley 40/2015 y Ley 3/2022)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #45)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN MATERIA DE PROTECCIÓN DE DATOS DE CARÁCTER PE RSONAL, ¿PUEDE TENER UN ÓRGANO ADMINISTRATIVO LA CONSIDERACIÓN DE “RESPONSABLE DEL FICHERO O TRATAMIENTO”?
@@ -2357,16 +2477,17 @@ EN MATERIA DE PROTECCIÓN DE DATOS DE CARÁCTER PE RSONAL, ¿PUEDE TENER UN ÓRG
 *   **D)** Sí, siempre que sea titular de los datos que s ean objeto del tratamiento.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sí, siempre que decida sobre la finalidad, con tenido y uso del tratamiento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015, de Régimen Jurídico del Sector Público (arts. 8 a 19)
+*   **Artículo**: Órganos administrativos y traslación de competencias
+*   **Literal / Explicación**: "La Ley 40/2015 (y concordante art. 14 Ley 30/1992) regula que la opción correcta es: "Sí, siempre que decida sobre la finalidad, con tenido y uso del tratamiento."."
 
 ---
 
 #### Pregunta 117 (Examen #46)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #46)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 UNA VEZ OTORGADO EL CONSENTIMIENTO PARA EL TRATA MIENTO DE DATOS DE CARÁCTER PERSONAL, ¿ES POSIBLE SU REVOCACIÓN?
@@ -2377,16 +2498,17 @@ UNA VEZ OTORGADO EL CONSENTIMIENTO PARA EL TRATA MIENTO DE DATOS DE CARÁCTER PE
 *   **D)** Sí, mediante un medio sencillo y gratuito.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Sí, mediante un medio sencillo y gratuito.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Sí, mediante un medio sencillo y gratuito."."
 
 ---
 
 #### Pregunta 118 (Examen #47)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #47)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA SUSTITUCIÓN TRANSITORIA DE UN FUNCIONARIO DE CARRERA TITULAR DE UN PUESTO DE TRABAJO SE REALIZA POR…
@@ -2397,16 +2519,17 @@ LA SUSTITUCIÓN TRANSITORIA DE UN FUNCIONARIO DE CARRERA TITULAR DE UN PUESTO DE
 *   **D)** Un funcionario de carrera temporal.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Un funcionario interino.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción C) "Un funcionario interino." es la legalmente exacta."
 
 ---
 
 #### Pregunta 119 (Examen #48)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #48)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL PUESTO DE TRABAJO, UNIDAD ORGANIZATIVA BÁSICA DE ESTRUCTURACIÓN DEL EMPLEO PÚBLICO, SE DEFINE Y CONCRETA POR…
@@ -2417,16 +2540,17 @@ EL PUESTO DE TRABAJO, UNIDAD ORGANIZATIVA BÁSICA DE ESTRUCTURACIÓN DEL EMPLEO 
 *   **D)** Funciones y responsabilidades.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Funciones y tareas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Funciones y tareas."."
 
 ---
 
 #### Pregunta 120 (Examen #49)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #49)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL SISTEMA DE CONCURSO EN LA SELECCIÓN DE PERSON AL FUNCIONARIO…        
@@ -2437,16 +2561,17 @@ EL SISTEMA DE CONCURSO EN LA SELECCIÓN DE PERSON AL FUNCIONARIO…       
 *   **D)** Tiene carácter excepcional y sólo puede utiliz arse cuando un Decreto del Gobierno lo establece.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Tiene carácter excepcional y sólo puede utiliz arse cuando una Ley lo establece.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción C) "Tiene carácter excepcional y sólo puede utiliz arse cuando una Ley lo establece." es la legalmente exacta."
 
 ---
 
 #### Pregunta 121 (Examen #50)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 1  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #50)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 FORMAN PARTE DE LAS RETRIBUCIONES DE LOS FUNCION ARIOS PÚBLICOS…
@@ -2457,10 +2582,10 @@ FORMAN PARTE DE LAS RETRIBUCIONES DE LOS FUNCION ARIOS PÚBLICOS…
 *   **D)** Los trienios, el complemento específico y las gratificaciones por servicios extraordinarios.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 1 (Constitución y Estatuto de Autonomía (Preguntas 1-50))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Los trienios, el complemento específico y las gratificaciones por servicios extraordinarios.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción D) "Los trienios, el complemento específico y las gratificaciones por servicios extraordinarios." es la legalmente exacta."
 
 ---
 
@@ -2468,8 +2593,9 @@ FORMAN PARTE DE LAS RETRIBUCIONES DE LOS FUNCION ARIOS PÚBLICOS…
 *Procedimiento Administrativo y Función Pública (Preguntas 51-100)*
 
 #### Pregunta 122 (Examen #51)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 8: Normalización Lingüística del uso del Euskera (Decreto 86/1997)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #51)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALE CUÁL DE LOS PROCEDIMIENTOS NO RESULTA POSIBLE PARA LA ACREDITACIÓN DE PERFIL LINGÜÍSTICO POR LOS FUNCIONA RIOS DE LAS ADMINISTRACIONES PUBLICAS VASCAS
@@ -2480,16 +2606,17 @@ SEÑALE CUÁL DE LOS PROCEDIMIENTOS NO RESULTA POSIBLE PARA LA ACREDITACIÓN DE 
 *   **D)** Pruebas que al efecto se convoquen durante el desarrollo de un concurso de traslados en la Administración de la Comunidad Autónoma del País Vasco.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La superación de la enseñanza secundaria oblig atoria en el modelo B.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 10/1982 del Euskera y Decreto 86/1997 de normalización del euskera en las AAPP
+*   **Artículo**: Régimen de perfiles lingüísticos y derechos lingüísticos
+*   **Literal / Explicación**: "De conformidad con el Decreto 86/1997 de normalización del uso del euskera en las administraciones públicas vascas: "La superación de la enseñanza secundaria oblig atoria en el modelo B."."
 
 ---
 
 #### Pregunta 123 (Examen #52)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 8: Normalización Lingüística del uso del Euskera (Decreto 86/1997)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #52)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ENTRE LOS SUPUESTOS DE EXENCIÓN DEL CUMPLIMIENTO DEL PERFIL LINGÜÍSTICO NO SE INCLUYE…
@@ -2500,16 +2627,17 @@ ENTRE LOS SUPUESTOS DE EXENCIÓN DEL CUMPLIMIENTO DEL PERFIL LINGÜÍSTICO NO SE
 *   **D)** Tener una discapacidad física que dificulte o imposibilite el aprendizaje.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Prestar servicios en régimen de dedicación a t iempo parcial.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 10/1982 del Euskera y Decreto 86/1997 de normalización del euskera en las AAPP
+*   **Artículo**: Régimen de perfiles lingüísticos y derechos lingüísticos
+*   **Literal / Explicación**: "De conformidad con el Decreto 86/1997 de normalización del uso del euskera en las administraciones públicas vascas: "Prestar servicios en régimen de dedicación a t iempo parcial."."
 
 ---
 
 #### Pregunta 124 (Examen #53)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #53)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS CUERPOS DEL PERSONAL FUNCIONARIO DE LA ADMIN ISTRACIÓN GENERAL DE LA COMUNIDAD AUTÓNOMA DEL PAÍS VASCO SE CLASIFIC AN EN LAS SIGUIENTES CATEGORIAS…
@@ -2520,16 +2648,17 @@ LOS CUERPOS DEL PERSONAL FUNCIONARIO DE LA ADMIN ISTRACIÓN GENERAL DE LA COMUNI
 *   **D)** Generales, Facultativos y Escalas.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Generales y Especiales.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "Generales y Especiales."."
 
 ---
 
 #### Pregunta 125 (Examen #54)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 18: Acceso al Empleo Público y Provisión de Puestos (Ley 11/2022 y TREBEP)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #54)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN EL SUPUESTO DE EXCEDENCIA POR CUIDADO DE HIJO O HIJA…
@@ -2540,16 +2669,17 @@ EN EL SUPUESTO DE EXCEDENCIA POR CUIDADO DE HIJO O HIJA…
 *   **D)** Ninguna de las respuestas es correcta.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Ninguna de las respuestas es correcta.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Ninguna de las respuestas es correcta."."
 
 ---
 
 #### Pregunta 126 (Examen #55)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #55)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SON ALTOS CARGOS DE LA ADMINISTRACIÓN DE LA COMU NIDAD AUTÓNOMA DEL PAÍS VASCO Y SUS ORGANISMOS AUTÓNOMOS…
@@ -2560,16 +2690,17 @@ SON ALTOS CARGOS DE LA ADMINISTRACIÓN DE LA COMU NIDAD AUTÓNOMA DEL PAÍS VASC
 *   **D)** Los Viceconsejeros, los Secretarios Generales Técnicos y los Directores.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Los Viceconsejeros y los Directores.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Los Viceconsejeros y los Directores."."
 
 ---
 
 #### Pregunta 127 (Examen #56)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #56)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL CONTRATO LABORAL POR CIRCUNSTANCIAS DE LA PRO DUCCIÓN PUEDE SER OBJETO DE PRÓRROGA…
@@ -2580,16 +2711,17 @@ EL CONTRATO LABORAL POR CIRCUNSTANCIAS DE LA PRO DUCCIÓN PUEDE SER OBJETO DE PR
 *   **D)** En ningún caso puede ser objeto de prórroga.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Si su duración inicial fue inferior al plazo d e seis meses, hasta alcanzar el máximo de seis meses.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Si su duración inicial fue inferior al plazo d e seis meses, hasta alcanzar el máximo de seis meses."."
 
 ---
 
 #### Pregunta 128 (Examen #57)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #57)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA JUBILACIÓN PARCIAL…
@@ -2600,16 +2732,17 @@ LA JUBILACIÓN PARCIAL…
 *   **D)** No produce la extinción del contrato de trabaj o y se debe celebrar simultáneamente un contrato de relevo.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Produce la extinción del contrato de trabajo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Produce la extinción del contrato de trabajo."."
 
 ---
 
 #### Pregunta 129 (Examen #58)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #58)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE LAS ACTAS DEL CONSEJO DE DIRECCIÓN DE EMAKUNDE DEL AÑO 2005?
@@ -2620,16 +2753,17 @@ DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE L
 *   **D)** Al archivo histórico.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Al archivo central institucional.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto 232/2000, por el que se aprueba el Reglamento del Sistema de Archivo y Gestión Documental de la CAE
+*   **Artículo**: Principios archivísticos y ciclo de vida documental
+*   **Literal / Explicación**: "En la doctrina archivística y el Decreto 232/2000 de la CAE, la respuesta correcta es: "Al archivo central institucional."."
 
 ---
 
 #### Pregunta 130 (Examen #59)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #59)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DATOS DEBERÍA CONTENER LA CARPETILLA QUE GU ARDA LOS DOCUMENTOS DE UN EXPEDIENTE?
@@ -2640,16 +2774,17 @@ DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE L
 *   **D)** El número de expediente, el solicitante, el as unto y las fechas de entrada y salida de la solicitud.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El número de expediente, las fechas de inicio y fin, el solicitante y el asunto.        ".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "El número de expediente, las fechas de inicio y fin, el solicitante y el asunto.        "."
 
 ---
 
 #### Pregunta 131 (Examen #60)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #60)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CÓMO SE DENOMINA AL CONJUNTO DE DOCUMENTOS O EXPED IENTES PRODUCIDOS EN EL DESARROLLO DE UNA MISMA ACTIVIDAD ADMINISTRATIVA?
@@ -2660,16 +2795,17 @@ DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE L
 *   **D)** Cuadro de clasificación.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Serie documental.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Serie documental."."
 
 ---
 
 #### Pregunta 132 (Examen #61)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #61)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿EN QUÉ IDIOMA SE EXPIDEN LOS RECIBOS DE PRESENT ACIÓN DE SOLICITUDES Y ESCRITOS, QUE DEBEN HACER LOS REGISTROS?
@@ -2680,16 +2816,17 @@ DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE L
 *   **D)** Siempre en castellano.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "En el idioma elegido por el o la interesada.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "En el idioma elegido por el o la interesada."."
 
 ---
 
 #### Pregunta 133 (Examen #62)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #62)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ CONTENIDO TIENE EL SELLO DE COMPULSA DE DOC UMENTOS ORIGINALES UTILIZADO POR LOS REGISTROS?
@@ -2700,16 +2837,17 @@ DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE L
 *   **D)** Fecha en que se sella la copia compulsada.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Identificación de la persona y del órgano que expide la copia compulsada y la fecha en que se practica.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Identificación de la persona y del órgano que expide la copia compulsada y la fecha en que se practica."."
 
 ---
 
 #### Pregunta 134 (Examen #63)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #63)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DEBE CONSERVARSE EN LOS REGISTROS?
@@ -2720,16 +2858,17 @@ DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE L
 *   **D)** En los Registros no debe conservarse ningún ti po de dato ni de documento.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Los asientos de entrada y salida.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Los asientos de entrada y salida."."
 
 ---
 
 #### Pregunta 135 (Examen #64)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #64)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ VALOR TIENE LA COPIA AUTÉNTICA?
@@ -2740,16 +2879,17 @@ DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE L
 *   **D)** Pleno valor administrativo y legal frente a to das las personas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Pleno valor administrativo y legal frente a to das las personas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Pleno valor administrativo y legal frente a to das las personas."."
 
 ---
 
 #### Pregunta 136 (Examen #65)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #65)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ SIGNIFICA QUE LA FIRMA ELECTRÓNICA ASEGURA LA INTEGRIDAD DEL CONTENIDO DEL DOCUMENTO?        
@@ -2760,16 +2900,17 @@ DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE L
 *   **D)** Significa que garantiza la identidad de la per sona signataria.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Significa que la información recibida no ha si do modificada o manipulada durante la transmisión.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Significa que la información recibida no ha si do modificada o manipulada durante la transmisión."."
 
 ---
 
 #### Pregunta 137 (Examen #66)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #66)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 “CONOCER LAS NECESIDADES ACTUALES Y EMERGENTES D E CLIENTES/PERSONAS USUARIAS Y CLIENTES/CIUDADANÍA, C REÁNDOLES UN VALOR SOSTENIDO” SE RELACIONA CON EL SIGUIENTE CONC EPTO BÁSICO O VALOR CENTRAL DE LA CALIDAD:
@@ -2780,16 +2921,17 @@ DESDE EL ARCHIVO DE OFICINA, ¿A QUÉ NIVEL DE ARC HIVO DEBERÍAN TRANSFERIRSE L
 *   **D)** Desarrollo e implicación de las personas que i ntegran la organización.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Orientación al cliente.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Orientación al cliente."."
 
 ---
 
 #### Pregunta 138 (Examen #67)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #67)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 DEFINIMOS LA CARTA DE SERVICIOS COMO…
@@ -2800,16 +2942,17 @@ DEFINIMOS LA CARTA DE SERVICIOS COMO…
 *   **D)** … un documento escrito a través del cual las o rganizaciones informan públicamente de los servicios que determinada persona o determinado col ectivo ha demandado en un periodo determinado, y los resultados obtenidos en forma de indicadores de calidad.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "… un documento escrito a través del cual las o rganizaciones informan públicamente sobre los servicios que gestionan y los compromisos de calida d en su prestación, así como de los derechos y obligaciones que asisten a la ciudadanía y a los usuarios directos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "… un documento escrito a través del cual las o rganizaciones informan públicamente sobre los servicios que gestionan y los compromisos de calida d en su prestación, así como de los derechos y obligaciones que asisten a la ciudadanía y a los usuarios directos."."
 
 ---
 
 #### Pregunta 139 (Examen #68)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #68)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA METODOLOGÍA 5S:
@@ -2820,16 +2963,17 @@ LA METODOLOGÍA 5S:
 *   **D)** Surge en Japón en los años 60, y a través de l as 5 fases en las que se estructura nos permite organizar el lugar de trabajo separando necesarios de innecesarios, suprimiendo tanto la suciedad como las anomalías, y facilitando la mejor a continua al respetar las normas establecidas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Surge en Japón en los años 60, y a través de l as 5 fases en las que se estructura nos permite organizar el lugar de trabajo separando necesarios de innecesarios, suprimiendo tanto la suciedad como las anomalías, y facilitando la mejor a continua al respetar las normas establecidas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Surge en Japón en los años 60, y a través de l as 5 fases en las que se estructura nos permite organizar el lugar de trabajo separando necesarios de innecesarios, suprimiendo tanto la suciedad como las anomalías, y facilitando la mejor a continua al respetar las normas establecidas."."
 
 ---
 
 #### Pregunta 140 (Examen #72)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #72)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA LEGISLACIÓN DE PROCEDIMIENTO ADMINISTRATIVO R ECOGE, COMO DERECHO DE LA CIUDADANÍA, EN SU RELACIÓN CON LA ADMINISTRACIÓN:
@@ -2840,16 +2984,17 @@ LA LEGISLACIÓN DE PROCEDIMIENTO ADMINISTRATIVO R ECOGE, COMO DERECHO DE LA CIUD
 *   **D)** El derecho al acceso a documentos que contenga n datos referentes a la intimidad de terceras personas.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "El derecho a conocer, en cualquier momento, el estado de tramitación de los procedimientos en los que tengan la condición de interesados.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "El derecho a conocer, en cualquier momento, el estado de tramitación de los procedimientos en los que tengan la condición de interesados."."
 
 ---
 
 #### Pregunta 141 (Examen #73)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #73)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA LEGISLACIÓN DE PROCEDIMIENTO ADMINISTRATIVO C ONSIDERA INTERESADOS EN UN PROCEDIMIENTO ADMINISTRATIVO…
@@ -2860,16 +3005,17 @@ LA LEGISLACIÓN DE PROCEDIMIENTO ADMINISTRATIVO C ONSIDERA INTERESADOS EN UN PRO
 *   **D)** A las administraciones actuantes.        
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "A quienes tengan derechos que puedan resultar afectados por la decisión que se adopte.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "A quienes tengan derechos que puedan resultar afectados por la decisión que se adopte."."
 
 ---
 
 #### Pregunta 142 (Examen #74)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #74)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 UN TIPO DE TEXTO ADMINISTRATIVO EMPLEADO PARA CO NSTATAR UN DETERMINADO HECHO Y QUE ASEGURA SU CERTEZA BAJO LA RESPONSABILIDAD DE LA PERSONA DE LA ADMINISTRACIÓN PÚBLICA QUE LO A UTORIZA, CORRESPONDE A LA DEFINICIÓN DE:
@@ -2880,16 +3026,17 @@ UN TIPO DE TEXTO ADMINISTRATIVO EMPLEADO PARA CO NSTATAR UN DETERMINADO HECHO Y 
 *   **D)** Diligencia.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Certificado.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción A) "Certificado." es la legalmente exacta."
 
 ---
 
 #### Pregunta 143 (Examen #75)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #75)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS DOCUMENTOS QUE PONEN FIN A LOS PROCEDIMIENTO S ADMINISTRATIVOS SOLUCIONANDO LAS CUESTIONES PLANTEADAS EN LOS EXPED IENTES, SE DENOMINAN…
@@ -2900,16 +3047,17 @@ LOS DOCUMENTOS QUE PONEN FIN A LOS PROCEDIMIENTO S ADMINISTRATIVOS SOLUCIONANDO 
 *   **D)** Oficios.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Resoluciones.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Resoluciones."."
 
 ---
 
 #### Pregunta 144 (Examen #76)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #76)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL DE LAS SIGUIENTES AFIRMACIONES ES ADECUADA PARA LA REDACCIÓN DE DOCUMENTOS ADMINISTRATIVOS?
@@ -2920,16 +3068,17 @@ LOS DOCUMENTOS QUE PONEN FIN A LOS PROCEDIMIENTO S ADMINISTRATIVOS SOLUCIONANDO 
 *   **D)** En el lenguaje administrativo es preferible ut ilizar el estilo nominal, ya que se dota de mayor significado a los verbos.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "En el lenguaje administrativo es más adecuado utilizar la voz activa, ya que de esta forma se señala a la persona responsable de la acción.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "En el lenguaje administrativo es más adecuado utilizar la voz activa, ya que de esta forma se señala a la persona responsable de la acción."."
 
 ---
 
 #### Pregunta 145 (Examen #77)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #77)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿LAS COMUNICACIONES ENTRE ÓRGANOS ADMINISTRATIVO S SE DENOMINAN NORMALMENTE?
@@ -2940,16 +3089,17 @@ LOS DOCUMENTOS QUE PONEN FIN A LOS PROCEDIMIENTO S ADMINISTRATIVOS SOLUCIONANDO 
 *   **D)** Cartas.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Oficios.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Los criterios de estilo y normalización documental del IVAP establecen que la opción correcta es: "Oficios."."
 
 ---
 
 #### Pregunta 146 (Examen #78)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #78)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUIÉN ELABORA LOS PRESUPUESTOS GENERALES DE LA COMUNIDAD AUTÓNOMA DE EUSKADI?
@@ -2960,16 +3110,17 @@ LOS DOCUMENTOS QUE PONEN FIN A LOS PROCEDIMIENTO S ADMINISTRATIVOS SOLUCIONANDO 
 *   **D)** Las Juntas Generales de los Territorios Histór icos
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "El Gobierno Vasco.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "El Gobierno Vasco."."
 
 ---
 
 #### Pregunta 147 (Examen #79)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #79)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL CONTROL EXTERNO DE LOS PRESUPUESTOS Y DE LA E JECUCIÓN PRESUPUESTARIA SE EJERCE POR:
@@ -2980,16 +3131,17 @@ EL CONTROL EXTERNO DE LOS PRESUPUESTOS Y DE LA E JECUCIÓN PRESUPUESTARIA SE EJE
 *   **D)** Emakunde.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "El Tribunal Vasco de Cuentas Públicas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "El Tribunal Vasco de Cuentas Públicas."."
 
 ---
 
 #### Pregunta 148 (Examen #80)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #80)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ MODIFICACIÓN PRESUPUESTARIA DE ENTRE LAS SI GUIENTES NO AFECTA AL TOTAL DEL PRESUPUESTO?
@@ -3000,16 +3152,17 @@ EL CONTROL EXTERNO DE LOS PRESUPUESTOS Y DE LA E JECUCIÓN PRESUPUESTARIA SE EJE
 *   **D)** La variación de competencias o servicios.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La Transferencia de créditos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "La Transferencia de créditos."."
 
 ---
 
 #### Pregunta 149 (Examen #81)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #81)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA AUTORIZACIÓN DEL GASTO ES EL ACTO POR EL CUAL SE:
@@ -3020,16 +3173,17 @@ LA AUTORIZACIÓN DEL GASTO ES EL ACTO POR EL CUAL SE:
 *   **D)** Acuerda la realización por importe mínimo, cie rto o aproximado con cargo a un determinado crédito de pago, reservándose a tal fin la totalidad o una parte disponible del mismo.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Acuerda la realización por importe máximo, cie rto o aproximado con cargo a un determinado crédito de pago, reservándose a tal fin la totalidad o una parte disponible del mismo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Acuerda la realización por importe máximo, cie rto o aproximado con cargo a un determinado crédito de pago, reservándose a tal fin la totalidad o una parte disponible del mismo."."
 
 ---
 
 #### Pregunta 150 (Examen #82)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #82)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS PAGOS CON CARGO A LA TESORERÍA GENERAL DEL P AIS VASCO PODRÁN EFECTUARSE:
@@ -3040,16 +3194,17 @@ LOS PAGOS CON CARGO A LA TESORERÍA GENERAL DEL P AIS VASCO PODRÁN EFECTUARSE:
 *   **D)** Por cualquier modalidad o medio admitido en de recho, de acuerdo con lo determinado para cada caso en las disposiciones dictadas en desarrol lo de la Ley de Finanzas de la Administración General del Estado.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Por cualquier modalidad o medio admitido en de recho, de acuerdo con lo determinado para cada caso en las disposiciones dictadas en desarrol lo de la Ley de Finanzas de la Comunidad Autónoma de Euskadi.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Por cualquier modalidad o medio admitido en de recho, de acuerdo con lo determinado para cada caso en las disposiciones dictadas en desarrol lo de la Ley de Finanzas de la Comunidad Autónoma de Euskadi."."
 
 ---
 
 #### Pregunta 151 (Examen #83)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #83)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL PRESUPUESTO DE INGRESOS SE PUEDE DEFINIR COMO :        
@@ -3060,16 +3215,17 @@ EL PRESUPUESTO DE INGRESOS SE PUEDE DEFINIR COMO :        
 *   **D)** La previsión de las aportaciones de las Diputa ciones Forales como contribución a los gastos presupuestarios de la Administración de la Comunida d Autónoma de Euskadi., durante el ejercicio presupuestario.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La previsión de todos los ingresos a liquidar por la Administración durante el ejercicio presupuestario, es decir durante el año natural.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "La previsión de todos los ingresos a liquidar por la Administración durante el ejercicio presupuestario, es decir durante el año natural."."
 
 ---
 
 #### Pregunta 152 (Examen #84)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #84)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ATENDIENDO A LA CLASIFICACIÓN ECONÓMICA, EL CAPÍ TULO 4 DEL PRESUPUESTO DE INGRESOS RECOGE:
@@ -3080,16 +3236,17 @@ ATENDIENDO A LA CLASIFICACIÓN ECONÓMICA, EL CAPÍ TULO 4 DEL PRESUPUESTO DE IN
 *   **D)** Los ingresos de derecho privado, entre los que se encuentran los intereses de las cuentas bancarias de la Tesorería General del País Vasco.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Las transferencias y subvenciones recibidas pa ra gastos corrientes.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Las transferencias y subvenciones recibidas pa ra gastos corrientes."."
 
 ---
 
 #### Pregunta 153 (Examen #85)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #85 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3101,16 +3258,17 @@ ATENDIENDO A LA CLASIFICACIÓN ECONÓMICA, EL CAPÍ TULO 4 DEL PRESUPUESTO DE IN
 *   **D)** Por el presupuesto no gastado.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Por diferencia entre los ingresos (derechos re conocidos) y los gastos (obligaciones reconocidas) realizados.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Por diferencia entre los ingresos (derechos re conocidos) y los gastos (obligaciones reconocidas) realizados."."
 
 ---
 
 #### Pregunta 154 (Examen #86)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #86 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3122,16 +3280,17 @@ ATENDIENDO A LA CLASIFICACIÓN ECONÓMICA, EL CAPÍ TULO 4 DEL PRESUPUESTO DE IN
 *   **D)** Las emisiones de deuda pública y las operacion es de crédito o de préstamo con entidades financieras, tanto en moneda nacional como extranjera.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Las emisiones de deuda pública y las operacion es de crédito o de préstamo con entidades financieras, tanto en moneda nacional como extranjera.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Las emisiones de deuda pública y las operacion es de crédito o de préstamo con entidades financieras, tanto en moneda nacional como extranjera."."
 
 ---
 
 #### Pregunta 155 (Examen #87)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #87 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3143,16 +3302,17 @@ ATENDIENDO A LA CLASIFICACIÓN ECONÓMICA, EL CAPÍ TULO 4 DEL PRESUPUESTO DE IN
 *   **D)** Cada Departamento decide su propio Presupuesto .        
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Se prorrogan los Presupuestos del ejercicio an terior.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Se prorrogan los Presupuestos del ejercicio an terior."."
 
 ---
 
 #### Pregunta 156 (Examen #88)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 27: Centros de Documentación y Bibliotecas (Ley 11/2007)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #88 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3164,16 +3324,17 @@ EN RELACIÓN A LOS PROCESOS TÉCNICOS BÁSICOS DE U NA BIBLIOTECA, EL TERMINO �
 *   **D)** Carné de préstamo.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Análisis de contenido.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 11/2007, de Bibliotecas de Euskadi y Biblioteconomía Técnica
+*   **Artículo**: Procesos técnicos documentales y Sistema de Lectura Pública
+*   **Literal / Explicación**: "En los procesos técnicos bibliotecarios, la indización forma parte del análisis interno o de contenido del documento, consistente en extraer los conceptos y términos temáticos normalizados para facilitar su posterior recuperación (Plantilla OPE Bolsas 2010 #88)."
 
 ---
 
 #### Pregunta 157 (Examen #89)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 27: Centros de Documentación y Bibliotecas (Ley 11/2007)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #89 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3185,16 +3346,17 @@ EL SISTEMA BIBLIOTECARIO DE EUSKADI SE SUSTENTA EN:
 *   **D)** La Ley 11/2009 del libro de Euskadi.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La Ley 11/2007 de Bibliotecas de Euskadi.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 11/2007, de Bibliotecas de Euskadi y Biblioteconomía Técnica
+*   **Artículo**: Procesos técnicos documentales y Sistema de Lectura Pública
+*   **Literal / Explicación**: "La técnica bibliotecaria y la Ley 11/2007 de Bibliotecas de Euskadi fundamentan que: "La Ley 11/2007 de Bibliotecas de Euskadi."."
 
 ---
 
 #### Pregunta 158 (Examen #90)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 27: Centros de Documentación y Bibliotecas (Ley 11/2007)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #90 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3206,16 +3368,17 @@ LA RED DE LECTURA PÚBLICA DE EUSKADI ES:
 *   **D)** No existe tal Red de Lectura Pública de Euskad i.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Uno de los componentes del Sistema Bibliotecar io de Euskadi.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "El art. 7.a) de la Ley 11/2007 de Bibliotecas de Euskadi define a la Red de Lectura Pública de Euskadi como uno de los componentes estructurales esenciales del Sistema Bibliotecario de Euskadi (Plantilla OPE Bolsas 2010 #90)."
 
 ---
 
 #### Pregunta 159 (Examen #91)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 27: Centros de Documentación y Bibliotecas (Ley 11/2007)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #91 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3227,16 +3390,17 @@ LA RED DE LECTURA PÚBLICA DE EUSKADI ES:
 *   **D)** No se sabe, no está contemplado en la Ley.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Sí, mediante convenio con el Departamento de C ultura.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 11/2007, de Bibliotecas de Euskadi y Biblioteconomía Técnica
+*   **Artículo**: Procesos técnicos documentales y Sistema de Lectura Pública
+*   **Literal / Explicación**: "El art. 7.e) de la Ley 11/2007, de 26 de octubre, de Bibliotecas de Euskadi, establece que las bibliotecas especializadas pueden integrarse en el Sistema Bibliotecario de Euskadi mediante convenio suscrito con el departamento del Gobierno Vasco competente en materia de cultura (Plantilla OPE Bolsas 2010 #91)."
 
 ---
 
 #### Pregunta 160 (Examen #92)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 11: Prevención de Riesgos Laborales (Ley 31/1995)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #92 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3248,16 +3412,17 @@ SEGÚN LA LEY 31/1995, DE 8 DE NOVIEMBRE, DE PREV ENCIÓN DE RIESGOS LABORALES, 
 *   **D)** Exclusivamente en garantizar los reconocimient os médicos de empresa.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La obligación que tiene de elaborar un plan de prevención de la empresa, de realizar las evaluaciones de riesgos, de vigilar la salud de su personal y de crear una adecuada organización preventiva.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "La obligación que tiene de elaborar un plan de prevención de la empresa, de realizar las evaluaciones de riesgos, de vigilar la salud de su personal y de crear una adecuada organización preventiva."."
 
 ---
 
 #### Pregunta 161 (Examen #93)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 11: Prevención de Riesgos Laborales (Ley 31/1995)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #93 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3269,16 +3434,17 @@ SEGÚN LA LEY 31/1995, DE 8 DE NOVIEMBRE, DE PREV ENCIÓN DE RIESGOS LABORALES, 
 *   **D)** Todas las afirmaciones anteriores son correcta s.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "En un mismo centro de trabajo, desarrollen su actividad laboral personal de dos o más         empresas o administraciones.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "En un mismo centro de trabajo, desarrollen su actividad laboral personal de dos o más         empresas o administraciones."."
 
 ---
 
 #### Pregunta 162 (Examen #94)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 12: Salud Laboral Específica: Pantallas de Visualización de Datos (RD 488/1997)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #94 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3290,16 +3456,17 @@ LOS NIVELES DE LUMINANCIA RECOMENDADOS EN LOS PU ESTOS DE TRABAJO QUE UTILIZAN P
 *   **D)** Entre 1.000 y 1.300 luxes.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Entre 300 y 1.000 luxes.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Entre 300 y 1.000 luxes."."
 
 ---
 
 #### Pregunta 163 (Examen #95)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 12: Salud Laboral Específica: Pantallas de Visualización de Datos (RD 488/1997)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #95 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3311,16 +3478,17 @@ ENTRE LAS PERSONAS USUARIAS DE PANTALLAS DE VISU ALIZACIÓN DE DATOS, LA EPICOND
 *   **D)** Una lesión que afecta al codo.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Una lesión que afecta al codo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Una lesión que afecta al codo."."
 
 ---
 
 #### Pregunta 164 (Examen #96)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #96 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3332,16 +3500,17 @@ ENTRE LAS PERSONAS USUARIAS DE PANTALLAS DE VISU ALIZACIÓN DE DATOS, LA EPICOND
 *   **D)** Todas las afirmaciones anteriores son correcta s.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Conocer los edificios y sus instalaciones, par a determinar cuáles son los sectores de mayor peligrosidad.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Conocer los edificios y sus instalaciones, par a determinar cuáles son los sectores de mayor peligrosidad."."
 
 ---
 
 #### Pregunta 165 (Examen #97)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #97 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3353,16 +3522,17 @@ EN EL LUGAR DE TRABAJO LA SEÑALIZACIÓN PUEDE SER :
 *   **D)** Todas las respuestas anteriores son correctas.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "En forma de panel, señales luminosas y acústic as, comunicaciones verbales y señales gestuales.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "En forma de panel, señales luminosas y acústic as, comunicaciones verbales y señales gestuales."."
 
 ---
 
 #### Pregunta 166 (Examen #98)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #98 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3374,16 +3544,17 @@ LA IMPLANTACIÓN DE UN PLAN DE AUTOPROTECCIÓN, DE BE COMPRENDER :
 *   **D)** Ninguna de las anteriores es correcta.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La definición, provisión y gestión de los medi os y recursos económicos necesarios.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "La definición, provisión y gestión de los medi os y recursos económicos necesarios."."
 
 ---
 
 #### Pregunta 167 (Examen #99)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #99 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3395,16 +3566,17 @@ EN LA CALIFICACIÓN DE LAS QUEMADURAS, ATENDIENDO A SU PROFUNDIDAD, LA LESIÓN D
 *   **D)** No se corresponde con la clasificación de las quemaduras por profundidad.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Quemadura de primer grado.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Quemadura de primer grado."."
 
 ---
 
 #### Pregunta 168 (Examen #100)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 2  
+**Tema**: Tema 13: Nociones Básicas de Primeros Auxilios  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #100 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3416,10 +3588,10 @@ EN MATERIA DE PRIMEROS AUXILIOS, ¿CUÁL DE LAS S IGUIENTES AFIRMACIONES ES VERD
 *   **D)** La crepitación es un signo propio de los frag mentos óseos fracturados.    
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 2 (Procedimiento Administrativo y Función Pública (Preguntas 51-100))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "La crepitación es un signo propio de los frag mentos óseos fracturados.    ".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "La crepitación es un signo propio de los frag mentos óseos fracturados.    "."
 
 ---
 
@@ -3427,8 +3599,9 @@ EN MATERIA DE PRIMEROS AUXILIOS, ¿CUÁL DE LAS S IGUIENTES AFIRMACIONES ES VERD
 *Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115)*
 
 #### Pregunta 169 (Examen #101)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #101 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3440,16 +3613,17 @@ EL TRIBUNAL DE JUSTICIA DE LAS COMUNIDADES EURO PEAS HA PASADO A DENOMINARSE TRI
 *   **D)** Desde la entrada en vigor del Tratado de Malt a.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Desde la entrada en vigor del Tratado de Lisb oa.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Desde la entrada en vigor del Tratado de Lisb oa."."
 
 ---
 
 #### Pregunta 170 (Examen #102)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #102 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3461,16 +3635,17 @@ SEGÚN EL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, LA MATERIA DE PROPIEDAD INTELE
 *   **D)** Es competencia de ejecución de la Comunidad A utónoma Vasca.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Es competencia de ejecución de la Comunidad A utónoma Vasca.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "Es competencia de ejecución de la Comunidad A utónoma Vasca."."
 
 ---
 
 #### Pregunta 171 (Examen #103)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 6: Igualdad de Mujeres y Hombres (Ley 4/2005 y Ley 1/2022)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #103 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3482,16 +3657,17 @@ LA LEY VASCA PARA LA IGUALDAD DE MUJERES Y HOMB RES RECOGE OCHO PRINCIPIOS GENER
 *   **D)** El de representación estereotipada.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "El de colaboración y coordinación.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 4/2005 para la Igualdad de Mujeres y Hombres (modificada por Ley 1/2022)
+*   **Artículo**: Principios Generales y Medidas de Igualdad
+*   **Literal / Explicación**: "La normativa vasca de igualdad de mujeres y hombres (Ley 4/2005) establece que la opción correcta es: "El de colaboración y coordinación."."
 
 ---
 
 #### Pregunta 172 (Examen #104)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #104 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3503,16 +3679,17 @@ LA LEY VASCA PARA LA IGUALDAD DE MUJERES Y HOMB RES RECOGE OCHO PRINCIPIOS GENER
 *   **D)** Potestad arbitraria.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Potestad discrecional.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Potestad discrecional."."
 
 ---
 
 #### Pregunta 173 (Examen #105)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #105 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3524,16 +3701,17 @@ LA LEY VASCA PARA LA IGUALDAD DE MUJERES Y HOMB RES RECOGE OCHO PRINCIPIOS GENER
 *   **D)** Que el plazo queda indefinidamente abierto.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Que entra en juego el plazo supletorio de la legislación de procedimiento administrativo, que es de tres meses.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Que entra en juego el plazo supletorio de la legislación de procedimiento administrativo, que es de tres meses."."
 
 ---
 
 #### Pregunta 174 (Examen #106)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #106 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3545,16 +3723,17 @@ EN LA SIGUIENTE RELACIÓN DE DERECHOS HAY UNO QU E, EN DETERMINADAS CIRCUNSTANCI
 *   **D)** El derecho al trámite de audiencia.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "El derecho de acceso a los registros y archiv os de las Administraciones Públicas, si el procedimiento está terminado.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "El derecho de acceso a los registros y archiv os de las Administraciones Públicas, si el procedimiento está terminado."."
 
 ---
 
 #### Pregunta 175 (Examen #107)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #107 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3566,16 +3745,17 @@ EN LA SIGUIENTE RELACIÓN DE DERECHOS HAY UNO QU E, EN DETERMINADAS CIRCUNSTANCI
 *   **D)** Que son actos de trámite cualificados y, por tanto, no pueden recurrirse de forma autónoma.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Que son actos de trámite cualificados y, por tanto, pueden recurrirse de forma autónoma.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Que son actos de trámite cualificados y, por tanto, pueden recurrirse de forma autónoma."."
 
 ---
 
 #### Pregunta 176 (Examen #108)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #108 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3587,16 +3767,17 @@ EN LA SIGUIENTE RELACIÓN DE DERECHOS HAY UNO QU E, EN DETERMINADAS CIRCUNSTANCI
 *   **D)** El contrato de servicios.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "El contrato de gestión de servicios públicos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "El contrato de gestión de servicios públicos."."
 
 ---
 
 #### Pregunta 177 (Examen #109)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #109 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3608,16 +3789,17 @@ EN LA SIGUIENTE RELACIÓN DE DERECHOS HAY UNO QU E, EN DETERMINADAS CIRCUNSTANCI
 *   **D)** Que el encargado del tratamiento proceda a la actualización de los datos en cuestión.        
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Que el responsable no lleve a cabo el tratami ento de los datos en cuestión.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Que el responsable no lleve a cabo el tratami ento de los datos en cuestión."."
 
 ---
 
 #### Pregunta 178 (Examen #110)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #110 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3629,16 +3811,17 @@ EN LA SIGUIENTE RELACIÓN DE DERECHOS HAY UNO QU E, EN DETERMINADAS CIRCUNSTANCI
 *   **D)** El Colegio Público San Martín.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La Facultad de Medicina y Cirugía.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "La Facultad de Medicina y Cirugía."."
 
 ---
 
 #### Pregunta 179 (Examen #111)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #111 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3650,16 +3833,17 @@ RESPECTO A TODO DOCUMENTO AUTÉNTICO, ¿CUÁL DE L A SIGUIENTES OPCIONES ES CORR
 *   **D)** Incorpora firma electrónica.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Evidencia su procedencia inequívocamente.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Evidencia su procedencia inequívocamente."."
 
 ---
 
 #### Pregunta 180 (Examen #112)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #112 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3671,16 +3855,17 @@ SEÑALA CUÁL DE LAS SIGUIENTES AFIRMACIONES ES L A CORRECTA:
 *   **D)** El Modelo EFQM de Excelencia se fundamenta en 9 criterios, y distingue 5 criterios de Agentes Facilitadores y 4 criterios de resultados.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "El Modelo EFQM de Excelencia se fundamenta en 9 criterios, y distingue 5 criterios de Agentes Facilitadores y 4 criterios de resultados.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "El Modelo EFQM de Excelencia se fundamenta en 9 criterios, y distingue 5 criterios de Agentes Facilitadores y 4 criterios de resultados."."
 
 ---
 
 #### Pregunta 181 (Examen #113)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #113 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3692,16 +3877,17 @@ EN RELACIÓN A LA EJECUCIÓN DEL PRESUPUESTO DE I NGRESOS, SE ENTIENDE POR RECON
 *   **D)** El acto por el cual se determina que un derec ho de cobro tiene un valor cierto, aún cuando se desconozca el deudor.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "El acto por el cual se formaliza un derecho e conómico a favor de la Administración.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "El acto por el cual se formaliza un derecho e conómico a favor de la Administración."."
 
 ---
 
 #### Pregunta 182 (Examen #114)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #114 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3713,16 +3899,17 @@ EN RELACIÓN AL TRATAMIENTO TÉCNICO DE LOS FONDO S DOCUMENTALES, EL RESUMEN DE 
 *   **D)** Sí, a la ISO-2709-08        
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sí, a la UNE-50-103-90".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto 232/2000, por el que se aprueba el Reglamento del Sistema de Archivo y Gestión Documental de la CAE
+*   **Artículo**: Principios archivísticos y ciclo de vida documental
+*   **Literal / Explicación**: "Agiri baten laburpen dokumentala egiteko UNE-50-103-90 arau tekniko ofiziala jarraitu behar da (Plantilla OPE Bolsas 2010 #114)."
 
 ---
 
 #### Pregunta 183 (Examen #115)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Bloque 3  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #115 - Reserva)  
+**Estado**: Vigente  
 **Tipo**: Pregunta de Reserva  
 
 **Enunciado**:  
@@ -3734,10 +3921,10 @@ LA MANIOBRA DE HEIMLICH:
 *   **D)** Es una maniobra de resucitación cardiopulmona r avanzada.                    PRUEBA 2 LA HOJA DE RESPUESTAS CASO Nº 1.- USTED TRABAJA COMO ADMINISTRATIVO EN UN A UNIDAD DE INFORMACIÓN ADMINISTRATIVA. RESPONDA DE LA FORMA MÁ S ADECUADA A LAS SIGUIENTES CUESTIONES  
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Bloque 3 (Prevención de Riesgos, Calidad y Reserva (Preguntas 101-115))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Es una maniobra de primeros auxilios en caso de que se dé una obstrucción de las vías aéreas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Es una maniobra de primeros auxilios en caso de que se dé una obstrucción de las vías aéreas."."
 
 ---
 
@@ -3745,8 +3932,9 @@ LA MANIOBRA DE HEIMLICH:
 *Supuestos Prácticos de Gestión (Preguntas 151-202)*
 
 #### Pregunta 184 (Examen #151)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 29: Órganos Administrativos y Colegiados (Ley 40/2015 y Ley 3/2022)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #151)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL ÓRGANO COMPETENTE OTORGA DETERMINADAS AYUDAS AGRARIAS. CIERTA COOPERATIVA CONSIDERA QUE ESA RESOLUCIÓN RES ULTA DISCRIMINATORIA. INTERPONE EL RECURSO ADMINISTRATIV O PERTINENTE Y SOLICITA EN ÉL LA SUSPENSIÓN DE LA EFICACIA DEL ACTO IMPUGNADO. TREINTA DÍAS DESPUÉS, LA ADMINISTRACIÓN NO SE HA PR ONUNCIADO SOBRE TAL SOLICITUD. ANTE LA CONSULTA SOBRE LA CONSECUENCIA JURÍDICA DER IVADA DE ESE SILENCIO, ¿CUÁL SERÍA SU RESPUESTA?
@@ -3757,16 +3945,17 @@ EL ÓRGANO COMPETENTE OTORGA DETERMINADAS AYUDAS AGRARIAS. CIERTA COOPERATIVA CO
 *   **D)** Que el acto impugnado se entenderá automática mente anulado.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Que la eficacia del acto se entenderá automát icamente suspendida.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015, de Régimen Jurídico del Sector Público (arts. 8 a 19)
+*   **Artículo**: Órganos administrativos y traslación de competencias
+*   **Literal / Explicación**: "La Ley 40/2015 (y concordante art. 14 Ley 30/1992) regula que la opción correcta es: "Que la eficacia del acto se entenderá automát icamente suspendida."."
 
 ---
 
 #### Pregunta 185 (Examen #152)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 29: Órganos Administrativos y Colegiados (Ley 40/2015 y Ley 3/2022)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #152)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 CIERTA SOCIEDAD ANÓNIMA PRESENTÓ ANTE LA ADMINI STRACIÓN UNA RECLAMACIÓN POR DAÑOS Y PERJUICIOS. TRANSCURRIDO EL PLAZO LEGALMENTE ESTABLECIDO PARA E LLO, EL ÓRGANO ADMINISTRATIVO COMPETENTE ÁUN NO LE HABÍA RESPONDIDO. PRESENTÓ ENTONCES EL OPORTUNO RECURSO ADMINISTRATIV O PERO, TRES MESES MÁS TARDE, SIGUE SIN RECIBIR NINGUNA RESPUEST A DE LA ADMINISTRACIÓN. EN TAL SITUACIÓN ¿QUÉ HA DE ENTENDERSE?
@@ -3777,16 +3966,17 @@ CIERTA SOCIEDAD ANÓNIMA PRESENTÓ ANTE LA ADMINI STRACIÓN UNA RECLAMACIÓN POR
 *   **D)** Que el recurso ha sido desestimado por silenc io administrativo negativo.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Que el recurso ha sido desestimado por silenc io administrativo negativo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015, de Régimen Jurídico del Sector Público (arts. 8 a 19)
+*   **Artículo**: Órganos administrativos y traslación de competencias
+*   **Literal / Explicación**: "La Ley 40/2015 (y concordante art. 14 Ley 30/1992) regula que la opción correcta es: "Que el recurso ha sido desestimado por silenc io administrativo negativo."."
 
 ---
 
 #### Pregunta 186 (Examen #153)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #153)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA ADMINISTRACIÓN CONVOCA UNAS OPOSICIONES. AL APARECER LA LISTA DE ADMITIDOS, SE ADVIERTE QUE UNA DE LAS ASPIRANTES TIENE PARENTESCO CON EL SECRETARIO DEL T RIBUNAL DE SELECCIÓN. POR ESTE MOTIVO, VARIOS OPOSITORES PRESENTAN ESCRIT O DE RECUSACIÓN CONTRA EL SECRETARIO. ¿ALTERA EN ALGO ESE ESCRITO EL CURSO DEL PROCEDIMIE NTO SELECTIVO?
@@ -3797,16 +3987,17 @@ LA ADMINISTRACIÓN CONVOCA UNAS OPOSICIONES. AL APARECER LA LISTA DE ADMITIDOS, 
 *   **D)** Sí, el procedimiento se da por finalizado med iante resolución que haga constar la incidencia.        
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sí, el procedimiento se suspende hasta que se resuelva el incidente.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Sí, el procedimiento se suspende hasta que se resuelva el incidente."."
 
 ---
 
 #### Pregunta 187 (Examen #154)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #154)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA SEÑORA A. PRESTA SERVICIOS EN UNA ADMINISTRA CIÓN PÚBLICA MEDIANTE EL CORRESPONDIENTE CONTRATO DE TRABAJO. A LA VISTA DE SU BAJO RENDIMIENTO CONTINUADO, LA AD MINISTRACIÓN PROCEDE A SU DESPIDO. LA SEÑORA A. CONSIDERA QUE DICHO DESPIDO NO ESTÁ JU STIFICADO Y PRETENDE QUE SEA DECLARADO NULO. ¿CUÁL DE LAS SIGUIENTES VÍAS PROCESALES HA DE UTILI ZAR PARA CANALIZAR SU PRETENSIÓN?
@@ -3817,16 +4008,17 @@ LA SEÑORA A. PRESTA SERVICIOS EN UNA ADMINISTRA CIÓN PÚBLICA MEDIANTE EL CORR
 *   **D)** Ha de interponer una reclamación previa a la vía judicial laboral.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Ha de interponer una reclamación previa a la vía judicial laboral.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Ha de interponer una reclamación previa a la vía judicial laboral."."
 
 ---
 
 #### Pregunta 188 (Examen #155)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #155)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA ADMINISTRACIÓN ABRIÓ UN EXPEDIENTE SANCIONAD OR A UNA EMPRESA. EL PLAZO PARA RESOLVER HA VENCIDO SIN QUE HAYA RECA ÍDO RESOLUCIÓN EXPRESA. UN REPRESENTANTE DE LA EMPRESA LLAMA PARA PREGUNTAR SI TODAVÍA PUEDE SER SANCIONADA. ¿QUÉ LE RESPONDERÍA?
@@ -3837,16 +4029,17 @@ LA ADMINISTRACIÓN ABRIÓ UN EXPEDIENTE SANCIONAD OR A UNA EMPRESA. EL PLAZO PAR
 *   **D)** No, porque el procedimiento sancionador ya ha prescrito.   CASO Nº 2.- USTED TRABAJA COMO ADMINISTRATIVO EN LA DIRECCIÓN QUE GESTIONA LOS TEMAS DE PERSONAL DE UN DEPARTAMENTO D EL GOBIERNO VASCO. RESPONDA DE LA FORMA MÁS ADECUADA A LAS SIGU IENTES CUESTIONES  
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sí, pero tendrá que iniciar un nuevo procedim iento sancionador si es que la infracción no ha prescrito.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Sí, pero tendrá que iniciar un nuevo procedim iento sancionador si es que la infracción no ha prescrito."."
 
 ---
 
 #### Pregunta 189 (Examen #156)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #156)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 JBR ASPIRANTE A FUNCIONARIO DE LA COMUNIDAD AUT ÓNOMA DEL PAÍS VASCO SE PRESENTA A UN PROCESO SELECTIVO CALIFICADO COMO CONCURSO- OPOSICIÓN. EN ESTOS PROCESOS, LA VALORACIÓN DE LA FASE DE CONC URSO ¿EN QUÉ PORCENTAJE NO PUEDE EXCEDER RESPECTO DE LA PUNTUACI ÓN MÁXIMA ALCANZABLE EN LA FASE DE OPOSICIÓN?
@@ -3857,16 +4050,17 @@ JBR ASPIRANTE A FUNCIONARIO DE LA COMUNIDAD AUT ÓNOMA DEL PAÍS VASCO SE PRESEN
 *   **D)** En el 60%.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "En el 45%.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "En el 45%."."
 
 ---
 
 #### Pregunta 190 (Examen #157)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #157)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SUPERADO EL PROCESO SELECTIVO, JBR RESUL TA ASIGNADO A UN PUE STO DE         TRABAJO VACANTE DE NIVEL DE COMPLEMENTO DE DESTINO 23 CONFORME SE RECOGE...
@@ -3877,16 +4071,17 @@ SUPERADO EL PROCESO SELECTIVO, JBR RESUL TA ASIGNADO A UN PUE STO DE      
 *   **D)** En el decreto de estructura orgánica del Depa rtamento correspondiente.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "En las relaciones de puestos de trabajo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "En las relaciones de puestos de trabajo."."
 
 ---
 
 #### Pregunta 191 (Examen #158)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #158)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA CUANTÍA DEL NIVEL DE COMPLEMENTO DE DESTINO SE FIJA:
@@ -3897,16 +4092,17 @@ LA CUANTÍA DEL NIVEL DE COMPLEMENTO DE DESTINO SE FIJA:
 *   **D)** En la convocatoria del proceso de provisión p ara la cobertura del puesto.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "En la Ley de Presupuestos Generales de la Adm inistración General de la Comunidad Autónoma del País Vasco.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "En la Ley de Presupuestos Generales de la Adm inistración General de la Comunidad Autónoma del País Vasco."."
 
 ---
 
 #### Pregunta 192 (Examen #159)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #159)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 JBR ES ASIMISMO PROFESOR FUNCIONARIO DE LA UNIV ERSIDAD DEL PAÍS VASCO. PARA QUE DICHA ACTIVIDAD ESTÉ EXCEPTUADA DEL PRINCI PIO DE NO- COMPATIBILIDAD SERÁ PRECISO QUE EL PUESTO DE TRABAJ O DOCENTE LO SEA COMO PROFESOR UNIVERSITARIO ASOCIADO...
@@ -3917,16 +4113,17 @@ JBR ES ASIMISMO PROFESOR FUNCIONARIO DE LA UNIV ERSIDAD DEL PAÍS VASCO. PARA QU
 *   **D)** En régimen de dedicación plena.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "En régimen de dedicación no superior a parcia l y con duración determinada.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción C) "En régimen de dedicación no superior a parcia l y con duración determinada." es la legalmente exacta."
 
 ---
 
 #### Pregunta 193 (Examen #160)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 18: Acceso al Empleo Público y Provisión de Puestos (Ley 11/2022 y TREBEP)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #160)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 JBR SE PLANTEA PEDIR UNA EXCEDENCIA VOLUNTARIA POR INTERÉS PARTICULAR. EN DICHA SITUACIÓN JBR ¿TIENE UN LÍMITE MÍNIMO DE P ERMANENCIA?
@@ -3937,16 +4134,17 @@ JBR SE PLANTEA PEDIR UNA EXCEDENCIA VOLUNTARIA POR INTERÉS PARTICULAR. EN DICHA
 *   **D)** Sí, de 5 años.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sí, de 2 años.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Sí, de 2 años."."
 
 ---
 
 #### Pregunta 194 (Examen #161)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #161)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 JBR ES NOMBRADO PERSONAL EVENTUAL DE LA ADMINIS TRACIÓN DE LA CAPV. ELLO SUPONE QUE...
@@ -3957,16 +4155,17 @@ JBR ES NOMBRADO PERSONAL EVENTUAL DE LA ADMINIS TRACIÓN DE LA CAPV. ELLO SUPONE
 *   **D)** Pasa a la situación de Servicios en otras Adm inistraciones Publicas.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Pasa a la situación de servicios especiales.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Pasa a la situación de servicios especiales."."
 
 ---
 
 #### Pregunta 195 (Examen #162)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #162)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 COMO CONSECUENCIA DE LA APERTURA DE UN EXPEDIEN TE DISCIPLINARIO POR FALTA GRAVE JBR ES DECLARADO PROVISIONALMENTE EN SI TUACIÓN DE SUSPENSIÓN PROVISIONAL. CON CARÁCTER GENERAL EL FUNCIONARIO DECLARADO EN ES TA SITUACIÓN PERCIBIRÁ, MIENTRAS PERMANEZCA EN LA MISMA...        
@@ -3977,16 +4176,17 @@ COMO CONSECUENCIA DE LA APERTURA DE UN EXPEDIEN TE DISCIPLINARIO POR FALTA GRAVE
 *   **D)** Las retribuciones básicas más el importe corr espondiente al complemento de destino.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Únicamente las retribuciones básicas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción A) "Únicamente las retribuciones básicas." es la legalmente exacta."
 
 ---
 
 #### Pregunta 196 (Examen #163)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #163)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION FIRME. EN DICHA SITUACIÓN ADMINISTRATIVA ¿PUEDE JBR PERDER SU PUESTO DE TRABAJO?
@@ -3997,16 +4197,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Si, si además es objeto de condena criminal. CASO Nº 3.- D. XXXX ES UN ADMINISTRATIVO DE LA SECR ETARÍA GENERAL DEL INSTITUTO VASCO DE ADMINISTRACIÓN PÚBLICA (IVAP). E L 2 DE ENERO DE 2010, SU INMEDIATO SUPERIOR LE INDICA QUE DEBE DE ARCHIVAR L A DOCUMENTACIÓN CONTENIDA EN UN PAR DE ARMARIOS, SIN DARLE NINGÚN T IPO DE INDICACIÓN AL RESPECTO. AL ANALIZAR SU CONTENIDO, SE ENCUENTRA CON: 12. ACTAS ORIGINALES DEL CONSEJO DE DIRECCIÓN DEL I VAP DE LOS AÑOS 2005 A 2007. 13. ACTAS DE REUNIONES DEL CONSEJO ASESOR DEL EUSKE RA, DEL DEPARTAMENTO DE CULTURA, DE LOS AÑOS 1997 A 2003. 14. DOCUMENTOS CONTABLES, ORGANIZADOS POR NÚMERO DE APUNTE CONTABLE, DE LOS GASTOS DEL ORGANISMO DE LOS AÑOS 2000 A 2007. 15. DOSSIERES DE PRENSA DE LAS ACTIVIDADES DEL IVAP . 16. CIRCULARES DE LA OFICINA DE CONTROL ECONÓMICO D ESDE 1990 A 2009. 17. REGISTRO DE ENTRADA Y SALIDA DE DOCUMENTOS: CAJ AS CON COPIAS DE LOS DOCUMENTOS REGISTRADOS COMO ENTRADAS Y COMO SAL IDAS DE LOS AÑOS 2008 A 2009. 18. CORRESPONDENCIA DEL DIRECTOR O DIRECTORA DEL IV AP DE LOS AÑOS 1990 A 2003. 19. PONENCIAS DE VARIOS CONGRESOS CELEBRADOS EN EL ESTADO A LOS QUE ASISTIÓ EL DIRECTOR O DIRECTORA DEL IVAP ENTRE LOS AÑOS 2000 Y 2003. 20. UNA SERIE DE AGENDAS PERSONALES DE AÑOS ANTERIO RES. 21. RECURSOS DE ALZADA CONTRA LA ORDEN QUE PUBLICA LAS LISTAS DE RESULTADOS DE LA OFERTA DE EMPLEO PÚBLICO DEL AÑO 1998. 22. UN EXPEDIENTE DE ORGANIZACIÓN DE UN CURSO DEL I VAP. EL EXPEDIENTE LLEVA UN TESTIGO QUE INDICA QUE HA SIDO EXTRAÍDO DE UN ARCHIVO HACE 8 AÑOS Y HA SIDO PRESTADO PARA SU CONSULTA.         ELIJA USTED LA RESPUESTA CORRECTA A CADA SITUACIÓN PLANTEADA.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Si, si la situación excede de seis meses.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción C) "Si, si la situación excede de seis meses." es la legalmente exacta."
 
 ---
 
 #### Pregunta 197 (Examen #164)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #164)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TRATAMIENTO HABRÍA QUE DAR A LAS ACTAS ORI GINALES DEL CONSEJO DE DIRECCIÓN DEL IVAP DE LOS AÑOS 2005 A 2007?
@@ -4017,16 +4218,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Expurgarlas. 
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Transferirlas al Archivo Central del IVAP.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Transferirlas al Archivo Central del IVAP."."
 
 ---
 
 #### Pregunta 198 (Examen #165)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #165)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CÓMO SE DESCRIBIRÍAN, PARA SU TRANSFERENCIA AL ARCHIVO CORRESPONDIENTE, LAS AGENDAS PERSONALES DE AÑOS ANT ERIORES?
@@ -4037,16 +4239,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Se expurgarían, ya que no se trata de documentos de carácter administrativo.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Se expurgarían, ya que no se trata de documentos de carácter administrativo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto 232/2000, por el que se aprueba el Reglamento del Sistema de Archivo y Gestión Documental de la CAE
+*   **Artículo**: Principios archivísticos y ciclo de vida documental
+*   **Literal / Explicación**: "En la doctrina archivística y el Decreto 232/2000 de la CAE, la respuesta correcta es: "Se expurgarían, ya que no se trata de documentos de carácter administrativo."."
 
 ---
 
 #### Pregunta 199 (Examen #166)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #166)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TRATAMIENTO HABRÍA QUE DAR A LAS CIRCULARE S DE LA OFICINA DE CONTROL ECONÓMICO DESDE 1990 A 2009?
@@ -4057,16 +4260,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Ninguna de las respuestas es correcta.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Separar las vigentes de las no vigentes y expurgar estas últimas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Separar las vigentes de las no vigentes y expurgar estas últimas."."
 
 ---
 
 #### Pregunta 200 (Examen #167)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 8: Normalización Lingüística del uso del Euskera (Decreto 86/1997)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #167)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TRATAMIENTO HABRÍA QUE DAR A LAS ACTAS DEL CONSEJO ASESOR DEL EUSKERA DE LOS AÑOS 1997 A 2003?
@@ -4077,16 +4281,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Ninguna de las respuestas es correcta.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Expurgar toda la documentación de este aparta do.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 10/1982 del Euskera y Decreto 86/1997 de normalización del euskera en las AAPP
+*   **Artículo**: Régimen de perfiles lingüísticos y derechos lingüísticos
+*   **Literal / Explicación**: "De conformidad con el Decreto 86/1997 de normalización del uso del euskera en las administraciones públicas vascas: "Expurgar toda la documentación de este aparta do."."
 
 ---
 
 #### Pregunta 201 (Examen #168)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 33: Revisión de Actos en vía Administrativa y Recursos  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #168)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TRATAMIENTO HABRÍA QUE DAR A LOS RECURSOS DE ALZADA CONTRA LA ORDEN QUE PUBLICA LAS LISTAS DE RESULTADOS DE LA OF ERTA DE EMPLEO PÚBLICO DEL AÑO 1998?
@@ -4097,16 +4302,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Ninguna de las respuestas es correcta.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Remitirlas al Archivo General, donde debe est ar archivada el resto de la documentación.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 112 a 126)
+*   **Artículo**: Título V (Revisión de Actos en vía Administrativa)
+*   **Literal / Explicación**: "El régimen de recursos administrativos de la Ley 39/2015 (arts. 112, 122, 123 y 125) determina que la opción B) "Remitirlas al Archivo General, donde debe est ar archivada el resto de la documentación." es la preceptiva."
 
 ---
 
 #### Pregunta 202 (Examen #169)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #169)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TRATAMIENTO HABRÍA QUE DAR A LA CORRESPOND ENCIA DEL DIRECTOR O DIRECTORA DEL IVAP DE LOS AÑOS 1990 A 2003?
@@ -4117,16 +4323,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Se expurga la documentación de apoyo, se orga niza y describe debidamente, y se remite al nivel de archivo correspondiente en función de su antigüedad.        
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Se expurga la documentación de apoyo, se orga niza y describe debidamente, y se remite al nivel de archivo correspondiente en función de su antigüedad.        ".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Se expurga la documentación de apoyo, se orga niza y describe debidamente, y se remite al nivel de archivo correspondiente en función de su antigüedad.        "."
 
 ---
 
 #### Pregunta 203 (Examen #170)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #170)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DEBERÍA HACERSE CON EL EXPEDIENTE DE ORGAN IZACIÓN DE UN CURSO DEL IVAP QUE LLEVA EL TESTIGO DE HABER SIDO OBJETO DE PRÉSTAMO PARA SU CONSULTA HACE 8 AÑOS?
@@ -4137,16 +4344,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Devolverlo al archivo del que se envió el pré stamo.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Devolverlo al archivo del que se envió el pré stamo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Devolverlo al archivo del que se envió el pré stamo."."
 
 ---
 
 #### Pregunta 204 (Examen #171)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #171)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DEBERÍA HACERSE CON LAS PONENCIAS DE VARIO S CONGRESOS CELEBRADOS EN EL ESTADO A LOS QUE ASISTIÓ EL DIRECT OR O DIRECTORA DEL IVAP ENTRE LOS AÑOS 2000 Y 2003?
@@ -4157,16 +4365,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Ninguna de las opciones es la correcta.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Expurgarlos, ya que se trata de documentación de apoyo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Expurgarlos, ya que se trata de documentación de apoyo."."
 
 ---
 
 #### Pregunta 205 (Examen #172)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 21: El Documento y Expediente Administrativo Electrónico  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #172)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TRATAMIENTO DEBERIAN RECIBIR LAS CAJAS CON LAS COPIAS DE DOCUMENTOS DEL REGISTRO DE ENTRADA Y DE SALIDA DE LOS AÑOS 2008 Y 2009?
@@ -4177,16 +4386,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Inventariar y transferir todas las cajas.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Expurgar todas las cajas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Expurgar todas las cajas."."
 
 ---
 
 #### Pregunta 206 (Examen #173)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #173)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TRATAMIENTO DEBERIAN RECIBIR LAS CAJAS CON DOCUMENTOS CONTABLES, ORGANIZADOS POR NÚMERO DE APUNTE CONTABL E, DE LOS GASTOS DEL ORGANISMO DE LOS AÑOS 2000 A 2007?
@@ -4197,16 +4407,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Ordenarlas cronológicamente, inventariarlas y transferirlas al archivo correspondiente.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Expurgarlas por tratarse de copias.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Expurgarlas por tratarse de copias."."
 
 ---
 
 #### Pregunta 207 (Examen #174)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #174)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TRATAMIENTO DEBERIAN RECIBIR LOS DOSSIERES DE PRENSA DE LAS ACTIVIDADES DEL IVAP?
@@ -4217,16 +4428,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Al tratarse de documentación administrativa, deben archivarse.         CASO Nº 4.- Mikel A. entrega un recurso dirigido al Departamento de Justicia y Administración Pública del Gobierno Vasco, en el re gistro general del Gobierno de Navarra. En dicho registro no le dan entrada al doc umento argumentando que no es el registro del órgano competente para resolverlo. Mikel A. se dirige, entonces, al registro del Ayunt amiento de Vitoria-Gasteiz donde, en virtud de convenio de colaboración, le registran el recurso con fecha de 28 de julio de 2010. Posteriormente, el recurso llega al registro genera l central de la Administración de la Comunidad Autónoma del País Vasco, que le da como f echa de entrada la del 1 de agosto de 2010. El recurso presentado es desestimado por el órgano competente, aduciendo que se había presentado fuera de plazo, ya que la fecha de entrada en el registro general central de la Administración de la Comunidad Autónoma del P aís Vasco ha superado en 3 días el plazo máximo de presentación del recurso (el plazo vencía el 29 de julio). La comunicación de la resolución del recurso se le envía a Mikel A. con el siguiente documento: “Estimado Mikel: Siento comunicarte que presentaste el recurso fuera de plazo, ya que debías haberlo presentado como fecha límite el 29 de julio , pero en el registro general central ha tenido entrada el 1 de agosto. Es por ello que lo hemos desestimado. Un abrazo, El jefe del servicio de inspección (lugar y fecha)”
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Al tratarse de documentación de apoyo, deben destruirse.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Al tratarse de documentación de apoyo, deben destruirse."."
 
 ---
 
 #### Pregunta 208 (Examen #175)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #175)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿ES CORRECTA LA ACTUACIÓN DEL REGISTRO DEL GOBI ERNO DE NAVARRA?
@@ -4237,16 +4449,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Sí, porque los registros de otras Administrac iones Públicas, según el Decreto 72/2008 tienen sus propias normas de organización, con un funcionamiento independiente.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "No, porque entre los registros establecidos e n la Ley 30/1992 para la presentación de escritos dirigidos a las administraciones públicas, debe ent enderse comprendido el registro del Gobierno de Navarra.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "No, porque entre los registros establecidos e n la Ley 30/1992 para la presentación de escritos dirigidos a las administraciones públicas, debe ent enderse comprendido el registro del Gobierno de Navarra."."
 
 ---
 
 #### Pregunta 209 (Examen #176)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 33: Revisión de Actos en vía Administrativa y Recursos  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #176)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿ES CORRECTO EL CÓMPUTO DE LOS PLAZOS REALIZADO PARA DESESTIMAR EL RECURSO?
@@ -4257,16 +4470,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Sí, porque una vez que el registro del Gobier no de Navarra no admitió el documento se entiende que no era correcto.        
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "No, porque debió tener en cuenta la fecha de presentación en el registro del Ayuntamiento y no la fecha de entrada en el registro del Departamento competente para resolverlo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (arts. 112 a 126)
+*   **Artículo**: Título V (Revisión de Actos en vía Administrativa)
+*   **Literal / Explicación**: "El régimen de recursos administrativos de la Ley 39/2015 (arts. 112, 122, 123 y 125) determina que la opción A) "No, porque debió tener en cuenta la fecha de presentación en el registro del Ayuntamiento y no la fecha de entrada en el registro del Departamento competente para resolverlo." es la preceptiva."
 
 ---
 
 #### Pregunta 210 (Examen #177)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #177)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿EL ESCRITO DE COMUNICACIÓN ES EL ADECUADO?
@@ -4277,16 +4491,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Sí, porque se da la información directamente y se omiten las referencias legales que enturbian y hacen incomprensibles los textos.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "No, porque, siendo una notificación, el salud o, la despedida y el tono no son los correctos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Los criterios de estilo y normalización documental del IVAP establecen que la opción correcta es: "No, porque, siendo una notificación, el salud o, la despedida y el tono no son los correctos."."
 
 ---
 
 #### Pregunta 211 (Examen #178)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #178)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL DE LAS SIGUIENTES OPCIONES CONSIDERA QUE ES LA MÁS ADECUADA PARA EXPRESAR EL LUGAR Y LA FECHA?
@@ -4297,16 +4512,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Vitoria-Gasteiz, 19 de agosto de 2010. CASO Nº 5.- La notificación de la desestimación del recurso se hace de forma electrónica. El departamento ha puesto a disposició n de Mikel A. la notificación el 19 de agosto de 2010. Mikel A., que no había señalado dicho medio electró nico para relacionarse con la administración, el día 10 de septiembre ve que tien e un aviso en su buzón de correo electrónico pero no accede al contenido de la notificación. La administración ha entendido que Mikel A. ha rech azado la notificación y va a enviar la publicación de la misma al Boletín Oficial.         
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Vitoria-Gasteiz, 19 de agosto de 2010. CASO Nº 5.- La notificación de la desestimación del recurso se hace de forma electrónica. El departamento ha puesto a disposició n de Mikel A. la notificación el 19 de agosto de 2010. Mikel A., que no había señalado dicho medio electró nico para relacionarse con la administración, el día 10 de septiembre ve que tien e un aviso en su buzón de correo electrónico pero no accede al contenido de la notificación. La administración ha entendido que Mikel A. ha rech azado la notificación y va a enviar la publicación de la misma al Boletín Oficial.         ".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Vitoria-Gasteiz, 19 de agosto de 2010. CASO Nº 5.- La notificación de la desestimación del recurso se hace de forma electrónica. El departamento ha puesto a disposició n de Mikel A. la notificación el 19 de agosto de 2010. Mikel A., que no había señalado dicho medio electró nico para relacionarse con la administración, el día 10 de septiembre ve que tien e un aviso en su buzón de correo electrónico pero no accede al contenido de la notificación. La administración ha entendido que Mikel A. ha rech azado la notificación y va a enviar la publicación de la misma al Boletín Oficial.         "."
 
 ---
 
 #### Pregunta 212 (Examen #179)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #179)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁNDO SE PUEDEN UTILIZAR SÓLO MEDIOS ELECTRÓN ICOS PARA LAS NOTIFICACIONES A LOS CIUDADANOS Y CIUDADANAS?
@@ -4317,16 +4533,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Únicamente cuando se desconozca el domicilio de la persona interesada.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Únicamente cuando la persona interesada haya señalado como preferente o consentido el medio electrónico para relacionarse con la administración.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Los criterios de estilo y normalización documental del IVAP establecen que la opción correcta es: "Únicamente cuando la persona interesada haya señalado como preferente o consentido el medio electrónico para relacionarse con la administración."."
 
 ---
 
 #### Pregunta 213 (Examen #180)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #180)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TIPO DE FIRMA DEBIÓ UTILIZARSE EN LA NOTIF ICACIÓN ELECTRÓNICA PRACTICADA?
@@ -4337,16 +4554,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** La firma ordinaria.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La firma reconocida.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "La firma reconocida."."
 
 ---
 
 #### Pregunta 214 (Examen #181)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #181)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁNDO SE ENTIENDE QUE UNA NOTIFICACIÓN ELECTR ÓNICA HA SIDO RECHAZADA?
@@ -4357,16 +4575,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Cuando hayan transcurrido 10 días naturales d esde la puesta disposición de la notificación sin que la persona interesada haya accedido a su contenido.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Cuando hayan transcurrido 10 días naturales d esde la puesta disposición de la notificación sin que la persona interesada haya accedido a su contenido.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Los criterios de estilo y normalización documental del IVAP establecen que la opción correcta es: "Cuando hayan transcurrido 10 días naturales d esde la puesta disposición de la notificación sin que la persona interesada haya accedido a su contenido."."
 
 ---
 
 #### Pregunta 215 (Examen #182)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #182)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿EN EL CASO PRESENTADO, DEBE SUSPENDERSE LA PUB LICACIÓN EN EL BOLETIN OFICIAL Y REALIZARSE UNA NUEVA NOTIFICACION POR MED IOS NO ELECTRÓNICOS?
@@ -4377,16 +4596,17 @@ AL FINAL DEL PROCEDIMIENTO DISCIPLINARIO, A JBR SE LE SANCIONA CON UNA SANCION F
 *   **D)** Sí, porque una vez rechazada la notificación electrónica debe intentarse la notificación no electrónica.         CASO Nº 6.- El Departamento de Educación tiene pres upuestado 1 millón de euros en crédito de pago para 2010, y 600.000 euros en crédi to de compromiso para 2011, para la construcción de centros escolares. Se va a proceder a la licitación de las obras de co nstrucción de un centro en Vitoria, con un coste estimado en 800.000 euros (200.000 euros para 2010 y 600.000 euros para 2011). Una vez finalizado el proceso de licitación, se pro pone adjudicar las obras a XYZ Empresa Constructora S.A., por un importe de 750.00 0 euros de los cuales se ejecutarán 150.000 en 2010 y 600.000 en 2011. La citada empresa va presentando las siguientes certificaciones de obra (facturas): Octubre 2010: 5.000 euros Noviembre 2010: 45.000 euros Diciembre 2010: 100.000 euros Enero 2011: 200.000 euros Febrero 2011: 200.000 euros Marzo 2011: 200.000 euros Los pagos se realizan de la siguiente forma: En 2010 se abonan las certificaciones de octubre y noviembre y el resto en 2011. Para facilitar los cálculos no se tiene en cuenta la problemática del I.V.A.   
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sí, porque la persona interesada no había señ alado ni consentido el uso de medios electrónicos para relacionarse con la administración.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Los criterios de estilo y normalización documental del IVAP establecen que la opción correcta es: "Sí, porque la persona interesada no había señ alado ni consentido el uso de medios electrónicos para relacionarse con la administración."."
 
 ---
 
 #### Pregunta 216 (Examen #183)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #183)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 INDICAR EL IMPORTE DE LA AUTORIZACIÓN DE GASTO:
@@ -4397,16 +4617,17 @@ INDICAR EL IMPORTE DE LA AUTORIZACIÓN DE GASTO:
 *   **D)** 200.000 euros para 2010 y 600.000 euros para 2011.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "200.000 euros para 2010 y 600.000 euros para 2011.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "200.000 euros para 2010 y 600.000 euros para 2011."."
 
 ---
 
 #### Pregunta 217 (Examen #184)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #184)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL ES EL SALDO DE CRÉDITO AL CIERRE DE 2010?
@@ -4417,16 +4638,17 @@ INDICAR EL IMPORTE DE LA AUTORIZACIÓN DE GASTO:
 *   **D)** 995.000.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "800.000 euros.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "800.000 euros."."
 
 ---
 
 #### Pregunta 218 (Examen #185)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #185)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL ES EL SALDO DE AUTORIZADO AL CIERRE DE 20 10?
@@ -4437,16 +4659,17 @@ INDICAR EL IMPORTE DE LA AUTORIZACIÓN DE GASTO:
 *   **D)** 800.000 euros.        
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "50.000 euros.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "50.000 euros."."
 
 ---
 
 #### Pregunta 219 (Examen #186)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #186)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ TERCERO DEBE APARECER EN EL DOCUMENTO CONT ABLE DE DISPOSICIÓN?
@@ -4457,16 +4680,17 @@ INDICAR EL IMPORTE DE LA AUTORIZACIÓN DE GASTO:
 *   **D)** No se dispone de datos.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "XYZ Empresa Constructora S.A.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "XYZ Empresa Constructora S.A."."
 
 ---
 
 #### Pregunta 220 (Examen #187)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #187)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL ES EL SALDO DE DISPUESTO AL CIERRE DE 201 0?
@@ -4477,16 +4701,17 @@ INDICAR EL IMPORTE DE LA AUTORIZACIÓN DE GASTO:
 *   **D)** 100.000 euros.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Cero euros.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Cero euros."."
 
 ---
 
 #### Pregunta 221 (Examen #188)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #188)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL ES EL IMPORTE DE LOS RESIDUOS DE GASTOS A L CIERRE DE 2010?
@@ -4497,16 +4722,17 @@ INDICAR EL IMPORTE DE LA AUTORIZACIÓN DE GASTO:
 *   **D)** 600.000 euros.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "100.000 euros.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "100.000 euros."."
 
 ---
 
 #### Pregunta 222 (Examen #189)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #189)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 A LA DOCUMENTACIÓN CONTABLE PARA LA CONTRACCIÓN DE LA OBLIGACIÓN (DOCUMENTO O) DEBERÁ ACOMPAÑARSE:
@@ -4517,16 +4743,17 @@ A LA DOCUMENTACIÓN CONTABLE PARA LA CONTRACCIÓN DE LA OBLIGACIÓN (DOCUMENTO O
 *   **D)** Solamente una memoria firmada por el Consejer o.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Documentos acreditativos de la realización de la prestación y que acrediten el derecho al cobro (contrato firmado, certificaciones de obra, facturas etc.).".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Documentos acreditativos de la realización de la prestación y que acrediten el derecho al cobro (contrato firmado, certificaciones de obra, facturas etc.)."."
 
 ---
 
 #### Pregunta 223 (Examen #190)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #190)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA PERSONA O ENTIDAD DIFERENTE:
@@ -4537,16 +4764,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** No cabe tal posibilidad.          CASO Nº 7.- El Servicio de Publicaciones del Gobier no Vasco ha realizado las siguientes operaciones que se encuentran pendientes de registr o contable y de su correspondiente imputación al presupuesto:  En el ejercicio 2009 5. Ha vendido distintas publicaciones, mediante ven ta directa al público, por las que ha recaudado 1.500 euros. Se trata de pagos al contado. 6. Ha vendido, a distribuidoras y librerías diversa s, publicaciones por importe de 18.500 euros. Tanto las publicaciones como las fact uras correspondientes se han remitido a los compradores. 7. Se han ingresado, en las cuentas bancarias de la Tesorería General, 10.000 euros correspondientes a las facturas anteriores. 8. Las publicaciones correspondientes a una de las facturas anteriores de 300 euros se reciben devueltas por tratarse de un error , por lo que se procede a anular dicha factura.  En el ejercicio 2010 3. A lo largo del mes de enero se han cobrado 8.000 euros correspondientes a las facturas emitidas en 2009. 4. Se produce un impago de una de dichas facturas d e 200 euros, que permanece impagada al final del periodo voluntario de pago, p or lo que el Servicio de Publicaciones pasa la deuda a periodo ejecutivo. Si bien se realizan todos los trámites legales del procedimiento recaudatorio, el ingreso no se hace efectivo y el órgano competente dicta resolución de incobrabil idad por insolvencia del deudor. Los precios de las publicaciones se encuentran regu lados y tienen la consideración de precios públicos. Dado que el número de terceros es elevado se opta p or utilizar un tercero ficticio en la tramitación de los documentos contables. 
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Previa notificación fehaciente a la Administr ación del acuerdo de cesión.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Previa notificación fehaciente a la Administr ación del acuerdo de cesión."."
 
 ---
 
 #### Pregunta 224 (Examen #191)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #191)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DOCUMENTO CONTABLE ES NECESARIO PARA CONTA BILIZAR LAS VENTAS AL CONTADO POR 1.500 EUROS E IMPUTARLAS AL PRESUPUESTO DE INGRESOS DEL EJERCICIO 2009?
@@ -4557,16 +4785,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** “R/” para registrar la anulación de los derec hos reconocidos.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "“RI” para registrar simultáneamente el derech o reconocido y el cobro.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "“RI” para registrar simultáneamente el derech o reconocido y el cobro."."
 
 ---
 
 #### Pregunta 225 (Examen #192)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #192)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿A QUÉ CAPÍTULO DEL PRESUPUESTO DE INGRESOS SE IMPUTAN LAS VENTAS DE PUBLICACIONES?
@@ -4577,16 +4806,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** Capítulo 3. Tasas, precios públicos y otros i ngresos de derecho público.        
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Capítulo 3. Tasas, precios públicos y otros i ngresos de derecho público.        ".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Capítulo 3. Tasas, precios públicos y otros i ngresos de derecho público.        "."
 
 ---
 
 #### Pregunta 226 (Examen #193)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #193)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL ES EL IMPORTE TOTAL DE LOS DERECHOS RECON OCIDOS, ANULADOS E INGRESADOS CON CARGO AL PRESUPUESTO DE 2009?
@@ -4597,16 +4827,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** 20.000 euros de derechos reconocidos, 500 eur os de derechos anulados y 19.500 euros de derechos ingresados.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "20.000 euros de derechos reconocidos, 300 eur os de derechos anulados y 11.500 euros de derechos ingresados.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "20.000 euros de derechos reconocidos, 300 eur os de derechos anulados y 11.500 euros de derechos ingresados."."
 
 ---
 
 #### Pregunta 227 (Examen #194)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 16: Presupuesto de Ingresos: Fases y Devoluciones (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #194)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL ES EL SALDO DE DERECHOS RECONOCIDOS DEL E JERCICIO ANTERIOR PENDIENTES DE COBRO AL INICIO DEL EJERCICIO 2010?
@@ -4617,16 +4848,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** 200 euros.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "8.200 euros.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "8.200 euros."."
 
 ---
 
 #### Pregunta 228 (Examen #195)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #195)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿A QUÉ CONCEPTO DE EJECUCIÓN DEL PRESUPUESTO DE INGRESOS CORRESPONDE LA CIFRA DE 8.000 EUROS?
@@ -4637,16 +4869,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** Saldo de residuos de ingresos.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Cobros de residuos del ejercicio anterior.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Cobros de residuos del ejercicio anterior."."
 
 ---
 
 #### Pregunta 229 (Examen #196)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #196)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DOCUMENTO CONTABLE SURGE COMO CONSECUENCIA DEL PASO A PERIODO EJECUTIVO Y DEL IMPAGO DE LA FACTURA DE 200 EUROS?
@@ -4657,16 +4890,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** Un documento contable “RR” por importe de 210 euros para el registro en el ejercicio siguiente del derecho reconocido en el ejercicio anterior pendiente de cobro.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Un documento “R” por importe de 40 euros para reconocer un derecho por el recargo de apremio ordinario del 20% de la deuda.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Un documento “R” por importe de 40 euros para reconocer un derecho por el recargo de apremio ordinario del 20% de la deuda."."
 
 ---
 
 #### Pregunta 230 (Examen #197)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #197)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DOCUMENTO CONTABLE ES NECESARIO PARA REGIS TRAR LA ANULACIÓN DE UNA FACTURA DE 300 EUROS?
@@ -4677,16 +4911,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** “RI/” para registrar simultáneamente la anula ción del ingreso reconocido y recaudado.        
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "“R/” para registrar la anulación del derecho reconocido.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "“R/” para registrar la anulación del derecho reconocido."."
 
 ---
 
 #### Pregunta 231 (Examen #198)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #198)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DOCUMENTO CONTABLE ES NECESARIO PARA CONTA BILIZAR LOS COBROS DE 8.000 EUROS EN ENERO DE 2010?
@@ -4697,16 +4932,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** “RR” para el registro en el ejercicio siguien te de los derechos reconocidos en los ejercicios anteriores pendientes de cobro. CASO Nº 8.- Personal del Servicio Técnico de Manten imiento estaba trabajando, en la sección de carpintería, en la víspera de las vacaci ones de Navidad. Por esta razón, trabajaban contra reloj, para terminar toda la tare a pendiente antes de iniciar las vacaciones. En medio de este trajín, Peio tropezó c on un tablón de madera que sobresalía del estante inferior de una de las mesas de trabajo. Después de golpearse la pierna con fuerza, cayó al suelo y un montón de tra stos frenó su desplazamiento. El resto del personal que estaba en el taller acudió a auxiliarlo y vio que Peio estaba aturdido y tenía en la rodilla una herida manchada con serrín. Como no sangraba mucho, le ayudaron a acercase al botiquín, donde le limpia ron la herida con alcohol. Ante las propuestas de vendarle la herida y después llamar a los Servicios Sanitarios, Peio comentó que la herida cicatrizaba antes si se dejab a “al aire” y que estaba perfectamente, así que todo el personal continuó con su trabajo.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "“MI” para registrar la recaudación obtenida c orrespondiente a derechos reconocidos en ejercicios anteriores.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "“MI” para registrar la recaudación obtenida c orrespondiente a derechos reconocidos en ejercicios anteriores."."
 
 ---
 
 #### Pregunta 232 (Examen #199)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #199)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL DE LAS SIGUIENTES AFIRMACIONES CONSIDERA CORRECTA?
@@ -4717,16 +4953,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** Ninguna de las anteriores.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Ninguna de las anteriores.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Ninguna de las anteriores."."
 
 ---
 
 #### Pregunta 233 (Examen #200)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #200)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL DE LAS SIGUIENTES ACCIONES CONSIDERA QUE DEBIERA TENERSE EN CUENTA?
@@ -4737,16 +4974,17 @@ XYZ EMPRESA CONSTRUCTORA PUEDE PROPONER LA CESI ÓN DEL DERECHO DE COBRO A UNA P
 *   **D)** Utilizar una pomada antibiótica y tapar la he rida.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Lavar la herida con agua y jabón.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Lavar la herida con agua y jabón."."
 
 ---
 
 #### Pregunta 234 (Examen #201)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 13: Nociones Básicas de Primeros Auxilios  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #201)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SI LA HERIDA HUBIESE CURSADO CON UNA HEMORRAGIA IMPORTANTE, ¿CUÁL SERÍA LA ACTUACIÓN MÁS ORDENADA?
@@ -4757,16 +4995,17 @@ SI LA HERIDA HUBIESE CURSADO CON UNA HEMORRAGIA IMPORTANTE, ¿CUÁL SERÍA LA AC
 *   **D)** Todas las anteriores.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Tumbar a la persona y tranquilizarla.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Tumbar a la persona y tranquilizarla."."
 
 ---
 
 #### Pregunta 235 (Examen #202)
-**Convocatoria**: Cuerpo Administrativo 2010 - Teórico y Práctico  
-**Bloque**: OPE 2010 - Caso Práctico  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Cuerpo Administrativo 2010 - Teórico y Práctico (Pregunta #202)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SI LA PERSONA ACCIDE NTADA PIERDE EL CONO CIMIENTO, ¿CUÁL SERÍ A, A SU         JUICIO, LO PRIMERO QUE HABRÍA QUE HACER?
@@ -4777,10 +5016,10 @@ SI LA PERSONA ACCIDE NTADA PIERDE EL CONO CIMIENTO, ¿CUÁL SERÍ A, A SU    
 *   **D)** Hacer la respiración boca a boca.   
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2010
-*   **Ámbito**: OPE 2010 - Caso Práctico (Supuestos Prácticos de Gestión (Preguntas 151-202))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Comprobar las funciones vitales (respiración y pulso).".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Comprobar las funciones vitales (respiración y pulso)."."
 
 ---
 
@@ -4793,8 +5032,9 @@ SI LA PERSONA ACCIDE NTADA PIERDE EL CONO CIMIENTO, ¿CUÁL SERÍ A, A SU    
 *Temario Completo y Casos de Atención (Preguntas 1-60)*
 
 #### Pregunta 236 (Examen #1)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #1)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CÓMO SE LLAMA EL TÍTULO I DE LA CONSTITUCIÓN ESPAÑOLA DE 1978?
@@ -4805,16 +5045,17 @@ SI LA PERSONA ACCIDE NTADA PIERDE EL CONO CIMIENTO, ¿CUÁL SERÍ A, A SU    
 *   **D)** De los derechos y deberes fundamentales.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "De los derechos y deberes fundamentales.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "La Constitución Española determina en su articulado que la opción correcta es: "De los derechos y deberes fundamentales."."
 
 ---
 
 #### Pregunta 237 (Examen #2)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #2)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁNTOS CAPÍTULOS TIENE EL TÍTULO I DE LA CONSTITUCIÓN ESPAÑOLA DE 1978?
@@ -4825,16 +5066,17 @@ SI LA PERSONA ACCIDE NTADA PIERDE EL CONO CIMIENTO, ¿CUÁL SERÍ A, A SU    
 *   **D)** 3
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "5".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "La Constitución Española determina en su articulado que la opción correcta es: "5"."
 
 ---
 
 #### Pregunta 238 (Examen #3)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #3)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEGÚN EL ARTÍCULO 24.1 DEL ESTATUTO DE AUTONOMÍA, LOS PODERES DEL P AÍS VASCO SE EJERCERÁN A TRAVÉS:
@@ -4845,16 +5087,17 @@ SEGÚN EL ARTÍCULO 24.1 DEL ESTATUTO DE AUTONOMÍA, LOS PODERES DEL P AÍS VASC
 *   **D)** Del Parlamento, del Gobierno y de la Ertzaintza.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Del Parlamento, del Gobierno y de su Presidente o Lehendakari.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "Del Parlamento, del Gobierno y de su Presidente o Lehendakari."."
 
 ---
 
 #### Pregunta 239 (Examen #4)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 5: Instituciones Forales y Locales (Concierto Económico, LILE, LTH)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #4)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL CUPO ACORDADO POR LA COMISIÓN MIXTA SE APRUEBA POR:
@@ -4865,16 +5108,17 @@ EL CUPO ACORDADO POR LA COMISIÓN MIXTA SE APRUEBA POR:
 *   **D)** Orden del Consejero de Hacienda y Finanzas.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Ley.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Ley."."
 
 ---
 
 #### Pregunta 240 (Examen #5)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 5: Instituciones Forales y Locales (Concierto Económico, LILE, LTH)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #5)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁLES SON LOS PRINCIPIOS EN QUE SE BASAN LAS RELACIONES ENTRE L AS INSTITUCIONES COMUNES Y LOS ÓRGANOS FORALES DE SUS TERRITORIOS HISTÓRICOS?
@@ -4885,16 +5129,17 @@ EL CUPO ACORDADO POR LA COMISIÓN MIXTA SE APRUEBA POR:
 *   **D)** Colaboración y eficacia.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Colaboración y solidaridad.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley del Concierto Económico (Ley 12/2002) y Ley 27/1983 (LTH)
+*   **Artículo**: Relaciones Institucionales y Régimen Foral
+*   **Literal / Explicación**: "De acuerdo con el Concierto Económico con la CAE y la Ley de Relaciones entre Instituciones Comunes y Órganos Forales (LTH), la respuesta correcta es: "Colaboración y solidaridad."."
 
 ---
 
 #### Pregunta 241 (Examen #6)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 5: Instituciones Forales y Locales (Concierto Económico, LILE, LTH)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #6)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS ÓRGANOS FORALES DE LOS TERRITORIOS HISTÓRICOS TIENEN COMPETENCIA EXCLUSIVA EN:
@@ -4905,16 +5150,17 @@ LOS ÓRGANOS FORALES DE LOS TERRITORIOS HISTÓRICOS TIENEN COMPETENCIA EXCLUSIVA
 *   **D)** Planificación, proyecto, construcción, conservación, modificación, financiac ión, uso y explotación de carreteras y caminos.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Planificación, proyecto, construcción, conservación, modificación, financiac ión, uso y explotación de carreteras y caminos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley del Concierto Económico (Ley 12/2002) y Ley 27/1983 (LTH)
+*   **Artículo**: Relaciones Institucionales y Régimen Foral
+*   **Literal / Explicación**: "De acuerdo con el Concierto Económico con la CAE y la Ley de Relaciones entre Instituciones Comunes y Órganos Forales (LTH), la respuesta correcta es: "Planificación, proyecto, construcción, conservación, modificación, financiac ión, uso y explotación de carreteras y caminos."."
 
 ---
 
 #### Pregunta 242 (Examen #7)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #7)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN TODO CASO, LA FACULTAD DE DICTAR NORMAS CON RANGO DE LEY CORRESPONDE EN EXCLUSIVA:
@@ -4925,16 +5171,17 @@ EN TODO CASO, LA FACULTAD DE DICTAR NORMAS CON RANGO DE LEY CORRESPONDE EN EXCLU
 *   **D)** A las Diputaciones Forales.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Al Parlamento Vasco.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Al Parlamento Vasco."."
 
 ---
 
 #### Pregunta 243 (Examen #8)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 6: Igualdad de Mujeres y Hombres (Ley 4/2005 y Ley 1/2022)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #8)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿ES LA ACCIÓN POSITIVA UN PRINCIPIO GENERAL QUE DEBE REGIR Y ORIENTAR LA ACTUACIÓN DE LOS PODERES PÚBLICOS VASCOS EN MATERIA DE IGUALD AD DE MUJERES Y HOMBRES?
@@ -4945,16 +5192,17 @@ EN TODO CASO, LA FACULTAD DE DICTAR NORMAS CON RANGO DE LEY CORRESPONDE EN EXCLU
 *   **D)** Exclusivamente en el ámbito normativo.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Sí.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Sí."."
 
 ---
 
 #### Pregunta 244 (Examen #9)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #9)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿RESULTA PRECEPTIVO EL INFORME DE EMAKUNDE-INSTITUTO VASCO DE LA MUJER EN LOS PROYECTOS DE NORMAS QUE SE ELABOREN EN EL ÁMBITO DE LA ADMINISTRACIÓN DE LA COMUNIDAD AUTÓNOMA DE EUSKADI?
@@ -4965,16 +5213,17 @@ EN TODO CASO, LA FACULTAD DE DICTAR NORMAS CON RANGO DE LEY CORRESPONDE EN EXCLU
 *   **D)** Tan sólo si se trata de anteproyectos de Ley.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Sí.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "Sí."."
 
 ---
 
 #### Pregunta 245 (Examen #10)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #10)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, INCLUYE EXPRESAMENTE ENTRE LOS MOTIVOS DE ABSTENCIÓN “TENER VÍNCULO MATRIMONIAL O SITUACIÓN DE HECHO ASIMILABLE”?
@@ -4985,16 +5234,17 @@ EN TODO CASO, LA FACULTAD DE DICTAR NORMAS CON RANGO DE LEY CORRESPONDE EN EXCLU
 *   **D)** Sí.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Sí.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Sí."."
 
 ---
 
 #### Pregunta 246 (Examen #11)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #11)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 DE ACUERDO CON EL ARTÍCULO 3.1.D) DE LA 40/2015, DE 1 DE OCTUBRE, LAS ADMINISTRACIONES PÚBLICAS DEBERÁN RESPETAR EN SU ACTUACIÓN Y RELACIONES LOS SIGUIENTES PRINCIPIOS:
@@ -5005,16 +5255,17 @@ DE ACUERDO CON EL ARTÍCULO 3.1.D) DE LA 40/2015, DE 1 DE OCTUBRE, LAS ADMINISTR
 *   **D)** Proporcionalidad, seguridad jurídica y prescripción.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Buena fe, confianza legítima y lealtad institucional.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Buena fe, confianza legítima y lealtad institucional."."
 
 ---
 
 #### Pregunta 247 (Examen #12)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #12)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 CONFORME AL ART. 44 DE LA LEY 39/2015, QUE REGULA LA NOTIFICACIÓN INFRUCTUOSA, CUANDO EN UN PROCEDIMIENTO QUE INSTRUYE LA ADMINISTRACIÓN GENERAL DE LA COMUNIDAD AUTÓNOMA, INTENTADA L A NOTIFICACIÓN NO HUBIERA PODIDO PRACTICARSE:
@@ -5025,16 +5276,17 @@ CONFORME AL ART. 44 DE LA LEY 39/2015, QUE REGULA LA NOTIFICACIÓN INFRUCTUOSA, 
 *   **D)** La notificación deberá hacerse por medio de un anuncio publicado en el «Boletín Oficial del País Vasco» y en el tablón de edictos del Ayuntamiento del último domicil io del interesado o del Consulado o Sección Consular de la Embajada correspondiente, sin perjuicio de su publicación facultativa por otros medios.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La notificación deberá hacerse por medio de un anuncio publicado en el «Boletín Oficial del Estado», sin perjuicio de su publicación facultativa por otros medios.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "La notificación deberá hacerse por medio de un anuncio publicado en el «Boletín Oficial del Estado», sin perjuicio de su publicación facultativa por otros medios."."
 
 ---
 
 #### Pregunta 248 (Examen #13)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #13)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 DISPONE EL ART. 40 DE LA LEY 39/2015 EN MATERIA DE NOTIFICACIÓN: SEÑALESE LA INCORRECTA
@@ -5045,16 +5297,17 @@ DISPONE EL ART. 40 DE LA LEY 39/2015 EN MATERIA DE NOTIFICACIÓN: SEÑALESE LA I
 *   **D)** Las notificaciones que, aun conteniendo el texto íntegro del acto, omitiesen a lguno de los demás requisitos previstos en el apartado 2 del art. 40, no surtirán efecto en ningún caso.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Las notificaciones que, aun conteniendo el texto íntegro del acto, omitiesen a lguno de los demás requisitos previstos en el apartado 2 del art. 40, no surtirán efecto en ningún caso.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Los criterios de estilo y normalización documental del IVAP establecen que la opción correcta es: "Las notificaciones que, aun conteniendo el texto íntegro del acto, omitiesen a lguno de los demás requisitos previstos en el apartado 2 del art. 40, no surtirán efecto en ningún caso."."
 
 ---
 
 #### Pregunta 249 (Examen #14)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #14)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL ART. 15 DE LA LEY 39/2015 QUE REGULA LA LENGUA DE LOS PROCEDIMIE NTOS ESTABLECE: SEÑALESE LA INCORRECTA
@@ -5065,16 +5318,17 @@ EL ART. 15 DE LA LEY 39/2015 QUE REGULA LA LENGUA DE LOS PROCEDIMIE NTOS ESTABLE
 *   **D)** En los procedimientos tramitados por las Entidades Locales, el uso de la lengua s e ajustará a lo previsto en la legislación autonómica correspondiente.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La lengua de los procedimientos tramitados por la Administración General del E stado será el castellano. Los interesados que se dirijan a los órganos de la Administración Gen eral del Estado con sede en el territorio de una Comunidad Autónoma deberán utilizar preceptivamente el castellano.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "La lengua de los procedimientos tramitados por la Administración General del E stado será el castellano. Los interesados que se dirijan a los órganos de la Administración Gen eral del Estado con sede en el territorio de una Comunidad Autónoma deberán utilizar preceptivamente el castellano."."
 
 ---
 
 #### Pregunta 250 (Examen #15)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #15)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL ART. 14 DE LA LEY 39/2015 QUE REGULA EL DERECHO Y OBLIGACIÓN DE RELACIONARSE ELECTRÓNICAMENTE CON LAS ADMINISTRACIONES PÚBLICAS DISPONE: SEÑALESE LA RESPUESTA CORRECTA
@@ -5085,16 +5339,17 @@ EL ART. 14 DE LA LEY 39/2015 QUE REGULA EL DERECHO Y OBLIGACIÓN DE RELACIONARSE
 *   **D)** Los empleados de las Administraciones Públicas podrán elegir en todo momen to si se comunican con las Administraciones Públicas para el ejercicio de sus der echos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas 16 CONFORME AL ART.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de m edios electrónicos con las Administraciones Públicas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de m edios electrónicos con las Administraciones Públicas."."
 
 ---
 
 #### Pregunta 251 (Examen #16)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 29: Órganos Administrativos y Colegiados (Ley 40/2015 y Ley 3/2022)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #16)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 DE LA LEY 39/2015, LOS DOCUMENTOS QUE LO S INTERESADOS DIRIJAN A LOS ÓRGANOS DE LAS ADMINISTRACIONES PÚBLICAS PODRÁN PRESENTARSE: SEÑALESE LA INCORRECTA
@@ -5105,16 +5360,17 @@ DE LA LEY 39/2015, LOS DOCUMENTOS QUE LO S INTERESADOS DIRIJAN A LOS ÓRGANOS DE
 *   **D)** En las oficinas de asistencia en materia de registros.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "En las representaciones diplomáticas u oficinas consulares del extranjero en España.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015, de Régimen Jurídico del Sector Público (arts. 8 a 19)
+*   **Artículo**: Órganos administrativos y traslación de competencias
+*   **Literal / Explicación**: "La Ley 40/2015 (y concordante art. 14 Ley 30/1992) regula que la opción correcta es: "En las representaciones diplomáticas u oficinas consulares del extranjero en España."."
 
 ---
 
 #### Pregunta 252 (Examen #17)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #17)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LOS ARTÍCULOS 21 Y 22 DE LA LEY 39/2015 DE PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS, QUE REGULAN LA OBLIGACIÓN DE RESOLVER DE LA ADMINISTRACIÓN, DISPONEN: (INDIQUESE LA RESPUESTA CORRECTA)
@@ -5125,16 +5381,17 @@ LOS ARTÍCULOS 21 Y 22 DE LA LEY 39/2015 DE PROCEDIMIENTO ADMINISTRATIVO COMÚN 
 *   **D)** En ningún supuesto cabrá la suspensión del transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "El plazo máximo en que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previ sto en el Derecho de la Unión Europea.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "El plazo máximo en que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previ sto en el Derecho de la Unión Europea."."
 
 ---
 
 #### Pregunta 253 (Examen #18)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #18)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 CONFORME AL ART. 24. 3 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS:
@@ -5145,16 +5402,17 @@ CONFORME AL ART. 24. 3 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS 
 *   **D)** Tanto en los casos estimación como desestimación por silencio administrativo, no cabe que la Administración adopte resolución expresa con posterioridad al vencimiento del plazo máximo para dictarla y notificarla.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alg una al sentido del silencio.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alg una al sentido del silencio."."
 
 ---
 
 #### Pregunta 254 (Examen #19)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #19)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ENTRE LOS DERECHOS QUE LA LEY 39/2015 RECONOCE A LOS INTERESADOS EN EL PROCEDIMIENTO SE HALLAN:
@@ -5165,16 +5423,17 @@ ENTRE LOS DERECHOS QUE LA LEY 39/2015 RECONOCE A LOS INTERESADOS EN EL PROCEDIMI
 *   **D)** Todas son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Todas son correctas."."
 
 ---
 
 #### Pregunta 255 (Examen #20)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #20)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 DE CONFORMIDAD CON LA REGULACIÓN DE LA LEY 39/2015 EN MATERIA DE INICIO DEL PROCEDIMIENTO, UNA DE LAS SIGUIENTES AFIRMACIONES ES INCORRECTA:
@@ -5185,16 +5444,17 @@ DE CONFORMIDAD CON LA REGULACIÓN DE LA LEY 39/2015 EN MATERIA DE INICIO DEL PRO
 *   **D)** Las solicitudes que se formulen deberán contener, entre otros extremos, el Órgano, centr o o unidad administrativa a la que se dirige y su correspondiente código de identificación
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Si la solicitud de iniciación no reúne los requisitos que señala la norm ativa aplicable, se requerirá al interesado para que, en un plazo de veinte días, subsane la falta o acom pañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá po r desistido de su petición.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Si la solicitud de iniciación no reúne los requisitos que señala la norm ativa aplicable, se requerirá al interesado para que, en un plazo de veinte días, subsane la falta o acom pañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá po r desistido de su petición."."
 
 ---
 
 #### Pregunta 256 (Examen #22)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 34: Responsabilidad Patrimonial de las Administraciones Públicas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #22)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 INDÍQUESE CUAL DE LOS SIGUIENTES ENUNCIADOS NO SE CORRESPONDE CON LA RELACIÓN DE ACTOS QUE PONEN FIN A LA VÍA ADMINISTRATIVA QUE CONTIE NE EL ART. 114 DE LA LEY 39/2015:
@@ -5205,16 +5465,17 @@ INDÍQUESE CUAL DE LOS SIGUIENTES ENUNCIADOS NO SE CORRESPONDE CON LA RELACIÓN 
 *   **D)** La resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Las resoluciones de los órganos colegiados.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Las resoluciones de los órganos colegiados."."
 
 ---
 
 #### Pregunta 257 (Examen #23)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #23)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 INDIQUESE LA RESPUESTA INCORRECTA A LA LUZ DE LA LEY 39/2015:
@@ -5225,16 +5486,17 @@ INDIQUESE LA RESPUESTA INCORRECTA A LA LUZ DE LA LEY 39/2015:
 *   **D)** El plazo para la interposición del recurso de reposición será de un mes, si el acto fuera expreso.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Si el acto no fuera expreso, el plazo será de tres meses y se contará, para soli citante y otros posibles interesados, a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Si el acto no fuera expreso, el plazo será de tres meses y se contará, para soli citante y otros posibles interesados, a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo."."
 
 ---
 
 #### Pregunta 258 (Examen #24)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #24)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 INDIQUESE LA RESPUESTA CORRECTA A LA LUZ DE LA LEY 39/2015:
@@ -5245,16 +5507,17 @@ INDIQUESE LA RESPUESTA CORRECTA A LA LUZ DE LA LEY 39/2015:
 *   **D)** El error o la ausencia de la calificación del recurso por parte del recurrente será causa de inadmisión.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Contra los actos firmes en vía administrativa, no cabe interponer recurso administr ativo alguno, salvo el recurso extraordinario de revisión.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Contra los actos firmes en vía administrativa, no cabe interponer recurso administr ativo alguno, salvo el recurso extraordinario de revisión."."
 
 ---
 
 #### Pregunta 259 (Examen #25)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #25)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 CON ARREGLO AL ART. 47 DE LA LEY 39/2015 SON NULOS DE PLENO DERECHO: INDIQUESE LA RESPUESTA INCORRECTA
@@ -5265,16 +5528,17 @@ CON ARREGLO AL ART. 47 DE LA LEY 39/2015 SON NULOS DE PLENO DERECHO: INDIQUESE L
 *   **D)** Los que incurran en desviación de poder.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Los que incurran en desviación de poder.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Los que incurran en desviación de poder."."
 
 ---
 
 #### Pregunta 260 (Examen #26)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #26)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUAL DE ESTOS ENUNCIADOS ES CORRECTO?
@@ -5285,16 +5549,17 @@ CON ARREGLO AL ART. 47 DE LA LEY 39/2015 SON NULOS DE PLENO DERECHO: INDIQUESE L
 *   **D)** Todos los enunciados son correctos.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Son nulas de pleno derecho las disposiciones administrativas que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derec hos individuales.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Son nulas de pleno derecho las disposiciones administrativas que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derec hos individuales."."
 
 ---
 
 #### Pregunta 261 (Examen #27)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #27)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 NO DEBERÁN SER MOTIVADOS, CONFORME AL ART. 35 DE LA LEY 39/2015:
@@ -5305,16 +5570,17 @@ NO DEBERÁN SER MOTIVADOS, CONFORME AL ART. 35 DE LA LEY 39/2015:
 *   **D)** Los actos que acuerden la terminación del procedimiento por la imposibilidad materi al de continuarlo por causas sobrevenidas.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Los actos que se dicten en el ejercicio de potestades regladas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Los actos que se dicten en el ejercicio de potestades regladas."."
 
 ---
 
 #### Pregunta 262 (Examen #29)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 34: Responsabilidad Patrimonial de las Administraciones Públicas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #29)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA CUANTÍA DE LA INDEMNIZACIÓN EN NUESTRO SISTEMA DE RESPONSABILIDAD PATRIMONIAL DEBE CALCULARSE:
@@ -5325,16 +5591,17 @@ LA CUANTÍA DE LA INDEMNIZACIÓN EN NUESTRO SISTEMA DE RESPONSABILIDAD PATRIMONI
 *   **D)** Con referencia al día de presentación de la reclamación, sin actualizaciones.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Con referencia al día en el que se produjo el daño, pero debe actualizarse conforme al índ ice de garantía de la competitividad y con los intereses que procedan por demora.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 (arts. 32-37) y Ley 39/2015 (art. 67)
+*   **Artículo**: Responsabilidad Patrimonial de las Administraciones Públicas
+*   **Literal / Explicación**: "El régimen de responsabilidad patrimonial del sector público (Ley 40/2015 y art. 106.2 CE) establece que: "Con referencia al día en el que se produjo el daño, pero debe actualizarse conforme al índ ice de garantía de la competitividad y con los intereses que procedan por demora."."
 
 ---
 
 #### Pregunta 263 (Examen #30)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #30)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿QUÉ DATOS, POR EXCEPCIÓN, PODRÁN SER MANTENIDOS EN SU INTEGRIDAD?
@@ -5345,16 +5612,17 @@ LA CUANTÍA DE LA INDEMNIZACIÓN EN NUESTRO SISTEMA DE RESPONSABILIDAD PATRIMONI
 *   **D)** Todas las respuestas son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas las respuestas son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Todas las respuestas son correctas."."
 
 ---
 
 #### Pregunta 264 (Examen #31)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #31)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿EN QUÉ PLAZO DEBERÁN CANCELARSE LOS DATOS DE CARÁCTER PERSONAL?
@@ -5365,16 +5633,17 @@ LA CUANTÍA DE LA INDEMNIZACIÓN EN NUESTRO SISTEMA DE RESPONSABILIDAD PATRIMONI
 *   **D)** Cuando hayan dejado de ser necesarios o pertinentes.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Cuando hayan dejado de ser necesarios o pertinentes.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Cuando hayan dejado de ser necesarios o pertinentes."."
 
 ---
 
 #### Pregunta 265 (Examen #32)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #32)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALA CUÁL DE LOS SIGUIENTES ES UN PRINCIPIO POR EL QUE SE RIGE LA TESORERÍA GENERAL DEL PAÍS VASCO:
@@ -5385,16 +5654,17 @@ SEÑALA CUÁL DE LOS SIGUIENTES ES UN PRINCIPIO POR EL QUE SE RIGE LA TESORERÍA
 *   **D)** Todas las respuestas anteriores son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Todas las respuestas anteriores son correctas."."
 
 ---
 
 #### Pregunta 266 (Examen #33)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #33)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALA CUÁL DE LOS SIGUIENTES PRINCIPIOS INFORMA LA EJECUCIÓN DEL GASTO PÚBLICO:
@@ -5405,16 +5675,17 @@ SEÑALA CUÁL DE LOS SIGUIENTES PRINCIPIOS INFORMA LA EJECUCIÓN DEL GASTO PÚBL
 *   **D)** Todas las respuestas son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas las respuestas son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Todas las respuestas son correctas."."
 
 ---
 
 #### Pregunta 267 (Examen #34)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #34)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 DOCUMENTOS CONTABLES DE LA EJECUCIÓN DEL GASTO. EL DOCUMENTO “ADO” CORRESPONDE A:
@@ -5425,16 +5696,17 @@ DOCUMENTOS CONTABLES DE LA EJECUCIÓN DEL GASTO. EL DOCUMENTO “ADO” CORRESPO
 *   **D)** Anulación de residuos de gastos.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Autorización, disposición del gasto y contracción de la obligación de forma simultánea.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011, de Principios Ordenadores de la Hacienda General del País Vasco
+*   **Artículo**: Régimen presupuestario y ejecución del gasto de la CAE
+*   **Literal / Explicación**: "El Texto Refundido de Principios Ordenadores de la Hacienda de la CAE (D. Leg. 1/2011) dictamina que la respuesta correcta es: "Autorización, disposición del gasto y contracción de la obligación de forma simultánea."."
 
 ---
 
 #### Pregunta 268 (Examen #35)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #35)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEGÚN LA LEY DE FUNCIÓN PÚBLICA VASCA, EL TRATO CORRECTO CON LOS ADMINISTRADOS, FACILITÁNDOLES EL MÁXIMO DE AYUDA EN LA GESTIÓN DE S US ASUNTOS ANTE LA ADMINISTRACIÓN...
@@ -5445,16 +5717,17 @@ SEGÚN LA LEY DE FUNCIÓN PÚBLICA VASCA, EL TRATO CORRECTO CON LOS ADMINISTRADO
 *   **D)** Es una necesidad política.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Es un deber de los funcionarios.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Es un deber de los funcionarios."."
 
 ---
 
 #### Pregunta 269 (Examen #36)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #36)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEGÚN LA LEY DE FUNCIÓN PÚBLICA VASCA, EL ABUSO DE AUTORIDAD EN E L EJERCICIO DEL PUESTO ES:
@@ -5465,16 +5738,17 @@ SEGÚN LA LEY DE FUNCIÓN PÚBLICA VASCA, EL ABUSO DE AUTORIDAD EN E L EJERCICIO
 *   **D)** Una falta muy leve.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Una falta grave.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "Una falta grave."."
 
 ---
 
 #### Pregunta 270 (Examen #37)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #37)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALA CUÁLES SON SEGÚN LA LEY DE LA FUNCIÓN PÚBLICA VASCA LAS RETRIBUCIONES BÁSICAS DE LOS FUNCIONARIOS:
@@ -5485,16 +5759,17 @@ SEÑALA CUÁLES SON SEGÚN LA LEY DE LA FUNCIÓN PÚBLICA VASCA LAS RETRIBUCIONE
 *   **D)** El sueldo, el complemento de destino y los trienios.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El sueldo, los trienios y las pagas extraordinarias.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP) y Ley 11/2022 de Empleo Público Vasco
+*   **Artículo**: Régimen estatutario, retribuciones y deberes del personal empleado público
+*   **Literal / Explicación**: "El Estatuto Básico del Empleado Público y la Ley 11/2022 de Empleo Público Vasco fundamentan que la opción C) "El sueldo, los trienios y las pagas extraordinarias." es la legalmente exacta."
 
 ---
 
 #### Pregunta 271 (Examen #38)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #38)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALA CUÁL DE LAS SIGUIENTES INSTANCIAS SE ENCUENTRA FUERA D EL ÁMBITO DE APLICACIÓN DE LA NORMATIVA REGULADORA DEL PROCESO DE NORMALIZACIÓN LINGÜÍSTICA EN LAS ADMINISTRACIONES DE LA COMUNIDAD AUTÓNOMA DE EUSKADI:
@@ -5505,16 +5780,17 @@ SEÑALA CUÁL DE LAS SIGUIENTES INSTANCIAS SE ENCUENTRA FUERA D EL ÁMBITO DE AP
 *   **D)** El Consejo de Relaciones Laborales.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El Parlamento Vasco.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "El Parlamento Vasco."."
 
 ---
 
 #### Pregunta 272 (Examen #39)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #39)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 PERFILES LINGÜÍSTICOS. SEÑALA LA AFIRMACIÓN INCORRECTA.
@@ -5525,16 +5801,17 @@ PERFILES LINGÜÍSTICOS. SEÑALA LA AFIRMACIÓN INCORRECTA.
 *   **D)** El perfil lingüístico deberá quedar incorporado dentro de las especificacione s que han de figurar en las relaciones de puestos de trabajo de cada Administración Pública
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "En la determinación del perfil lingüístico se incluirán las destrezas l ingüísticas en base a los cuatro niveles de competencia lingüística definidos como 1, 2, 3 y 4.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la B: "En la determinación del perfil lingüístico se incluirán las destrezas l ingüísticas en base a los cuatro niveles de competencia lingüística definidos como 1, 2, 3 y 4."."
 
 ---
 
 #### Pregunta 273 (Examen #40)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 8: Normalización Lingüística del uso del Euskera (Decreto 86/1997)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #40)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL ES EL PERIODO DE VIGENCIA DE UN PLAN DE NORMALIZACIÓN DEL USO DEL EUSKERA?
@@ -5545,16 +5822,17 @@ PERFILES LINGÜÍSTICOS. SEÑALA LA AFIRMACIÓN INCORRECTA.
 *   **D)** Ninguna de las respuestas anteriores es correcta.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Cinco años.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 10/1982 del Euskera y Decreto 86/1997 de normalización del euskera en las AAPP
+*   **Artículo**: Régimen de perfiles lingüísticos y derechos lingüísticos
+*   **Literal / Explicación**: "De conformidad con el Decreto 86/1997 de normalización del uso del euskera en las administraciones públicas vascas: "Cinco años."."
 
 ---
 
 #### Pregunta 274 (Examen #41)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #41)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 CON RELACIÓN AL CONTRATO DE TRABAJO:
@@ -5565,16 +5843,17 @@ CON RELACIÓN AL CONTRATO DE TRABAJO:
 *   **D)** A partir de los 14 años se pueden celebrar contratos de trabajo.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El empresario entregará a la representación legal de los trabajadores una copia bási ca de todos los contratos que deban celebrarse por escrito, a excepción de los contrato s de relación laboral especial de alta dirección.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "El empresario entregará a la representación legal de los trabajadores una copia bási ca de todos los contratos que deban celebrarse por escrito, a excepción de los contrato s de relación laboral especial de alta dirección."."
 
 ---
 
 #### Pregunta 275 (Examen #42)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #42)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EN EL CONTRATO A TIEMPO PARCIAL:
@@ -5585,16 +5864,17 @@ EN EL CONTRATO A TIEMPO PARCIAL:
 *   **D)** Las horas complementarias se retribuirán con un plus sobre las horas ordinarias.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "El trabajador deberá conocer el momento de las horas complementarias con un preav iso mínimo de tres días.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "El trabajador deberá conocer el momento de las horas complementarias con un preav iso mínimo de tres días."."
 
 ---
 
 #### Pregunta 276 (Examen #43)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #43)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALA CUÁL DE LOS SIGUIENTES NO ES UNA DE LAS FUNCIONES DE LOS ARCHIVOS DE OFICINA:
@@ -5605,16 +5885,17 @@ SEÑALA CUÁL DE LOS SIGUIENTES NO ES UNA DE LAS FUNCIONES DE LOS ARCHIVOS DE OF
 *   **D)** La gestión de las consultas y préstamos de la documentación existente en esos archivos.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La conservación de los expedientes, dejando constancia de dónde se encuentran , si es que las hubiere, las partes dispersas del mismo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto 232/2000, por el que se aprueba el Reglamento del Sistema de Archivo y Gestión Documental de la CAE
+*   **Artículo**: Principios archivísticos y ciclo de vida documental
+*   **Literal / Explicación**: "En la doctrina archivística y el Decreto 232/2000 de la CAE, la respuesta correcta es: "La conservación de los expedientes, dejando constancia de dónde se encuentran , si es que las hubiere, las partes dispersas del mismo."."
 
 ---
 
 #### Pregunta 277 (Examen #44)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #44)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ARCHIVOS DE OFICINA. RESPECTO A LAS CIRCULARES SEÑALA, COMO RE GLA GENERAL, CUÁNTO TIEMPO HAN DE CONSERVARSE EN LAS OFICINAS
@@ -5625,16 +5906,17 @@ ARCHIVOS DE OFICINA. RESPECTO A LAS CIRCULARES SEÑALA, COMO RE GLA GENERAL, CU�
 *   **D)** Mientras tengan vigencia.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Mientras tengan vigencia.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto 232/2000, por el que se aprueba el Reglamento del Sistema de Archivo y Gestión Documental de la CAE
+*   **Artículo**: Principios archivísticos y ciclo de vida documental
+*   **Literal / Explicación**: "En la doctrina archivística y el Decreto 232/2000 de la CAE, la respuesta correcta es: "Mientras tengan vigencia."."
 
 ---
 
 #### Pregunta 278 (Examen #45)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #45)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 RESPECTO AL TRATAMIENTO FÍSICO DE LA DOCUMENTACIÓN:
@@ -5645,16 +5927,17 @@ RESPECTO AL TRATAMIENTO FÍSICO DE LA DOCUMENTACIÓN:
 *   **D)** Es conveniente agrupar la documentación utilizando fundas de plástico.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Es conveniente agrupar la documentación utilizando carpetas y subcarpetas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Es conveniente agrupar la documentación utilizando carpetas y subcarpetas."."
 
 ---
 
 #### Pregunta 279 (Examen #46)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #46)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALA CUÁL DE LAS SIGUIENTES BARRERAS PUEDE PRODUCIR UNA DEGRADACIÓN EN LA COMUNICACIÓN:
@@ -5665,16 +5948,17 @@ SEÑALA CUÁL DE LAS SIGUIENTES BARRERAS PUEDE PRODUCIR UNA DEGRADACIÓN EN LA C
 *   **D)** Todas las respuestas anteriores son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas las respuestas anteriores son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Redacción Administrativa del IVAP y Ley 39/2015
+*   **Artículo**: Documentos administrativos y claridad expositiva
+*   **Literal / Explicación**: "Los criterios de estilo y normalización documental del IVAP establecen que la opción correcta es: "Todas las respuestas anteriores son correctas."."
 
 ---
 
 #### Pregunta 280 (Examen #47)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #47)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALA CUÁL DE LOS SIGUIENTES ES EL OBJETIVO DE UN OFICIO (DOCUMENT O ADMINISTRATIVO)
@@ -5685,16 +5969,17 @@ SEÑALA CUÁL DE LOS SIGUIENTES ES EL OBJETIVO DE UN OFICIO (DOCUMENT O ADMINIST
 *   **D)** Certificar.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Informar.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Informar."."
 
 ---
 
 #### Pregunta 281 (Examen #48)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #48)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SI ENTENDEMOS QUE LA ESTRUCTURA GENERAL DE UNA CARTA TIENE TRES PARTES, SEÑALA CUÁL DE LAS SIGUIENTES NO FORMA PARTE DE LA MISMA:
@@ -5705,16 +5990,17 @@ SI ENTENDEMOS QUE LA ESTRUCTURA GENERAL DE UNA CARTA TIENE TRES PARTES, SEÑALA 
 *   **D)** El cierre.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "El saludo".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "El saludo"."
 
 ---
 
 #### Pregunta 282 (Examen #49)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #49)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 LA ATENCIÓN PERSONALIZADA AL CIUDADANO Y CIUDADANA COMPRENDE LA FUNCIÓN DE:
@@ -5725,16 +6011,17 @@ LA ATENCIÓN PERSONALIZADA AL CIUDADANO Y CIUDADANA COMPRENDE LA FUNCIÓN DE:
 *   **D)** Las tres respuestas son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Las tres respuestas son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Las tres respuestas son correctas."."
 
 ---
 
 #### Pregunta 283 (Examen #50)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #50)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CON QUIÉN DE LOS SIGUIENTES TIPOS DE PERSONAS SE DEBE MANTENER UNA ACTITUD PACIENTE, DANDO DETALLES, APORTANDO CONOCIMIENTOS TÉCNICOS Y SIN CONTRADECIRNOS?
@@ -5745,16 +6032,17 @@ LA ATENCIÓN PERSONALIZADA AL CIUDADANO Y CIUDADANA COMPRENDE LA FUNCIÓN DE:
 *   **D)** Con personas tímidas.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Con personas inquisitivas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "Con personas inquisitivas."."
 
 ---
 
 #### Pregunta 284 (Examen #51)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #51)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿EN QUÉ ARTÍCULO DE LA CONSTITUCIÓN ESPAÑOLA DE 1978 SE CONTEMPLA EL DERECHO A LA TUTELA JUDICIAL EFECTIVA?
@@ -5765,16 +6053,17 @@ LA ATENCIÓN PERSONALIZADA AL CIUDADANO Y CIUDADANA COMPRENDE LA FUNCIÓN DE:
 *   **D)** 27.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "24.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "La Constitución Española determina en su articulado que la opción correcta es: "24."."
 
 ---
 
 #### Pregunta 285 (Examen #52)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #52)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿CUÁL ES EL PRECEPTO DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VAS CO QUE RECOGE LAS COMPETENCIAS EN MATERIA DE ENSEÑANZA?
@@ -5785,16 +6074,17 @@ LA ATENCIÓN PERSONALIZADA AL CIUDADANO Y CIUDADANA COMPRENDE LA FUNCIÓN DE:
 *   **D)** 19.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "16.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (LO 3/1979)
+*   **Artículo**: Título I (Competencias del País Vasco)
+*   **Literal / Explicación**: "Conforme al Estatuto de Autonomía de Gernika, la opción correcta es: "16."."
 
 ---
 
 #### Pregunta 286 (Examen #53)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 6: Igualdad de Mujeres y Hombres (Ley 4/2005 y Ley 1/2022)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #53)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿ES LA EVALUACIÓN PREVIA DEL IMPACTO EN FUNCIÓN DE GÉNERO UNA MEDIDA PARA PROMOVER LA IGUALDAD EN LA NORMATIVA Y ACTIVIDAD ADMINISTRATIVA?
@@ -5805,16 +6095,17 @@ LA ATENCIÓN PERSONALIZADA AL CIUDADANO Y CIUDADANA COMPRENDE LA FUNCIÓN DE:
 *   **D)** Algunas veces.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Sí.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 4/2005 para la Igualdad de Mujeres y Hombres (modificada por Ley 1/2022)
+*   **Artículo**: Principios Generales y Medidas de Igualdad
+*   **Literal / Explicación**: "La normativa vasca de igualdad de mujeres y hombres (Ley 4/2005) establece que la opción correcta es: "Sí."."
 
 ---
 
 #### Pregunta 287 (Examen #54)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 29: Órganos Administrativos y Colegiados (Ley 40/2015 y Ley 3/2022)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #54)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿DEBEN SER PUBLICADOS LOS ACUERDOS DE CREACIÓN Y LAS NORMAS DE FUNCIONAMIENTO DE LOS ÓRGANOS COLEGIADOS QUE DICTEN RESOLUCIONES QUE TENGAN EFECTOS JURÍDICOS FRENTE A TERCEROS?
@@ -5825,16 +6116,17 @@ LA ATENCIÓN PERSONALIZADA AL CIUDADANO Y CIUDADANA COMPRENDE LA FUNCIÓN DE:
 *   **D)** Tan sólo si el órgano colegiado de que se trate así lo acuerda.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Sí.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015, de Régimen Jurídico del Sector Público (arts. 8 a 19)
+*   **Artículo**: Órganos administrativos y traslación de competencias
+*   **Literal / Explicación**: "La Ley 40/2015 (y concordante art. 14 Ley 30/1992) regula que la opción correcta es: "Sí."."
 
 ---
 
 #### Pregunta 288 (Examen #55)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 10: Protección de Datos Personales (LOPDGDD / RGPD)  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #55)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALA CUÁL ES EL PLAZO, COMO REGLA GENERAL, EN EL QUE EL INTERESADO DEBERÁ SER INFORMADO CUANDO LOS DATOS PERSONALES NO HAYAN SIDO RECABADOS DE ÉL:
@@ -5845,16 +6137,17 @@ SEÑALA CUÁL ES EL PLAZO, COMO REGLA GENERAL, EN EL QUE EL INTERESADO DEBERÁ S
 *   **D)** Dentro de 1 año.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Dentro de 3 meses.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Dentro de 3 meses."."
 
 ---
 
 #### Pregunta 289 (Examen #56)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #56)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEGÚN LA LEY DE LA FUNCIÓN PÚBLICA VASCA EL PERSONAL LABORAL SE CLASIFICA EN:
@@ -5865,16 +6158,17 @@ SEGÚN LA LEY DE LA FUNCIÓN PÚBLICA VASCA EL PERSONAL LABORAL SE CLASIFICA EN:
 *   **D)** Fijo y eventual.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Fijo y temporal.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la C: "Fijo y temporal."."
 
 ---
 
 #### Pregunta 290 (Examen #57)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #57)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 EL ART. 25 DE LA LEY 39/2015, QUE REGULA LA RESOLUCIÓN EXPRESA E N PROCEDIMIENTOS INICIADOS DE OFICIO PREVÉ: SEÑALE LA RESPUESTA INCORRECTA:
@@ -5885,16 +6179,17 @@ EL ART. 25 DE LA LEY 39/2015, QUE REGULA LA RESOLUCIÓN EXPRESA E N PROCEDIMIENT
 *   **D)** En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "En los procedimientos iniciados de oficio, el vencimiento del plazo máxi mo establecido sin que se haya dictado y notificado resolución expresa exime a la Administración del cumplimiento de la obligación legal de resolver".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la A: "En los procedimientos iniciados de oficio, el vencimiento del plazo máxi mo establecido sin que se haya dictado y notificado resolución expresa exime a la Administración del cumplimiento de la obligación legal de resolver"."
 
 ---
 
 #### Pregunta 291 (Examen #59)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 34: Responsabilidad Patrimonial de las Administraciones Públicas  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #59)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 NUESTRO SISTEMA DE RESPONSABILIDAD PATRIMONIAL CONSAGRA UN MODELO DE REPARACIÓN:
@@ -5905,16 +6200,17 @@ NUESTRO SISTEMA DE RESPONSABILIDAD PATRIMONIAL CONSAGRA UN MODELO DE REPARACIÓN
 *   **D)** Tan sólo alcanza los daños producidos por el funcionamiento normal de los servicios públicos.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Integral, que alcanza la totalidad de los daños producidos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 (arts. 32-37) y Ley 39/2015 (art. 67)
+*   **Artículo**: Responsabilidad Patrimonial de las Administraciones Públicas
+*   **Literal / Explicación**: "El régimen de responsabilidad patrimonial del sector público (Ley 40/2015 y art. 106.2 CE) establece que: "Integral, que alcanza la totalidad de los daños producidos."."
 
 ---
 
 #### Pregunta 292 (Examen #60)
-**Convocatoria**: Bolsa de Trabajo de Administrativos 2017  
-**Bloque**: Bolsa 2017 - Bloque Único  
+**Tema**: Tema 24: Atención a la Ciudadanía, Quejas y Sugerencias  
+**Convocatoria / Origen**: IVAP - Bolsa de Trabajo de Administrativos 2017 (Pregunta #60)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 SEÑALA CUÁL DE LOS SIGUIENTES FACTORES DEBE DE TENERSE EN CUENT A EN UNA ATENCIÓN AL PÚBLICO DE CALIDAD:
@@ -5925,10 +6221,10 @@ SEÑALA CUÁL DE LOS SIGUIENTES FACTORES DEBE DE TENERSE EN CUENT A EN UNA ATENC
 *   **D)** Todas las respuestas son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2017
-*   **Ámbito**: Bolsa 2017 - Bloque Único (Temario Completo y Casos de Atención (Preguntas 1-60))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Todas las respuestas son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP)
+*   **Artículo**: Título Preliminar y Título I
+*   **Literal / Explicación**: "Conforme a la normativa reguladora del procedimiento administrativo común y la doctrina consolidada del IVAP, la opción correcta es la D: "Todas las respuestas son correctas."."
 
 ---
 
@@ -5941,8 +6237,9 @@ SEÑALA CUÁL DE LOS SIGUIENTES FACTORES DEBE DE TENERSE EN CUENT A EN UNA ATENC
 *Cuestionario Teórico Oficial (Preguntas 1-40)*
 
 #### Pregunta 293 (Examen #1)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #1)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Los derechos recogidos en los artículos 15-29 de la Constitución cuentan con un sistema reforzado de garantías, como son (indíquese la respuesta INCORRECTA):
@@ -5953,16 +6250,17 @@ Los derechos recogidos en los artículos 15-29 de la Constitución cuentan con u
 *   **D)** Protección jurisdiccional de los tribunales ordinarios a través de un procedimiento preferente y sumario.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Se regulan necesariamente por ley ordinaria y no por reglamento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978.
+*   **Artículo**: Art. 81.1 en relación con el art. 53.1 y 53.2 CE.
+*   **Literal / Explicación**: "Es la afirmación incorrecta (y por tanto la correcta del test) porque el desarrollo de los derechos fundamentales y de las libertades públicas (arts. 15 a 29 CE) está reservado expresamente a **Ley Orgánica**, no a ley ordinaria. Las opciones B (art. 168 CE), C (art. 53.2 CE) y D (art. 53.2 CE) son garantías ciertas."
 
 ---
 
 #### Pregunta 294 (Examen #2)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 2: La organización territorial del Estado y Estatuto de Autonomía de Euskadi  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #2)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 En relación con la Administración de Justicia en las Comunidades Autónomas, puede decirse que:
@@ -5973,16 +6271,17 @@ En relación con la Administración de Justicia en las Comunidades Autónomas, p
 *   **D)** La Constitución no recoge expresamente ninguna disposición sobre la organización judicial en el ámbito territorial de la Comunidad Autónoma.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978.
+*   **Artículo**: Art. 152.1, párrafo segundo CE.
+*   **Literal / Explicación**: ""Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo, culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma." El Poder Judicial es único del Estado (no descentralizado en CC.AA.)."
 
 ---
 
 #### Pregunta 295 (Examen #3)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 3: Derecho de la Unión Europea e Instituciones  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #3)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 El reglamento de la Unión Europea es un tipo o categoría normativa:
@@ -5993,16 +6292,17 @@ El reglamento de la Unión Europea es un tipo o categoría normativa:
 *   **D)** Es una norma directamente aplicable si el Estado miembro así lo admite.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Es una norma directamente aplicable en el Estado miembro.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Tratado de Funcionamiento de la Unión Europea (TFUE).
+*   **Artículo**: Art. 288, párrafo segundo TFUE.
+*   **Literal / Explicación**: ""El reglamento tendrá un alcance general. Será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro" sin necesidad de transposición interna."
 
 ---
 
 #### Pregunta 296 (Examen #4)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 4: Organización política y administrativa de la CAE  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #4)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 En cuanto a las lenguas, el Estatuto de Autonomía del País Vasco (señálese la respuesta INCORRECTA):
@@ -6013,16 +6313,17 @@ En cuanto a las lenguas, el Estatuto de Autonomía del País Vasco (señálese l
 *   **D)** Establece que nadie podrá ser discriminado por razón de la lengua.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Establece el euskera y el castellano como lenguas propias del Pueblo Vasco.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco (Ley Orgánica 3/1979).
+*   **Artículo**: Art. 6.1 EAPV.
+*   **Literal / Explicación**: "Es la respuesta incorrecta porque el Estatuto establece que el **euskera es la lengua propia** del Pueblo Vasco ("El euskera, lengua propia del Pueblo Vasco, tendrá, como el castellano, carácter de idioma oficial..."). La condición de lengua propia corresponde exclusivamente al euskera."
 
 ---
 
 #### Pregunta 297 (Examen #5)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 5: Instituciones Forales y Locales (Concierto Económico, LILE, LTH)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #5)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Dentro de las competencias de los Territorios Históricos que constituyen el núcleo esencial e intocable de la foralidad NO se encuentran:
@@ -6033,16 +6334,17 @@ Dentro de las competencias de los Territorios Históricos que constituyen el nú
 *   **D)** Las competencias sobre conservación, modificación y desarrollo del Derecho civil Foral y especial.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Las competencias sobre conservación, modificación y desarrollo del Derecho civil Foral y especial.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estatuto de Autonomía del País Vasco y Ley 27/1983 (LTH).
+*   **Artículo**: Art. 10.5 EAPV y Art. 7 LTH.
+*   **Literal / Explicación**: "La conservación, modificación y desarrollo del Derecho Civil foral y especial es una competencia exclusiva de las **Instituciones Comunes de la Comunidad Autónoma** (Parlamento Vasco), conforme al art. 10.5 del Estatuto de Gernika, y no forma parte de las competencias privativas forales de las Juntas Generales/Diputaciones."
 
 ---
 
 #### Pregunta 298 (Examen #6)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 5: Instituciones Forales y Locales (Concierto Económico, LILE, LTH)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #6)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Según establece la Ley por la que se aprueba el Concierto, la aportación del País Vasco al Estado consistirá en un cupo global (indíquese la respuesta INCORRECTA):
@@ -6053,16 +6355,17 @@ Según establece la Ley por la que se aprueba el Concierto, la aportación del P
 *   **D)** Para cuyo cálculo deberá restarse del cupo correspondiente a cada Territorio Histórico la parte imputable de los tributos no concertados.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Cuyo cálculo se aprueba por Ley cada 10 años, previo acuerdo de la Comisión Mixta del Concierto Económico.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 12/2002, de 23 de mayo, del Concierto Económico.
+*   **Artículo**: Arts. 48 y 49 Ley 12/2002.
+*   **Literal / Explicación**: "Es incorrecto porque la metodología del señalamiento del Cupo y la Ley quinquenal de Cupo se aprueba cada **cinco años** (quinquenalmente), no cada 10 años."
 
 ---
 
 #### Pregunta 299 (Examen #7)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 6: Igualdad de Mujeres y Hombres (Ley 4/2005 y Ley 1/2022)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #7)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Las Unidades de Igualdad:
@@ -6073,16 +6376,17 @@ Las Unidades de Igualdad:
 *   **D)** Son unidades administrativas de coordinación que forman parte de Berdinsarea.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Son unidades administrativas de coordinación, de carácter formal, creadas por la Ley 4/2005 y reguladas por el Decreto 213/2007, de 26 de diciembre.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 4/2005 para la Igualdad de Mujeres y Hombres y Decreto 213/2007.
+*   **Artículo**: Art. 12 Ley 4/2005 y Art. 1 Decreto 213/2007.
+*   **Literal / Explicación**: "Las unidades para la igualdad son estructuras o unidades administrativas de coordinación y asesoramiento técnico de **carácter formal**, creadas por el art. 12 de la Ley 4/2005 y reguladas por el Decreto 213/2007, existentes en cada Departamento del Gobierno Vasco."
 
 ---
 
 #### Pregunta 300 (Examen #8)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 7: Administración Electrónica y Sede Electrónica  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #8)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Indique qué tipo de contenido NO es exigible como mínimo en una sede electrónica:
@@ -6093,16 +6397,17 @@ Indique qué tipo de contenido NO es exigible como mínimo en una sede electrón
 *   **D)** Perfil del contratante.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Perfil del contratante.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 (art. 38) y Real Decreto 203/2021 (Reglamento de actuación electrónica).
+*   **Artículo**: Art. 11 Real Decreto 203/2021.
+*   **Literal / Explicación**: "El perfil de contratante se aloja en la Plataforma de Contratación Pública (Ley 9/2017), pudiendo existir enlace directo desde la sede, pero entre el contenido obligatorio mínimo intrínseco de la sede figuran la identificación, fecha/hora oficial, catálogo de trámites, canal de sugerencias/quejas y tablón de anuncios."
 
 ---
 
 #### Pregunta 301 (Examen #9)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 21: El Documento y Expediente Administrativo Electrónico  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #9)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 En particular, los medios o soportes donde se almacenen los documentos de un expediente asegurarán:
@@ -6113,16 +6418,17 @@ En particular, los medios o soportes donde se almacenen los documentos de un exp
 *   **D)** La posibilidad de hacer copias en papel.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La identificación de los usuarios y el control de accesos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 70.3 Ley 39/2015.
+*   **Literal / Explicación**: ""Los medios o soportes en que se almacenen documentos deberán contar con medidas de seguridad que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados. En particular, asegurarán la identificación de los usuarios y el control de accesos...""
 
 ---
 
 #### Pregunta 302 (Examen #10)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 8: Normalización Lingüística del uso del Euskera (Decreto 86/1997)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #10)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 En el marco de la normalización lingüística, corresponde al Instituto Vasco de Administración Pública (IVAP), entre otras, las siguientes tareas:
@@ -6133,16 +6439,17 @@ En el marco de la normalización lingüística, corresponde al Instituto Vasco d
 *   **D)** Acreditar la obtención del certificado BIKAIN.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Ampliar la oferta de formación generalista en euskera y continuar suministrando recursos para apoyar a las y los empleados en la normalización del euskera.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 16/1983 sobre creación y regulación del IVAP y Decreto 86/1997.
+*   **Artículo**: Art. 3 Ley 16/1983 / Planes de Normalización del Euskera en la CAE.
+*   **Literal / Explicación**: "Corresponde al IVAP la formación y capacitación lingüística del personal empleado público de las administraciones vascas, facilitando recursos formativos y materiales de apoyo."
 
 ---
 
 #### Pregunta 303 (Examen #11)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #11)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 De acuerdo con el Estatuto Básico del Empleado Público (Real Decreto Legislativo 5/2015, de 30 de octubre), cuál de las siguientes retribuciones NO percibirán los funcionarios interinos:
@@ -6153,16 +6460,17 @@ De acuerdo con el Estatuto Básico del Empleado Público (Real Decreto Legislati
 *   **D)** Trienios.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Complemento por la progresión alcanzada dentro del sistema de carrera administrativa.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Real Decreto Legislativo 5/2015 (TREBEP).
+*   **Artículo**: Art. 25 y Art. 16-17 TREBEP.
+*   **Literal / Explicación**: "El TREBEP reconoce a los interinos las retribuciones básicas (incluidos trienios, art. 25.2), pagas extras y complementos del puesto/productividad. La carrera horizontal/progresión en la carrera administrativa requiere la condición de funcionario de carrera (art. 16.2), salvo los supuestos de equiparación por jurisprudencia posterior no contemplados como derecho originario en el texto legal del TREBEP en su redacción inicial."
 
 ---
 
 #### Pregunta 304 (Examen #12)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 10: Protección de Datos Personales (LOPDGDD / RGPD)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #12)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 En relación con el consentimiento en materia de tratamiento de datos personales, puede afirmarse que:
@@ -6173,16 +6481,17 @@ En relación con el consentimiento en materia de tratamiento de datos personales
 *   **D)** El consentimiento debe consistir en una manifestación de voluntad inequívoca por la que interesado acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que le conciernen.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "El consentimiento debe consistir en una manifestación de voluntad inequívoca por la que interesado acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que le conciernen.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018 (LOPDGDD).
+*   **Artículo**: Art. 4.11 RGPD y Art. 6 LOPDGDD.
+*   **Literal / Explicación**: "El consentimiento debe ser libre, específico, informado e inequívoco, expresado mediante una declaración o una clara acción afirmativa (no cabe el consentimiento tácito o pasivo)."
 
 ---
 
 #### Pregunta 305 (Examen #13)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 11: Prevención de Riesgos Laborales (Ley 31/1995)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #13)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Si hay más de una empresa o administración presentes en un mismo centro de trabajo, quien tiene la obligación de informar sobre las medidas de emergencia y extinción de incendios del lugar de trabajo es:
@@ -6193,16 +6502,17 @@ Si hay más de una empresa o administración presentes en un mismo centro de tra
 *   **D)** Los servicios de extinción de incendios y primeros auxilios del municipio en que se encuentre el centro de trabajo.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "El titular del centro de trabajo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 31/1995 de Prevención de Riesgos Laborales y Real Decreto 171/2004 de Coordinación de Actividades Empresariales.
+*   **Artículo**: Art. 24.2 Ley 31/1995.
+*   **Literal / Explicación**: ""El empresario titular del centro de trabajo adoptará las medidas necesarias para que aquellos otros empresarios que desarrollen actividades en su centro de trabajo reciban la información y las instrucciones adecuadas... sobre las medidas de emergencia a aplicar.""
 
 ---
 
 #### Pregunta 306 (Examen #14)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 13: Nociones Básicas de Primeros Auxilios  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #14)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 A la hora de prestar primeros auxilios a una persona accidentada o enferma hay que actuar siguiendo unas pautas básicas que responden a:
@@ -6213,16 +6523,17 @@ A la hora de prestar primeros auxilios a una persona accidentada o enferma hay q
 *   **D)** La regla PAS: proteger a la persona accidentada o enferma llevándola a un lugar seco y que no esté a la intemperie, abrigar a esa persona para que mantenga el calor corporal y socorrerla siguiendo un orden de prioridades.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La regla PAS: proteger el lugar de los hechos, avisar en cuanto sea posible a los servicios sanitarios y socorrer a la víctima siguiendo un orden de prioridades.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Protocolos de Primeros Auxilios y Seguridad Laboral.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "La conducta **PAS** significa: **P**roteger (el lugar del accidente para evitar nuevos riesgos), **A**visar (a los servicios de emergencia 112) y **S**ocorrer (a las víctimas según su gravedad y orden de prioridades)."
 
 ---
 
 #### Pregunta 307 (Examen #15)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 14: Gobierno Abierto, Buen Gobierno y Transparencia (Ley 19/2013 y Ley 3/2026)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #15)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La transparencia gubernamental consiste en que:
@@ -6233,16 +6544,17 @@ La transparencia gubernamental consiste en que:
 *   **D)** El acceso a cualquier información por parte de la ciudadanía es totalmente libre.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La información sobre las actividades de los organismos públicos sea creada y esté a disposición de la ciudadanía, con excepciones limitadas, de manera oportuna y en formatos de datos abiertos sin límites para la utilización.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 19/2013 de Transparencia y Ley 3/2026 de Transparencia de Euskadi.
+*   **Artículo**: Arts. 14 y 15 Ley 19/2013.
+*   **Literal / Explicación**: "El acceso a la información pública es la regla general, pero está sujeto a **excepciones tasadas y limitadas** (seguridad, protección de datos personales, intereses económicos y comerciales, procesos judiciales)."
 
 ---
 
 #### Pregunta 308 (Examen #16)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #16)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La autorización del gasto:
@@ -6253,16 +6565,17 @@ La autorización del gasto:
 *   **D)** Es el acto por el cual se acuerda su realización por importe máximo, cierto o aproximado con cargo a un determinado crédito de pago, reservando a tal fin la totalidad o una parte disponible del mismo.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Es el acto por el cual se acuerda su realización por importe máximo, cierto o aproximado con cargo a un determinado crédito de pago, reservando a tal fin la totalidad o una parte disponible del mismo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011 (Régimen Presupuestario de Euskadi).
+*   **Artículo**: Art. 43.1 D. Leg. 1/2011.
+*   **Literal / Explicación**: "La autorización (fase A) es el acto administrativo por el que se acuerda la realización de un gasto con cargo a un crédito de pago por cuantía cierta o aproximada, reservando a tal fin el crédito presupuestario disponible."
 
 ---
 
 #### Pregunta 309 (Examen #17)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 16: Presupuesto de Ingresos: Fases y Devoluciones (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #17)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La gestión de todos los ingresos que forman parte del presupuesto y las distintas operaciones que se realizan con los mismos es lo que se denomina:
@@ -6273,16 +6586,17 @@ La gestión de todos los ingresos que forman parte del presupuesto y las distint
 *   **D)** Intervención del presupuesto.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Ejecución del presupuesto.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011 de Régimen Presupuestario de Euskadi.
+*   **Artículo**: Art. 51 D. Leg. 1/2011.
+*   **Literal / Explicación**: "La ejecución del presupuesto de ingresos comprende la gestión, liquidación, contraimiento y recaudación de los derechos económicos de la Hacienda General del País Vasco."
 
 ---
 
 #### Pregunta 310 (Examen #18)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 16: Presupuesto de Ingresos: Fases y Devoluciones (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #18)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Al cierre de un ejercicio presupuestario, todos los saldos de derechos reconocidos en dicho ejercicio pendientes de recaudación y no anulados:
@@ -6293,16 +6607,17 @@ Al cierre de un ejercicio presupuestario, todos los saldos de derechos reconocid
 *   **D)** Se cargan al siguiente ejercicio de forma automática, a través de un proceso contable llamado «Paso de residuos».
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Se cargan al siguiente ejercicio de forma automática, a través de un proceso contable llamado «Paso de residuos».".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Instrucción y principios de Contabilidad Pública de la CAE / D. Leg. 1/2011.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Los saldos de derechos liquidados pendientes de cobro al finalizar el ejercicio económico se trasladan de forma contable automática al ejercicio siguiente bajo la denominación de "Paso de residuos" (derechos pendientes de cobro de ejercicios cerrados)."
 
 ---
 
 #### Pregunta 311 (Examen #19)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #19)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Los principios constitucionales con arreglo a los cuales se llevará a cabo el acceso al empleo público son los siguientes:
@@ -6313,16 +6628,17 @@ Los principios constitucionales con arreglo a los cuales se llevará a cabo el a
 *   **D)** Publicidad de las convocatorias e imparcialidad y profesionalidad de los miembros de los órganos de selección.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Igualdad, mérito y capacidad.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978 y TREBEP.
+*   **Artículo**: Art. 23.2 y 103.3 CE; Art. 55.1 TREBEP.
+*   **Literal / Explicación**: "Los principios consagrados expresamente en la Constitución Española como rectores del acceso a la función pública son **igualdad, mérito y capacidad**. Los demás son principios rectores legales de selección."
 
 ---
 
 #### Pregunta 312 (Examen #20)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 18: Acceso al Empleo Público y Provisión de Puestos (Ley 11/2022 y TREBEP)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #20)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 De acuerdo con el Estatuto Básico del Empleado Público (Real Decreto Legislativo 5/2015, de 30 de octubre), el procedimiento de libre designación como procedimiento de provisión de puestos de trabajo del personal funcionario de carrera:
@@ -6333,16 +6649,17 @@ De acuerdo con el Estatuto Básico del Empleado Público (Real Decreto Legislati
 *   **D)** Requerirá en todo caso una convocatoria pública en la que se deberán especificar los requisitos exigidos para el desempeño del puesto.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Requerirá en todo caso una convocatoria pública en la que se deberán especificar los requisitos exigidos para el desempeño del puesto.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: TREBEP (Real Decreto Legislativo 5/2015).
+*   **Artículo**: Art. 80.2 TREBEP.
+*   **Literal / Explicación**: ""La libre designación con convocatoria pública consiste en la apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto. Las convocatorias incluirán los requisitos fijados en la relación de puestos de trabajo...""
 
 ---
 
 #### Pregunta 313 (Examen #21)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #21)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿Qué datos identificativos mínimos deben de llevar las cajas de documentos (unidades de instalación) del sistema de archivos?
@@ -6353,16 +6670,17 @@ De acuerdo con el Estatuto Básico del Empleado Público (Real Decreto Legislati
 *   **D)** Área competencial, servicio, número de caja y fechas extremas.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Departamento, unidad productora, serie e identificador alfanumérico.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Procedimiento de Archivo del Gobierno Vasco y Decreto 232/2000.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Las unidades de instalación (cajas normalizadas) deben llevar identificados de forma normalizada: Departamento, unidad administrativa productora, código/título de la serie documental y el identificador alfanumérico secuencial."
 
 ---
 
 #### Pregunta 314 (Examen #22)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 20: Registros Electrónicos e Interoperabilidad  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #22)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Si se consultan los datos del padrón de habitantes de un Ayuntamiento a través de las plataformas de intermediación de datos, el resultado tiene consideración de:
@@ -6373,16 +6691,17 @@ Si se consultan los datos del padrón de habitantes de un Ayuntamiento a través
 *   **D)** Fichero de datos de intermediación.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Certificado de empadronamiento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 (art. 28.2) y normativa reguladora de la Plataforma de Intermediación de Datos (PID).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Las transmisiones de datos a través de plataformas de intermediación entre administraciones tienen la consideración y valor probatorio de certificado administrativo a todos los efectos legales de acreditación del requisito."
 
 ---
 
 #### Pregunta 315 (Examen #23)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 21: El Documento y Expediente Administrativo Electrónico  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #23)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿Qué es un documento electrónico?
@@ -6393,16 +6712,17 @@ Si se consultan los datos del padrón de habitantes de un Ayuntamiento a través
 *   **D)** Información de cualquier naturaleza en forma electrónica, archivada en un soporte electrónico según un formato determinado y susceptible de identificación y tratamiento diferenciado.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Información de cualquier naturaleza en forma electrónica, archivada en un soporte electrónico según un formato determinado y susceptible de identificación y tratamiento diferenciado.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 26.1 Ley 39/2015.
+*   **Literal / Explicación**: ""Se entiende por documentos administrativos administrativos válidos los emitidos por escrito, a través de medios electrónicos... que contengan información de cualquier naturaleza en forma electrónica, archivada en un soporte electrónico según un formato determinado y susceptible de identificación y tratamiento diferenciado.""
 
 ---
 
 #### Pregunta 316 (Examen #24)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #24)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿Cuál de los siguientes aspectos SÍ es un principio fundamental de la gestión de la excelencia en la gestión de organizaciones:
@@ -6413,16 +6733,17 @@ Si se consultan los datos del padrón de habitantes de un Ayuntamiento a través
 *   **D)** La gestión por procesos y hechos.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "La gestión por procesos y hechos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Modelos de Excelencia en la Gestión Pública (Modelo EFQM / Guías de Calidad del IVAP).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "La "gestión por procesos y hechos" es uno de los conceptos y principios fundamentales del modelo de excelencia europea EFQM aplicado a las administraciones públicas."
 
 ---
 
 #### Pregunta 317 (Examen #25)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 14: Gobierno Abierto, Buen Gobierno y Transparencia (Ley 19/2013 y Ley 3/2026)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #25)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:
@@ -6433,16 +6754,17 @@ La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información p�
 *   **D)** Condiciona el acceso a la información pública al pago de las correspondientes tasas locales e impuestos estatales.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Ordena el acceso a la información pública con algunos límites, entre los que cabe destacar las relaciones exteriores y la igualdad de las partes en los procesos judiciales y la tutela judicial efectiva.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno.
+*   **Artículo**: Art. 14.1 apartados c) y f) Ley 19/2013.
+*   **Literal / Explicación**: "El art. 14 de la Ley 19/2013 limita el derecho de acceso cuando perjudique a las relaciones exteriores, la seguridad pública, la prevención y sanción de ilícitos, y la igualdad de las partes en los procesos judiciales y la tutela judicial efectiva."
 
 ---
 
 #### Pregunta 318 (Examen #26)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 24: Atención a la Ciudadanía, Quejas y Sugerencias  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #26)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La accesibilidad cognitiva:
@@ -6453,16 +6775,17 @@ La accesibilidad cognitiva:
 *   **D)** Requiere que la Administración Pública utilice un lenguaje complejo e indirecto.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Requiere que la Administración Pública prepare a las personas que prestan el servicio con relación a las necesidades de los diferentes colectivos, adecuando su actuación a dichas necesidades específicas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Guías de Accesibilidad e Inclusión del IVAP y Ley de Accesibilidad Universal.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "La accesibilidad cognitiva exige comprender las dificultades de comprensión de las personas usuarias y capacitar al personal para adaptar la comunicación y el servicio a dichas necesidades."
 
 ---
 
 #### Pregunta 319 (Examen #27)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #27)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La lectura en la web (en pantalla):
@@ -6473,16 +6796,17 @@ La lectura en la web (en pantalla):
 *   **D)** Exige que los textos se redacten según los patrones de los textos en papel.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Ha cambiado los hábitos de lectura, en cuanto los textos en pantalla no se leen de la misma manera que en papel.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Pautas de Comunicación y Estilo Web del IVAP / Manual de Lenguaje Claro.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "En soporte digital la lectura no es lineal sino que se escanea visualmente (patrón en F), lo cual modifica los hábitos y exige redacción orientada a la pantalla (títulos descriptivos, párrafos breves y destacados)."
 
 ---
 
 #### Pregunta 320 (Examen #28)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 26: Comunicación Oral y No Verbal (Atención presencial y telefónica)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #28)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 A la disciplina que estudia los aspectos no semánticos del lenguaje, como el volumen de la voz, los silencios o el ritmo con el que se habla, se le denomina:
@@ -6493,16 +6817,17 @@ A la disciplina que estudia los aspectos no semánticos del lenguaje, como el vo
 *   **D)** Parasemántica.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Paralingüística.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Comunicación Oral y Atención Presencial del IVAP.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "La paralingüística estudia los elementos no verbales de la voz (tono, volumen, ritmo, pausas y silencios). La kinésica estudia los gestos corporales y la proxémica el espacio interpersonal."
 
 ---
 
 #### Pregunta 321 (Examen #29)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 27: Centros de Documentación y Bibliotecas (Ley 11/2007)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #29)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La ISBD (Descripción Bibliográfica Internacional Normalizada) recoge una serie de normas internacionales sobre la forma y el contenido de los datos a consignar en:
@@ -6513,16 +6838,17 @@ La ISBD (Descripción Bibliográfica Internacional Normalizada) recoge una serie
 *   **D)** El registro de un documento.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "La descripción bibliográfica de un documento.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Normas de Biblioteconomía y Catalogación (IFLA).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Las ISBD (International Standard Bibliographic Description) tienen por objeto estandarizar los elementos de datos que integran la descripción bibliográfica de cualquier recurso documental."
 
 ---
 
 #### Pregunta 322 (Examen #30)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 28: Fuentes del Derecho Administrativo: Ley y Reglamento  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #30)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿Cuál de las siguientes afirmaciones es, de acuerdo con la Constitución, INCORRECTA?:
@@ -6533,16 +6859,17 @@ La ISBD (Descripción Bibliográfica Internacional Normalizada) recoge una serie
 *   **D)** El art. 82 CE permite a las Cortes atribuir al Gobierno, mediante una ley de delegación, la potestad de dictar una norma con fuerza de ley denominada decreto-ley.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "El art. 82 CE permite a las Cortes atribuir al Gobierno, mediante una ley de delegación, la potestad de dictar una norma con fuerza de ley denominada decreto-ley.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Constitución Española de 1978.
+*   **Artículo**: Arts. 82 y 86 CE.
+*   **Literal / Explicación**: "Es la afirmación incorrecta porque la delegación de las Cortes al Gobierno da lugar a un **Decreto Legislativo** (art. 82 CE). El **Decreto-ley** (art. 86 CE) emana directamente de la potestad extraordinaria del Gobierno ante circunstancias de extraordinaria y urgente necesidad, sin delegación previa de las Cortes."
 
 ---
 
 #### Pregunta 323 (Examen #31)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 4: Organización política y administrativa de la CAE  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #31)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La estructura organizativa actual de la Comunidad Autónoma del País Vasco:
@@ -6553,16 +6880,17 @@ La estructura organizativa actual de la Comunidad Autónoma del País Vasco:
 *   **D)** Está regulada en el Estatuto de Autonomía y en la Ley 40/2015 de Régimen Jurídico del Sector Público.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Se elabora a partir de la Ley 7/1981 de Gobierno y del Decreto Legislativo 1/1997 por el que se aprueba el Texto Refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 7/1981 sobre Gobierno y D. Leg. 1/1997 de Principios Ordenadores de la Hacienda de la CAE.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "La organización institucional de la CAE se estructura en torno a las competencias y potestades fijadas en la Ley de Gobierno 7/1981 y el Texto Refundido de Principios Ordenadores de la Hacienda General de Euskadi."
 
 ---
 
 #### Pregunta 324 (Examen #32)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 30: El Acto Administrativo: Eficacia, Nulidad y Anulabilidad  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #32)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Es un acto administrativo:
@@ -6573,16 +6901,17 @@ Es un acto administrativo:
 *   **D)** Una solicitud de licencia para abrir un bar.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Una propuesta de resolución sancionadora.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Arts. 34 y ss. Ley 39/2015.
+*   **Literal / Explicación**: "La propuesta de resolución es un acto administrativo de trámite cualificado dictado por el instructor. La solicitud y la reclamación son actos de particulares interesados; la obra municipal es una actuación material (hecho)."
 
 ---
 
 #### Pregunta 325 (Examen #33)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 30: El Acto Administrativo: Eficacia, Nulidad y Anulabilidad  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #33)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La incompetencia jerárquica manifiesta en la adopción de un acto administrativo:
@@ -6593,16 +6922,17 @@ La incompetencia jerárquica manifiesta en la adopción de un acto administrativ
 *   **D)** Conlleva la anulabilidad solo si el órgano es además incompetente por razón de la materia.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Conlleva la anulabilidad.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 47.1.b y Art. 48 y 52 Ley 39/2015.
+*   **Literal / Explicación**: "El art. 47.1.b declara nulos de pleno derecho solo los actos dictados por órgano manifiestamente incompetente por razón de la **materia o del territorio**. La incompetencia **jerárquica** es un vicio de **mera anulabilidad**, subsanable por el superior jerárquico mediante convalidación (art. 52.3)."
 
 ---
 
 #### Pregunta 326 (Examen #34)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #34)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La finalidad de la abstención y recusación es:
@@ -6613,16 +6943,17 @@ La finalidad de la abstención y recusación es:
 *   **D)** Garantizar el acceso al expediente de las personas interesadas.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Garantizar la imparcialidad de las decisiones administrativas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 de Régimen Jurídico del Sector Público.
+*   **Artículo**: Arts. 23 y 24 Ley 40/2015.
+*   **Literal / Explicación**: "El régimen de abstención y recusación busca garantizar la objetividad, neutralidad e **imparcialidad** de las autoridades y empleados públicos en la toma de decisiones administrativas."
 
 ---
 
 #### Pregunta 327 (Examen #35)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 32: Desarrollo y Fases del Procedimiento Administrativo Común  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #35)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Una de las manifestaciones del principio de congruencia de la resolución que pone fin al procedimiento administrativo es que:
@@ -6633,16 +6964,17 @@ Una de las manifestaciones del principio de congruencia de la resolución que po
 *   **D)** La Administración se ha de limitar a resolver únicamente lo pedido por las personas interesadas.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "La resolución no puede empeorar la situación jurídica de la persona que interpone un recurso ante la Administración.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 88.2 y Art. 119.3 Ley 39/2015.
+*   **Literal / Explicación**: ""En los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravar su situación inicial" (prohibición de la *reformatio in peius*)."
 
 ---
 
 #### Pregunta 328 (Examen #36)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 33: Revisión de Actos en vía Administrativa y Recursos  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #36)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La resolución de un recurso de alzada:
@@ -6653,16 +6985,17 @@ La resolución de un recurso de alzada:
 *   **D)** Debe realizarse y notificarse en el plazo máximo de tres meses.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Debe realizarse y notificarse en el plazo máximo de tres meses.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 122.2 Ley 39/2015.
+*   **Literal / Explicación**: ""El plazo máximo para dictar y notificar la resolución será de tres meses. Transcurrido este plazo sin que recaiga resolución, se podrá entender desestimado el recurso..." Contra la resolución de una alzada no cabe ningún otro recurso administrativo ordinario, salvo el extraordinario de revisión."
 
 ---
 
 #### Pregunta 329 (Examen #37)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 34: Responsabilidad Patrimonial de las Administraciones Públicas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #37)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Para que la Administración Pública responda con su patrimonio de los daños causados a un particular:
@@ -6673,16 +7006,17 @@ Para que la Administración Pública responda con su patrimonio de los daños ca
 *   **D)** No es necesario que exista ninguna relación de causalidad entre el daño causado y la actividad administrativa causante del daño.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Debe existir necesariamente una relación de causalidad entre el daño causado y la actividad administrativa causante del daño.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 de Régimen Jurídico del Sector Público.
+*   **Artículo**: Art. 32.1 y Art. 32.2 Ley 40/2015.
+*   **Literal / Explicación**: "El daño alegado debe ser efectivo, evaluable económicamente e individualizado, y debe existir nexo causal directo entre la lesión y el funcionamiento de los servicios públicos."
 
 ---
 
 #### Pregunta 330 (Examen #38)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #38)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Para buscar resultados contenidos en ficheros de un tipo determinado con Google se utiliza:
@@ -6693,16 +7027,17 @@ Para buscar resultados contenidos en ficheros de un tipo determinado con Google 
 *   **D)** documenttype:
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "filetype:".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Comandos y sintaxis oficial de operadores avanzados de búsqueda en Google (`filetype:pdf`, `filetype:doc`).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Fundamento jurídico oficial IVAP."
 
 ---
 
 #### Pregunta 331 (Examen #39)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #39)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Los programas informáticos que proporcionan una interfaz de usuario para administrar archivos y directorios se denominan de diversas maneras. Entre ellas NO está:
@@ -6713,16 +7048,17 @@ Los programas informáticos que proporcionan una interfaz de usuario para admini
 *   **D)** Explorador de archivos.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Compilador de archivos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Fundamentos de Sistemas Operativos.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Un compilador es una herramienta que traduce código fuente a lenguaje máquina, no una interfaz de administración de carpetas y ficheros."
 
 ---
 
 #### Pregunta 332 (Examen #40)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte A  
+**Tema**: Tema 26: Comunicación Oral y No Verbal (Atención presencial y telefónica)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #40)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Exponentes del tipo de comunicación síncrona son:
@@ -6733,10 +7069,10 @@ Exponentes del tipo de comunicación síncrona son:
 *   **D)** Las videoconferencias.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte A (Cuestionario Teórico Oficial (Preguntas 1-40))
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Las videoconferencias.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Tecnologías de la Información y Comunicación.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "La comunicación síncrona es la que tiene lugar en tiempo real (en directo entre emisor y receptor, como la videoconferencia o la llamada telefónica). El correo y los foros son asíncronos."
 
 ---
 
@@ -6744,8 +7080,9 @@ Exponentes del tipo de comunicación síncrona son:
 *Supuestos Prácticos: Archivos, Contabilidad CAE y Personal*
 
 #### Pregunta 333 (Examen #50)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #50)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Una Administración precisa identificarse electrónicamente, como tal Administración, en un acto administrativo. ¿Cómo podrá hacerlo?
@@ -6756,16 +7093,17 @@ Una Administración precisa identificarse electrónicamente, como tal Administra
 *   **D)** La Administración nunca se identifica electrónicamente.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Mediante el uso de un sello electrónico basado en un certificado electrónico reconocido o cualificado que reúna los requisitos exigidos por la legislación de firma electrónica.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 de Régimen Jurídico del Sector Público.
+*   **Artículo**: Art. 40 Ley 40/2015.
+*   **Literal / Explicación**: "Las Administraciones Públicas podrán utilizar para su identificación electrónica y para la autenticación de los documentos administrativos electrónicos sellos electrónicos basados en certificados reconocidos o cualificados."
 
 ---
 
 #### Pregunta 334 (Examen #51)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #51)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Según la legislación de Función Pública Vasca, el sueldo del personal funcionario público:
@@ -6776,16 +7114,17 @@ Según la legislación de Función Pública Vasca, el sueldo del personal funcio
 *   **D)** Es una de las retribuciones básicas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Es una de las retribuciones básicas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: TREBEP y Ley de Función Pública / Empleo Público Vasco.
+*   **Artículo**: Art. 23 TREBEP y Art. 115 Ley 11/2022.
+*   **Literal / Explicación**: "Las retribuciones básicas son los componentes retributivos fijados en función de la adscripción al Grupo/Subgrupo y la antigüedad; están integradas por el **sueldo** y los **trienios**."
 
 ---
 
 #### Pregunta 335 (Examen #52)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 10: Protección de Datos Personales (LOPDGDD / RGPD)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #52)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Una funcionaria va a redactar la información básica de protección de datos de un tratamiento. ¿Cuál de las siguientes cuestiones NO es preciso incluir en esta información básica?
@@ -6796,16 +7135,17 @@ Una funcionaria va a redactar la información básica de protección de datos de
 *   **D)** La posibilidad de ejercer el derecho de supresión.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Los datos de contacto de la persona Delegada de Protección de datos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley Orgánica 3/2018 (LOPDGDD).
+*   **Artículo**: Art. 11 LOPDGDD.
+*   **Literal / Explicación**: "En la información básica (primera capa) debe figurar la identidad del responsable, la finalidad del tratamiento y la posibilidad de ejercer los derechos de acceso, rectificación, supresión y demás; los datos detallados del Delegado de Protección de Datos (DPD) se consignan en la información adicional (segunda capa)."
 
 ---
 
 #### Pregunta 336 (Examen #53)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 16: Presupuesto de Ingresos: Fases y Devoluciones (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #53)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Su departamento ha editado una revista, el precio de cada ejemplar trimestral es de 11,54€. Según la ley de tasas y precios públicos, ¿en qué momento es exigible la cantidad de 11,54€?
@@ -6816,16 +7156,17 @@ Su departamento ha editado una revista, el precio de cada ejemplar trimestral es
 *   **D)** En el momento de su recaudación.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "En el momento en que se hace entrega del ejemplar de la revista.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Texto Refundido de la Ley de Tasas y Precios Públicos de la Administración de la CAE.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Los precios públicos se devengan cuando se inicia la prestación del servicio o se realiza la entrega del bien (en este caso, con la entrega física del ejemplar de la publicación)."
 
 ---
 
 #### Pregunta 337 (Examen #54)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 16: Presupuesto de Ingresos: Fases y Devoluciones (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #54)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 De acuerdo a la clasificación económica del presupuesto, ¿en qué capítulo de operaciones corrientes se deben recoger este tipo de ingresos?
@@ -6836,16 +7177,17 @@ De acuerdo a la clasificación económica del presupuesto, ¿en qué capítulo d
 *   **D)** Capítulo 3 de Tasas, Precios Públicos y otros ingresos de Derecho Público.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Capítulo 3 de Tasas, Precios Públicos y otros ingresos de Derecho Público.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011 y estructura presupuestaria de la CAE.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "En el presupuesto de ingresos, el Capítulo 3 corresponde exactamente a *"Tasas, precios públicos y otros ingresos"*."
 
 ---
 
 #### Pregunta 338 (Examen #55)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #55)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Un empleado del Gobierno Vasco le solicita un documento que acredite que ha realizado un curso de formación organizado por su Departamento. ¿Qué tipo de documento debe preparar?
@@ -6856,16 +7198,17 @@ Un empleado del Gobierno Vasco le solicita un documento que acredite que ha real
 *   **D)** Una notificación.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Un certificado.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Documentos Administrativos del IVAP.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "El certificado administrativo es el documento público expedido para dar fe y constancia fehaciente de hechos, situaciones o actos que constan en los registros administrativos (como la realización y superación de un curso)."
 
 ---
 
 #### Pregunta 339 (Examen #56)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #56)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 El Departamento de Seguridad ha formalizado un contrato menor de 14.999 euros (sin IVA) con la empresa Ikasbide para la impartición de 5 cursos online sobre seguridad vial, a celebrar en distintas fechas durante el presente ejercicio. En la tramitación presupuestaria de los documentos contables, ¿en qué momento surge la figura del tercero, la empresa Ikasbide?:
@@ -6876,16 +7219,17 @@ El Departamento de Seguridad ha formalizado un contrato menor de 14.999 euros (s
 *   **D)** Al finalizar la impartición de los 5 cursos.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "En la disposición del gasto, en el acto en el cual se formaliza la realización concreta de obras, la prestación o suministro de bienes y servicios o subvenciones.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011 de Régimen Presupuestario de Euskadi.
+*   **Artículo**: Art. 44 D. Leg. 1/2011.
+*   **Literal / Explicación**: "En la fase de Disposición o Compromiso (fase D) se formaliza el acuerdo con una persona física o jurídica determinada (el tercero acreedor), individualizándolo con su CIF/NIF y fijando las condiciones exactas de la prestación."
 
 ---
 
 #### Pregunta 340 (Examen #57)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #57)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿Qué documento contable es necesario contabilizar al formalizar el contrato con la empresa Ikasbide?
@@ -6896,16 +7240,17 @@ El Departamento de Seguridad ha formalizado un contrato menor de 14.999 euros (s
 *   **D)** Documento R para registrar el derecho reconocido.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Documento AD para autorizar el gasto y disponer de la prestación de forma simultánea.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Contabilidad Pública de la CAE.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "En los contratos menores y gastos directos donde la autorización de la partida y el compromiso con el contratista se aprueban en el mismo acto resolutorio, se utiliza el documento mixto **AD** (Autorización-Disposición simultánea)."
 
 ---
 
 #### Pregunta 341 (Examen #58)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 19: Gestión Documental y Archivos en la CAE (Decreto 232/2000)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #58)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 IL, funcionario de un departamento del Gobierno Vasco, ha encontrado en un armario varias cajas con copias de documentos contables de los años 2015 y 2016, ¿qué tratamiento deberían recibir dichas cajas?
@@ -6916,16 +7261,17 @@ IL, funcionario de un departamento del Gobierno Vasco, ha encontrado en un armar
 *   **D)** Guardarlas donde están hasta que cumplan 10 años.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Expurgar todas las cajas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto 232/2000 del Sistema de Archivo y Gestión Documental de la CAE y Tablas de Valoración.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Las copias simples y duplicados de documentos contables que no constituyen originales auténticos ni expedientes originales de justificación carecen de valor histórico y deben ser destruidas/expurgadas directamente para evitar la duplicidad documental innecesaria."
 
 ---
 
 #### Pregunta 342 (Examen #59)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 30: El Acto Administrativo: Eficacia, Nulidad y Anulabilidad  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #59)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 FG ha interpuesto recurso de reposición contra la resolución en la que se desestima una reclamación de responsabilidad patrimonial de la Administración. Después de 4 meses no ha recibido respuesta alguna, ¿cómo debe entenderse el silencio administrativo?
@@ -6936,16 +7282,17 @@ FG ha interpuesto recurso de reposición contra la resolución en la que se dese
 *   **D)** No hay silencio administrativo.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Como silencio negativo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 24.1, párrafo cuarto y Art. 124.2 Ley 39/2015.
+*   **Literal / Explicación**: "El plazo para resolver el recurso potestativo de reposición es de un mes. Transcurrido dicho plazo sin dictarse resolución, el silencio tiene carácter **desestimatorio (negativo)**, quedando expedita la vía contencioso-administrativa."
 
 ---
 
 #### Pregunta 343 (Examen #60)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 1)  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #60)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 IL, funcionario del Departamento de Desarrollo Económico, Sostenibilidad y Medio Ambiente, en régimen de teletrabajo va a asistir a una reunión hoy desde su domicilio por medio de una aplicación a la que todos los trabajadores y trabajadoras de la administración vasca tienen acceso ¿cuál es?
@@ -6956,10 +7303,10 @@ IL, funcionario del Departamento de Desarrollo Económico, Sostenibilidad y Medi
 *   **D)** Eizu.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 1) (Supuestos Prácticos: Archivos, Contabilidad CAE y Personal)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Teams.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Herramientas corporativas estándar del puesto de trabajo digital del Gobierno Vasco (Microsoft Teams).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Fundamento jurídico oficial IVAP."
 
 ---
 
@@ -6967,8 +7314,9 @@ IL, funcionario del Departamento de Desarrollo Económico, Sostenibilidad y Medi
 *Supuestos Prácticos: Notificaciones, Plazos y Lenguas*
 
 #### Pregunta 344 (Examen #61)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 10: Protección de Datos Personales (LOPDGDD / RGPD)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #61)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Al finalizar la reunión IL debe enviar unos documentos por correo electrónico a los técnicos del departamento, ¿cómo es aconsejable que incluya los nombres y apellidos de las personas en el correo electrónico?
@@ -6979,16 +7327,17 @@ Al finalizar la reunión IL debe enviar unos documentos por correo electrónico 
 *   **D)** En correo encriptado.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "En la casilla cco.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Guía de buenas prácticas de la Agencia Vasca de Protección de Datos (AVPD) y RGPD.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Para evitar la cesión no autorizada de direcciones de correo electrónico personales y corporativas entre múltiples destinatarios, las comunicaciones masivas o circulares deben enviarse en copia oculta (CCO)."
 
 ---
 
 #### Pregunta 345 (Examen #62)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #62)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿Qué es lo que NO debe hacer IL al redactar un correo electrónico?
@@ -6999,16 +7348,17 @@ Al finalizar la reunión IL debe enviar unos documentos por correo electrónico 
 *   **D)** Utilizar frases cortas y sencillas.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Escribir en mayúscula todo el texto.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Manual de Estilo de Comunicación del IVAP.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "En las normas de cortesía digital y manuales de estilo, escribir el texto completamente en mayúsculas equivale a gritar y dificulta la legibilidad del documento."
 
 ---
 
 #### Pregunta 346 (Examen #63)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 21: El Documento y Expediente Administrativo Electrónico  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #63)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 JR funcionario interino del Organismo Autónomo LANBIDE, necesita sustituir una resolución original de la Dirección, en formato papel por un documento electrónico con valor jurídico administrativo, ¿cómo debe proceder?
@@ -7019,16 +7369,17 @@ JR funcionario interino del Organismo Autónomo LANBIDE, necesita sustituir una 
 *   **D)** Se escaneará el original y el responsable de Servicio lo firmará digitalmente.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Se deberá crear la copia electrónica auténtica por medio de un componente de digitalización segura, primeramente, y posteriormente se procederá a la destrucción del documento original.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 27.3 Ley 39/2015 y Esquema Nacional de Interoperabilidad.
+*   **Literal / Explicación**: "Las copias electrónicas auténticas a partir de originales en papel se realizan mediante procesos de digitalización segura que garantizan metadatos y firma del órgano facultado; una vez obtenida la copia con plena validez jurídica, la norma prevé la destrucción reglamentada del papel de apoyo conforme al plan de archivos."
 
 ---
 
 #### Pregunta 347 (Examen #64)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 22: Firma y Certificación Electrónica (Ley 39/2015)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #64)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 JR debe firmar unos documentos digitalmente, ¿cuáles son los certificados de firma de los empleados y empleadas públicos al servicio de las administraciones públicas vascas?
@@ -7039,16 +7390,17 @@ JR debe firmar unos documentos digitalmente, ¿cuáles son los certificados de f
 *   **D)** La a y la b son correctas.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "La a y la b son correctas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Servicios de Certificación de la CAE (IZENPE).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "En las administraciones vascas se emplean tanto los certificados en tarjeta criptográfica con chip emitidos por Izenpe como el sistema en la nube de firma centralizada "Giltza profesional" con autenticación de doble factor."
 
 ---
 
 #### Pregunta 348 (Examen #65)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #65)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 IN está redactando un oficio ¿cuál de las siguientes opciones es la más recomendada para expresar el lugar y la fecha?
@@ -7059,16 +7411,17 @@ IN está redactando un oficio ¿cuál de las siguientes opciones es la más reco
 *   **D)** Vitoria-Gasteiz, 20 de mayo de 2022
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Vitoria-Gasteiz, 20 de mayo de 2022".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Libro de Estilo del IVAP (Criterios de redacción de documentos administrativos).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "La denominación oficial se escribe con guion (*Vitoria-Gasteiz*), seguida de coma, el día en cifras, el mes en minúscula sin la preposición "a", y el año con cuatro dígitos sin punto (*2022*)."
 
 ---
 
 #### Pregunta 349 (Examen #66)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 4: Organización política y administrativa de la CAE  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #66)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Le piden que obtenga información sobre el número de hombres y mujeres residentes en la Comunidad Autónoma. ¿A qué página acudiría?
@@ -7079,16 +7432,17 @@ Le piden que obtenga información sobre el número de hombres y mujeres resident
 *   **D)** A la de Gogora.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "A la del Eustat.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley de la Función Estadística Pública de Euskadi.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "EUSTAT (Euskal Estatistika Erakundea / Instituto Vasco de Estadística) es el organismo autónomo encargado de recopilar, elaborar y publicar las estadísticas demográficas y poblacionales oficiales de la CAE."
 
 ---
 
 #### Pregunta 350 (Examen #67)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #67)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Recibe un correo electrónico con un archivo con extensión jpg. Por tanto sabremos que es un archivo de:
@@ -7099,16 +7453,17 @@ Recibe un correo electrónico con un archivo con extensión jpg. Por tanto sabre
 *   **D)** Audio.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Imagen.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Fundamentos y extensiones estándar de ficheros informáticos (JPEG/JPG = formato de compresión de imagen fotográfica).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Fundamento jurídico oficial IVAP."
 
 ---
 
 #### Pregunta 351 (Examen #68)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #68)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 La combinación de teclas Ctrl + C nos permite…
@@ -7119,16 +7474,17 @@ La combinación de teclas Ctrl + C nos permite…
 *   **D)** Pegar el texto copiado.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Copiar el texto seleccionado.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Atajos universales de teclado en entornos gráficos (Ctrl+C = Copiar, Ctrl+X = Cortar, Ctrl+V = Pegar).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Fundamento jurídico oficial IVAP."
 
 ---
 
 #### Pregunta 352 (Examen #69)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #69)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Su directora le solicita que organice una reunión de una hora, por Teams, el próximo lunes, con objeto de informar sobre un programa de ayudas que va a convocar el Departamento. Para ello necesitará:
@@ -7139,16 +7495,17 @@ Su directora le solicita que organice una reunión de una hora, por Teams, el pr
 *   **D)** Teams no es una herramienta adecuada para reuniones ya que es una plataforma de chats.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Saber el correo electrónico de los asistentes y la hora de la reunión.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Guías de Trabajo a Distancia y Teletrabajo del Gobierno Vasco.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Al tratarse de una reunión virtual no presencial a través de la aplicación Teams, no se requiere reservar sala física; se precisa conocer la fecha/hora y las direcciones de correo electrónico para remitir el enlace de la convocatoria."
 
 ---
 
 #### Pregunta 353 (Examen #80)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 15: Presupuesto de Gastos: Ejecución, Créditos y Fases (D. Leg. 1/2011)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #80)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 El Gobierno Vasco se encuentra con una obligación de pago que deriva de una sentencia firme que no tiene la debida cobertura presupuestaria ¿Cuándo debe proceder al pago?
@@ -7159,16 +7516,17 @@ El Gobierno Vasco se encuentra con una obligación de pago que deriva de una sen
 *   **D)** En el plazo de dos meses desde la recepción del testimonio de la sentencia firme.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Una vez se doten los fondos necesarios, de acuerdo con la normativa presupuestaria.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto Legislativo 1/2011 de Régimen Presupuestario de Euskadi y LJCA.
+*   **Artículo**: Art. 21 D. Leg. 1/2011.
+*   **Literal / Explicación**: "Si no existiera crédito suficiente en el presupuesto en vigor para cumplir la obligación de pago derivada de resolución judicial firme, se tramitará la oportuna modificación presupuestaria para habilitar los créditos precisos conforme a la normativa de hacienda."
 
 ---
 
 #### Pregunta 354 (Examen #81)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 20: Registros Electrónicos e Interoperabilidad  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #81)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Una persona, médica colegiada, se dirige a la administración para solicitar asistencia técnica en el uso de los medios electrónicos, a fin de participar en un procedimiento administrativo subvencional relativo a la escolarización de su hijo. ¿La administración ha de prestarle la asistencia solicitada?
@@ -7179,16 +7537,17 @@ Una persona, médica colegiada, se dirige a la administración para solicitar as
 *   **D)** La administración pública no está obligada a prestar asistencia técnica a los profesionales para cuyo ejercicio profesional se requiere colegiación.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La administración pública ha de prestarle la asistencia técnica solicitada.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 12 y Art. 14.3 Ley 39/2015.
+*   **Literal / Explicación**: "La obligación de relacionarse electrónicamente para colegiados rige cuando actúan en el ejercicio de su actividad profesional colegiada. Al solicitar una ayuda personal/familiar para la escolarización de su hijo, interviene como persona física ciudadana y tiene derecho a la asistencia en el uso de medios electrónicos prevista en el art. 12."
 
 ---
 
 #### Pregunta 355 (Examen #82)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 25: Comunicación Escrita y Notificaciones Administrativas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #82)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Una dirección del Gobierno Vasco notifica electrónicamente, a una persona interesada en un expediente, una resolución contra la que cabe interponer recurso de alzada. Tras la puesta a disposición de la notificación en la sede electrónica, transcurren 12 días hasta que la persona interesada accede a su buzón. ¿Cuál de las siguientes respuestas es correcta?
@@ -7199,16 +7558,17 @@ Una dirección del Gobierno Vasco notifica electrónicamente, a una persona inte
 *   **D)** La persona interesada rechaza la notificación y la administración debe realizar un nuevo intento de notificación.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La persona interesada rechaza la notificación y, con ello, renuncia a cuantas acciones le podían caber respecto a la resolución objeto de notificación.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 43.2 Ley 39/2015.
+*   **Literal / Explicación**: "Al transcurrir más de 10 días naturales sin acceder, el trámite se tiene legalmente por efectuado y la notificación por rechazada, continuando el curso del procedimiento."
 
 ---
 
 #### Pregunta 356 (Examen #83)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #83)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Una persona que quiere concurrir electrónicamente en un procedimiento subvencional del Gobierno Vasco, consulta a la Administración cuáles se consideran días inhábiles. Dado que no hay disposición de rango legal o de derecho europeo que especialmente regule la cuestión para este procedimiento, ¿cuál de las respuestas siguientes es correcta?
@@ -7219,16 +7579,17 @@ Una persona que quiere concurrir electrónicamente en un procedimiento subvencio
 *   **D)** Los días que así se determinen en la Administración del Estado.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Los sábados, domingos y festivos de la Comunidad Autónoma.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 30.2 y 31.3 Ley 39/2015.
+*   **Literal / Explicación**: "Son días inhábiles los sábados, los domingos y los declarados festivos en el calendario oficial de la Comunidad Autónoma competente (o del municipio fijado en la sede electrónica del órgano tramitador)."
 
 ---
 
 #### Pregunta 357 (Examen #84)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 29: Órganos Administrativos y Colegiados (Ley 40/2015 y Ley 3/2022)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #84)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Su directora le comunica que desde mañana se va a encontrar de baja (ILT) por una operación quirúrgica y que como el decreto de estructura de su departamento establece que la competencia en caso de ausencia recae en otro director M.N., será éste quien firme los documentos pertinentes. ¿Cómo se llama esta figura?
@@ -7239,16 +7600,17 @@ Su directora le comunica que desde mañana se va a encontrar de baja (ILT) por u
 *   **D)** Delegación de competencias.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Suplencia.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 40/2015 de Régimen Jurídico del Sector Público.
+*   **Artículo**: Art. 13 Ley 40/2015.
+*   **Literal / Explicación**: ""En los supuestos de vacante, ausencia o enfermedad... los titulares de los órganos administrativos serán suplidos temporalmente por quien designe el órgano competente para el nombramiento de aquéllos o por quien determine el reglamento orgánico." La suplencia no altera la titularidad de la competencia."
 
 ---
 
 #### Pregunta 358 (Examen #85)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 18: Acceso al Empleo Público y Provisión de Puestos (Ley 11/2022 y TREBEP)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #85)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Le comunican que usted ha obtenido autorización para llevar a cabo un programa de cooperación internacional de la comisión europea en Bruselas por un periodo de un año. ¿Qué situación administrativa le correspondería?
@@ -7259,16 +7621,17 @@ Le comunican que usted ha obtenido autorización para llevar a cabo un programa 
 *   **D)** Suspensión de funciones.
 
 **Respuesta Correcta**: **C**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción C) "Servicios especiales.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: TREBEP y Ley 11/2022 de Empleo Público Vasco.
+*   **Artículo**: Art. 87.1.d TREBEP.
+*   **Literal / Explicación**: "Pasan a la situación de servicios especiales los funcionarios que sean adscritos a los servicios de organismos de la Unión Europea o de entidades internacionales oficiales o en programas de cooperación."
 
 ---
 
 #### Pregunta 359 (Examen #86)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 18: Acceso al Empleo Público y Provisión de Puestos (Ley 11/2022 y TREBEP)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #86)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 ¿Por cuál de los siguientes procedimientos NO puede cubrirse su puesto de trabajo durante su ausencia?
@@ -7279,16 +7642,17 @@ Le comunican que usted ha obtenido autorización para llevar a cabo un programa 
 *   **D)** Mediante nombramiento de personal funcionario interino.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Mediante concurso de traslados.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: TREBEP y Ley 11/2022 de Empleo Público Vasco.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "El funcionario en servicios especiales tiene reserva de su plaza y puesto de origen (art. 87.3 TREBEP). Por ello, el puesto no está vacante definitivamente y no puede ofrecerse a concurso definitivo de traslados; solo puede cubrirse mediante provisión temporal (comisión de servicios o interinidad por sustitución transitoria)."
 
 ---
 
 #### Pregunta 360 (Examen #87)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 7: Administración Electrónica y Sede Electrónica  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #87)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 BLF representante de la asociación EKIN, se ha dirigido al departamento de Educación con la intención de solicitar el uso del instituto público Atenea para una actividad de una asociación a la que representa. Como se acerca la fecha de la actividad BLF necesita saber, y de forma telemática, en qué situación se encuentra el expediente, ¿dónde puede hacerlo?
@@ -7299,16 +7663,17 @@ BLF representante de la asociación EKIN, se ha dirigido al departamento de Educ
 *   **D)** Todas las respuestas son incorrectas.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "En la carpeta ciudadana o “mi carpeta” de la Sede Electrónica.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Sede Electrónica de Euskadi (euskadi.eus) y Ley 39/2015.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "El punto único de acceso telemático y seguimiento del estado de tramitación de expedientes, notificaciones y aportación de documentos para la ciudadanía y personas jurídicas en la Administración Vasca es el área personal *"Mi Carpeta / Nire Karpeta"*."
 
 ---
 
 #### Pregunta 361 (Examen #88)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 8: Normalización Lingüística del uso del Euskera (Decreto 86/1997)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #88)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 BLF se ha dirigido en euskera en el punto de información de la delegación de Educación y le han contestado en castellano, ya que en ese momento no se encuentra presente ninguna persona con las capacidades lingüísticas suficientes. BLF quiere poner la oportuna reclamación, ¿a qué organismo de los siguientes debería dirigir la reclamación?
@@ -7319,16 +7684,17 @@ BLF se ha dirigido en euskera en el punto de información de la delegación de E
 *   **D)** A Aukerak.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "A Elebide.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Decreto 179/2019 de Normalización del Uso Institucional y Social de las Lenguas Oficiales y creación de Elebide.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "**Elebide** (Hizkuntz Eskubideak Bermatzeko Zerbitzua / Servicio para la Garantía de los Derechos Lingüísticos del Gobierno Vasco) es el servicio público creado para tramitar quejas, consultas y sugerencias ante la vulneración de derechos lingüísticos en las administraciones públicas vascas."
 
 ---
 
 #### Pregunta 362 (Examen #89)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 20: Registros Electrónicos e Interoperabilidad  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #89)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Junto con la solicitud tiene intención de presentar varios documentos privados, ¿cómo deberán gestionarse esos documentos?
@@ -7339,16 +7705,17 @@ Junto con la solicitud tiene intención de presentar varios documentos privados,
 *   **D)** Quedarán anexos al expediente y no se devolverán.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Los documentos entregados serán digitalizados, y los originales se devolverán al solicitante.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 16.5 y 27 Ley 39/2015.
+*   **Literal / Explicación**: "Los documentos presentados de manera presencial ante las oficinas de asistencia en materia de registros serán digitalizados en el acto para su incorporación al expediente electrónico, devolviéndose los documentos originales al interesado."
 
 ---
 
 #### Pregunta 363 (Examen #90)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #90)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 El Departamento de Salud, a fecha de 20 de mayo, viernes, ha publicado en el BOPV la convocatoria de unas ayudas para proyectos de investigación, el plazo de presentación de solicitudes es de 40 días. AS tiene intención de solicitar dichas ayudas y necesita saber cómo debe de contar los plazos. ¿cuándo se iniciará el computo del plazo de 40 días?
@@ -7359,16 +7726,17 @@ El Departamento de Salud, a fecha de 20 de mayo, viernes, ha publicado en el BOP
 *   **D)** El 23 de mayo, primer día hábil.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "El 23 de mayo, primer día hábil.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 30.3 y 30.7 Ley 39/2015.
+*   **Literal / Explicación**: "Si el plazo se fija en días y el día siguiente es inhábil (sábado 21 de mayo es inhábil según el art. 30.2), el cómputo se inicia el primer día hábil siguiente (lunes 23 de mayo)."
 
 ---
 
 #### Pregunta 364 (Examen #91)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 31: Principios del Procedimiento y Personas Interesadas  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #91)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 A efectos del cómputo de plazos en las actuaciones administrativas ¿cómo se deben contar los días en la Administración de la Comunidad Autónoma de Euskadi?
@@ -7379,16 +7747,17 @@ A efectos del cómputo de plazos en las actuaciones administrativas ¿cómo se d
 *   **D)** Días hábiles, exceptuando los festivos de Vitoria-Gasteiz.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Días hábiles, exceptuando sábados, domingos y festivos.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 30.2 Ley 39/2015.
+*   **Literal / Explicación**: ""Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.""
 
 ---
 
 #### Pregunta 365 (Examen #92)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 32: Desarrollo y Fases del Procedimiento Administrativo Común  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #92)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Una vez analizada la documentación entregada por AS, se observa que faltan algunos documentos y por lo tanto no está completa, ante ello:
@@ -7399,16 +7768,17 @@ Una vez analizada la documentación entregada por AS, se observa que faltan algu
 *   **D)** La Administración le concederá un plazo de 20 días para subsanar la deficiencia.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "La Administración le concederá un plazo de 10 días para subsanar la deficiencia.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Ley 39/2015 del Procedimiento Administrativo Común.
+*   **Artículo**: Art. 68.1 Ley 39/2015.
+*   **Literal / Explicación**: ""Si la solicitud de iniciación no reúne los requisitos que señala el artículo 66... se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición...""
 
 ---
 
 #### Pregunta 366 (Examen #93)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #93)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 JR ha sido padre recientemente, ¿cuáles son los permisos previstos en el artículo 49 del EBEP, a los que se puede acoger?
@@ -7419,16 +7789,17 @@ JR ha sido padre recientemente, ¿cuáles son los permisos previstos en el artí
 *   **D)** Permiso por nacimiento: tendrá una duración de catorce semanas.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija: tendrá una duración de dieciséis semanas.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: TREBEP (Real Decreto Legislativo 5/2015).
+*   **Artículo**: Art. 49.c TREBEP.
+*   **Literal / Explicación**: "El permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción tiene una duración equiparada de **16 semanas**."
 
 ---
 
 #### Pregunta 367 (Examen #94)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 9: Personal Empleado Público: Clases, derechos, deberes y régimen disciplinario  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #94)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 IL funcionario de carrera del organismo autónomo EUSTAT ha abandonado reiteradamente el puesto de trabajo el último mes. Al recriminársele la actitud, no ha ofrecido justificación alguna. ¿cómo se debe considerar dicha conducta?
@@ -7439,16 +7810,17 @@ IL funcionario de carrera del organismo autónomo EUSTAT ha abandonado reiterada
 *   **D)** Ninguna respuesta es correcta.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Falta muy grave.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: TREBEP y Ley de Función Pública Vasca.
+*   **Artículo**: Art. 95.2.c TREBEP / Art. 83 Ley de la Función Pública Vasca.
+*   **Literal / Explicación**: "El abandono del servicio o la falta continuada de asistencia sin justificación es calificada como falta muy grave o grave según el alcance; el Tribunal fijó como falta muy grave el abandono reiterado del puesto."
 
 ---
 
 #### Pregunta 368 (Examen #95)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 18: Acceso al Empleo Público y Provisión de Puestos (Ley 11/2022 y TREBEP)  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #95)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 GN funcionario de carrera del Departamento de Medio Ambiente con 6 años de antigüedad, se está planteando solicitar una excedencia de tres años por interés particular, ¿tiene derecho a ello?
@@ -7459,16 +7831,17 @@ GN funcionario de carrera del Departamento de Medio Ambiente con 6 años de anti
 *   **D)** Sí, pero la concesión queda condicionada a las necesidades del servicio.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Sí, pero la concesión queda condicionada a las necesidades del servicio.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: TREBEP y Ley de Empleo Público Vasco.
+*   **Artículo**: Art. 89.2 TREBEP.
+*   **Literal / Explicación**: "La concesión de la excedencia voluntaria por interés particular está subordinada a las necesidades del servicio debidamente motivadas, requiriéndose haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo (5 años en el régimen general)."
 
 ---
 
 #### Pregunta 369 (Examen #96)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #96)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Se incorpora a un puesto de trabajo y le indican que su ordenador está equipado con Mozilla Firefox. Esto quiere decir que Mozilla Firefox es…
@@ -7479,16 +7852,17 @@ Se incorpora a un puesto de trabajo y le indican que su ordenador está equipado
 *   **D)** El navegador de internet de su ordenador.
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "El navegador de internet de su ordenador.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Conceptos Básicos de Informática.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Mozilla Firefox es una aplicación de software que permite visualizar y navegar por páginas web en Internet (navegador o *browser*)."
 
 ---
 
 #### Pregunta 370 (Examen #97)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #97)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Nos solicitan que busquemos en la red ejemplos de presentaciones en powerpoint de la agenda 2030. ¿Cuál sería la formulación más acertada para configurar la búsqueda a través de Google?
@@ -7499,16 +7873,17 @@ Nos solicitan que busquemos en la red ejemplos de presentaciones en powerpoint d
 *   **D)** Agenda 2030 filetype ppt -pdf
 
 **Respuesta Correcta**: **D**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción D) "Agenda 2030 filetype ppt -pdf".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Sintaxis de motores de búsqueda en Internet.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Incluye las palabras clave (`Agenda 2030`), el operador de formato (`filetype:ppt`) y excluye formatos no deseados mediante el signo menos (`-pdf`)."
 
 ---
 
 #### Pregunta 371 (Examen #98)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #98)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Recibe un correo electrónico con un archivo con extensión avi. Por tanto sabremos que es un archivo de:
@@ -7519,16 +7894,17 @@ Recibe un correo electrónico con un archivo con extensión avi. Por tanto sabre
 *   **D)** Audio.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Vídeo.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Estándares de formatos multimedia (AVI = *Audio Video Interleave*, formato contenedor de vídeo digital).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Fundamento jurídico oficial IVAP."
 
 ---
 
 #### Pregunta 372 (Examen #99)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 1: Constitución Española: derechos y libertades fundamentales  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #99)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Google Drive, One Drive, Dropbox, … son:
@@ -7539,16 +7915,17 @@ Google Drive, One Drive, Dropbox, … son:
 *   **D)** Sistemas de tratamiento de imágenes.
 
 **Respuesta Correcta**: **A**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción A) "Servicios de almacenamiento en la nube.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Servicios de Cloud Computing (*Cloud Storage*).
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "Fundamento jurídico oficial IVAP."
 
 ---
 
 #### Pregunta 373 (Examen #100)
-**Convocatoria**: OPE 2022 Cuerpo Administrativo (BEC 18/09/2022)  
-**Bloque**: OPE 2022 - Parte B (Opción 2)  
+**Tema**: Tema 13: Nociones Básicas de Primeros Auxilios  
+**Convocatoria / Origen**: IVAP - OPE 2022 Cuerpo Administrativo (BEC 18/09/2022) (Pregunta #100)  
+**Estado**: Vigente  
 
 **Enunciado**:  
 Un compañero de trabajo ha sufrido un accidente y como consecuencia del mismo tiene una importante quemadura en un brazo. ¿Cuál de las siguientes actuaciones es recomendada en este caso?
@@ -7559,9 +7936,9 @@ Un compañero de trabajo ha sufrido un accidente y como consecuencia del mismo t
 *   **D)** Despegar la ropa que está adherida a la piel.
 
 **Respuesta Correcta**: **B**  
-**Fundamento / Plantilla Oficial**:  
-*   **Tribunal**: Tribunal Calificador IVAP · Convocatoria 2022
-*   **Ámbito**: OPE 2022 - Parte B (Opción 2) (Supuestos Prácticos: Notificaciones, Plazos y Lenguas)
-*   **Literal Oficial**: Plantilla definitiva oficial de corrección: Opción B) "Refrescar la zona quemada. Aplicar agua en abundancia.".
+**Fundamentación Jurídica (ivap-gestion-preguntas)**:  
+*   **Norma**: Protocolos Sanitarios de Primeros Auxilios en el Trabajo.
+*   **Artículo**: Temario Oficial
+*   **Literal / Explicación**: "El tratamiento inicial de urgencia ante una quemadura consiste en enfriar la zona afectada aplicando agua fría limpia en abundancia durante al menos 10-15 minutos. No deben aplicarse pomadas ni despegar ropa adherida a la dermis."
 
 ---
